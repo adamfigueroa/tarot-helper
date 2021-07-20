@@ -370,8 +370,8 @@ const tarot = [
         reversed_meaning: "The Moon reversed indicates that you have been dealing with illusion, fears and anxiety, and now the negative influences of these energies are subsiding. You are working through your fears and anxieties, understanding the impact they have on your life and how you can free yourself from such limiting beliefs. This is a truly liberating and transformational experience./n You may try to bury these feelings even deeper within your subconscious so you can avoid your dark shadows. You may not be ready to face your emotions, pushing them to the side and pretending as if nothing is wrong. This strategy might work in the short-term, but eventually, you will need to resurface these emotions and deal with them head-on./n The Moon reversed can also show that you are receiving intuitive messages and psychic downloads but are struggling to understand what they mean for you. The message may be confusing, or your interpretation differs from what you read elsewhere. When the Moon is reversed, you are being called to listen to your inner voice, and not the voice of someone else. Trust that the answers you need are already within you, and tune in to your inner guidance system to hear those answers. Pay attention to your dreams and keep a dream diary because this is how many of your subconscious messages will be relayed to you. If you’re still stuck, record the messages you receive and come back to them later when you have more clarity.",
         keywords: ["Illusion", "Fear", "Anxiety", "Subconscious", "Intuition"],
         reversed_keywords: ["Release of fear", "Repressed emotion", "Inner confusion"],
-        upright_questions: [],
-        reversed_questions: [],
+        upright_questions: ["How can I face my fears and move forward?", "How can I deal with the unknown in healthy ways?"],
+        reversed_questions: ["What helps me listen to my inner voice?", "Are you aware of your shadow-self?"],
         past: "Your understanding of a past event may be distorted by your current perceptions. Reflect on your history and make sure the pieces fit together. By eliminating uncertainty, you will find more peace.",
         present: "There is a challenge approaching, taking the form of either a new creative project or a conflict in a relationship. Your history will reveal the best course of action.",
         future: "Your imagination will bring you success if your thoughts are coupled with practical action. The struggle to reach your potential may bring about many conflicts in your life, but the results will be beautiful.",
@@ -386,25 +386,445 @@ const tarot = [
         suit: "Trump",
         img: "../images/cards/m19.jpg",
         companion_cards: ["The Magician", "Wheel of Fortune"],
-        meaning: "",
-        reversed_meaning: "",
+        meaning: "The Sun represents success, radiance and abundance. The Sun gives you strength and tells you that no matter where you go or what you do, your positive and radiant energy will follow you and bring you happiness and joy. People are drawn to you because you can always see the bright side and bring such warmth into other people’s lives. This beautiful, warm energy is what will get you through the tough times and help you succeed. You are also in a position where you can share your highest qualities and achievements with others. Radiate who you are and what you stand for; shine your love on those you care about./n If you are going through a difficult time, the Sun brings you the message you have been waiting for: that things will get better, a lot better! Through the challenges along your path, you discovered who you are and why you’re here. Now you are full of energy and zeal for the future and can already perceive success and abundance flowing to you. You are brimming with confidence because you know everything will work out – it always does! Life is good!/n The Sun connects you to your power base – not fear-driven, egotistical power, but the abundant, inner energy radiating through you right now. You’ll sense it in your Solar Plexus chakra, calling you to express yourself authentically and be fully present in the world around you. You have what others want and are being asked to radiate your energy and your gifts out into the world in a big way. Tap into your power and use your Divine will to express that power in positive ways./n The Sun is also an energetic card. It reflects a time when you can expect to experience an increase in physical energy, vitality and general positivity. You are bursting with enthusiasm, invigorated and enjoying a wonderful sense of good health.",
+        reversed_meaning: "The reversed Sun is calling to your inner child to come out and play! As adults, we get so lost in the hustle and bustle of everyday life that we forget how to have fun. But spend just a few minutes watching a kid play, and you realise how wonderful and carefree life can be when you learn to let go of your worries and concerns. When you see the Sun reversed in your Tarot reading, see it as your permission slip to leave behind your work and responsibilities, even just for a moment, and play. Dance like no-one is watching, sing like no-one is listening, and let your heart and soul fly free./n The Sun reversed can mean you are struggling to see the bright side of life. You may have experienced setbacks that damaged your enthusiasm and optimism and perhaps led you to question whether you can achieve what you set out to do. You may feel depressed or left out and are no longer enjoying what you are doing. Your direction and path ahead may appear clouded or distorted./n Nonetheless, the Sun is never a negative card, so this is only temporary. The obstacles you see can be easily removed if you put your mind to it. It may just take a bit more effort than usual./n On the other hand, you may be too confident or overly optimistic. While you are confident, you may have become egotistical and out of touch with what you can achieve. Are you truthful to yourself and others? Or, are you trying to talk yourself up when you know you cannot deliver? If this resonates with you, then ask others for feedback and a reality check. Are you unrealistic? Is what you have set out to achieve achievable? Are you really as good as you think you are?",
         keywords: ["Positivity", "Fun", "Warmth", "Success", "Vitality"],
         reversed_keywords: ["Inner child", "Feeling down", "Overly optimistic"],
-        upright_questions: [],
-        reversed_questions: [],
-        past: "",
-        present: "",
-        future: "",
-        yes_no: "",
+        upright_questions: ["How can I take best advantage of the attention coming my way?", "What are my highest spiritual goals?"],
+        reversed_questions: ["Are you truthful to yourself and others?", "Are you trying to talk yourself up when you know you cannot deliver?"],
+        past: "The successes you have achieved in the past will set the stage for future joys. Continue developing your line of work or field of study and the rewards will come.",
+        present: "There is an opportunity for new friendship or a relationship that will lead to happiness and contentment. Do not give up and you will be led to success.",
+        future: "You are approaching a moment that has the potential to change your life. Take full advantage of this time and you will achieve a future of endless possibility.",
+        yes_no: "The Sun, being the opposition to the Moon, is a card full of life, joy, and energy. It reveals positive achievements, successful endeavors, and an overall manifestations of good fortune in your life. Thus, the answer it provides for your question is yes.",
         numerology: "19",
         element: { element: "Fire", description: "The fire element rules creation and inner spirit. This element responds to how it is handled. When in control, you can use fire as a positive tool; lose that control and it can be destructive and painful."},
         astrological_associations: "The Sun"
     },
     {
-        card_name: "",
+        card_name: "Judgement",
         arcana: "Major Arcana",
         suit: "Trump",
-        img: "../images/cards/m12.jpg",
+        img: "../images/cards/m20.jpg",
+        companion_cards: ["The High Priestess", "Justice"],
+        meaning: "The Judgement card is calling you to rise up and embrace a higher level of consciousness for the service of your Highest Good. You are experiencing a spiritual awakening and realising that you are destined for so much more. This is your cosmic up-levelling! You hear the call and are ready to act. Tune in to a higher frequency. Let go of your old self and step into this newest version of who you really are./n The Judgement card often indicates that you need to make a life-changing decision, but unlike those associated with the logical Justice card, this decision requires a blend of intuition and intellect. You may be at a crossroads, aware that any choice you make will bring a significant change with long-lasting effects. Tune in to your Higher Self, trust your judgement and know you are on the right path. If you still need clarity on the situation, look to your past and life lessons to guide you./n Judgement pops up in a Tarot reading when you are close to reaching a significant stage in your journey. You have reviewed and evaluated your past experiences and have learned from them. All the pieces of the puzzle of your life are finally coming together to form one, unified picture of your life story. This integration has healed deep wounds, and you are now able to put the past behind you. You have found your absolution, having cleared any wrongdoings or regrets, and releasing any guilt or sadness about the past. This purging process will leave you refreshed and ready to take on any new challenges./n The Judgement card suggests that you may find comfort in sharing your struggles with others within a group environment. There will be others who have experienced something similar and who can show you the way to freedom from your troubles. Let them guide you and help you - rise together.",
+        reversed_meaning: "Judgement reversed calls for a period of reflection and self-evaluation. Through meditation or quiet contemplation, you may arrive at a deep understanding of the universal themes weaving throughout your life and what you can do or change to avoid these situations. You may have kept them secret or hidden because you fear how others may judge you. To clear these past mistakes and regrets, and any associated guilt or shame, work on your self-forgiveness, self-acceptance, self-love, and release and freedom./n The Judgement reversed often appears when the Universe is trying to send you a message and invite you to something bigger, but you’re not listening. Maybe you’re afraid of the sacrifice you will need to make to heed the call, or you’re worried you are not ready to step into a more prominent role and just want to play it safe. You are doing your best to pretend you didn’t receive it and are carrying on with your daily life, hoping it will go away. But let’s be honest – the ‘call’ never goes away; it just gets louder and louder until you pay attention. It’s time to push past your inner fears and self-doubt, and trust that the Universe has your back. This is happening for a reason./n Sometimes, the reversed Judgement indicates your inner critic is coming through, loud and clear. You may doubt yourself or tell yourself negative messages. This is impeding you being able to fulfil your highest potential and be your best self. To overcome your inner critic, see it as a separate part of yourself (give it a name), hear it out and acknowledge its fear, and offer assurances that everything will be just fine. With focused discipline, you can break the cycle of self-criticism and replace it with more positive messages of what is possible.",
+        keywords: ["Judgement", "Rebirth", "Inner calling", "Absolution"],
+        reversed_keywords: ["Self-doubt", "Inner critic", "Ignoring the call"],
+        upright_questions: ["If I were to reinvent myself, what would I become?", "Are there any current situations that you feel are coming to a close?"],
+        reversed_questions: ["Are there any fears holding you back?", "Are you being too hard on yourself?"],
+        past: "Your past is full of good work, but the process of your liberation from those experiences is ongoing. You are beginning a new chapter in your life.",
+        present: "The present has arrived and the past is relinquishing its hold on your fate. This is the best time to change an element of your lifestyle.",
+        future: "The fruits of your decisions are coming and you will receive that which you deserve. The path at your feet and the direction it is leading you are clear. You will see your ultimate desire through to the end.",
+        yes_no: "The Judgement card is representative of some sort of change or transformation, likely one that has already occurred. It could mean the presence of a spiritual or professional calling and making decisions that will lead to your success. The answer to your question is yes.",
+        numerology: "20",
+        element: { element: "Fire/Water", description: "The fire element rules creation and inner spirit. This element responds to how it is handled. When in control, you can use fire as a positive tool; lose that control and it can be destructive and painful. The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Pluto"
+    },
+    {
+        card_name: "The World",
+        arcana: "Major Arcana",
+        suit: "Trump",
+        img: "../images/cards/m21.jpg",
+        companion_cards: ["The Empress", "The Hanged Man"],
+        meaning: "When the World card appears in a Tarot reading, you are glowing with a sense of wholeness, achievement, fulfilment and completion. A long-term project, period of study, relationship or career has come full circle, and you are now revelling in the sense of closure and accomplishment. This card could represent graduation, a marriage, the birth of a child or achieving a long-held dream or aspiration. You have finally accomplished your goal or purpose. Everything has come together, and you are in the right place, doing the right thing, achieving what you have envisioned. You feel whole and complete./n Now, the World card invites you to reflect on your journey, honour your achievements and tune into your spiritual lessons. Celebrate your successes and bask in the joy of having brought your goals to fruition. All the triumphs and tribulations along your path have made you into the strong, wise, more experienced person you are now. Express gratitude for what you have created and harvested. Finally, make sure you don’t rush into the next big project; celebrating your journey will set you up for success when you are ready for your next challenge./n If you have not quite reached this point of completion, then you are very close! You may still need an added level of understanding to graduate to a higher level and enjoy real success. Look back at your past experiences and acknowledge how far you have come and what you learned along the way. It may surprise you to look back at your progress and see how much you achieved. This reflection may also be what you need to bring your project to its final stages./n If loose ends still remain, the World card asks you to bring them to completion. In doing so, you will clear the space for new beginnings and opportunities to emerge./n More literally, the World can mean world travel, particularly on a large scale. You may be lucky enough to embark on a six-month overseas trip, or are working, studying or living overseas for an extended period. This card reinforces Universal understanding and global awareness, and you will find a new appreciation for people and cultures from across the world.",
+        reversed_meaning: "The reversed World card suggests that you are seeking closure on a personal issue. Perhaps you are still emotionally attached to a past relationship and want to move on. Or you dream of the day you can fit into your old skinny jeans but realise now that your metabolism and body shape changed in the last ten years. You know, deep down, that to accept and embrace where you are now, you need to let go of the past and move on. Finding closure may be an intensely personal journey – something you manage through journaling, visualisation, energy work, and therapy./n The World reversed can signify that you want to fulfil a big goal or complete a big project, but you’re not taking all the steps necessary to get there. You may opt for the easiest or quickest path to attain your goal, but it won't lead to the outcome you intend. Climbing a mountain from the bottom up is an entirely different experience from getting a helicopter ride to the peak, even though the destination is the same. You need to experience the trials and tribulations along the way so you can learn and grow. And when you do reach your goal, you will enjoy such a fantastic sense of achievement. Don’t be afraid to set stretch goals for yourself, even if it means enduring hardships or challenges along the way; it will make the victory even sweeter./n The reversed World can also indicate a time when you are close to finishing a project or goal, but for whatever reason, you lose focus and slack off right at the end. You only have a short way to go, so why stop now? Re-energise and remind yourself how wonderful life will be when you get the thing you’ve wanted for so long./n Sometimes, the reversed World can mean a frustrating delay in completing your projects. You might miss an essential piece, and you won’t find closure until it gets worked out. You may need to get more creative to figure out how to touch the finish line.",
+        keywords: ["Completion", "Integration", "Accomplishment", "Travel"],
+        reversed_keywords: ["Seeking personal closure", "Short-cuts", "Delays"],
+        upright_questions: ["For me, what would having it all mean?","How aware am I of my own connectedness to the world around me?"],
+        reversed_questions: ["What keeps me from having it all right now, today?", "Are shortcuts robbing me of achievements?"],
+        past: "The path you are on will eventually bring you full circle. It may take a while to realize this, but the journey will allow you to accept new responsibilities and points of view.",
+        present: "The present moment will bring you the fulfillment of a wish or a long desired change in scenery. To find satisfaction, you must accept the ideas of others to be equally valid as your own.",
+        future: "You must find your purpose to accomplish it. The same with dreams; you must first be aware of it to make it exist. There is no guarantee for success but the experience you gain will have the potential to fulfill your desires.",
+        yes_no: "The World card means satisfaction and success at a journey's end. Fulfillment, rewards, certainty, and positive outcomes are all things directly associated with the presence of this card. The answer more than likely is yes.",
+        numerology: "21",
+        element: { element: "Earth", description: "The element earth represents the physical world and all that is tangible. It is a very grounding and stable energy, and is associated with the five senses. This element is healing, but allows you to grow and change."},
+        astrological_associations: "Saturn"
+    },
+    {
+        card_name: "Ace of Cups",
+        arcana: "Minor Arcana",
+        suit: "Cups",
+        img: "../images/cards/c01.jpg",
+        companion_cards: [],
+        meaning: "With the Ace of Cups, Divine love and compassion are pouring through you. You are a vessel for deep, spiritual love from the Universe, and you can’t help but let that love flow through you and into the world. You receive love, you give love, you ARE love. Your heart overflows./n Now is the perfect time for you to open your heart and experience the rich flow of emotion available to you right now. You are more receptive to creative opportunities, loving connections, and deep compassion for other living beings. As with all Aces in the Tarot, this card comes as an invitation. Will you take it? Will you say “Yes!” to Divine love and compassion, and will you run with it? The Ace of Cups carries the potential for spiritual and emotional fulfilment – but only if you embrace it with an open heart./n This card often appears in Tarot readings when you are open to creative expression, especially when you can allow your emotions to shine through your endeavours. You may be inspired to start a new project, take an art class or even engage in interpretative dance. At this point in your life, you are comfortable with who you are and happily express this part of yourself to others. You see fresh potential in allowing your creative juices to flow. Let your imagination and talent unfurl to new possibilities./n The Ace of Cups often represents a new relationship, be it a friendship, a new family connection or blossoming romance. It is exciting – fluttery even – and you are so glad to have met someone with whom you can share a special connection. Give yourself permission to open yourself to giving and receiving unconditional love, and you will notice that affection flows effortlessly when you are in this loving state of mind. The water in the card reflects the flow of emotion, and thus, the Ace of Cups suggests that the enthusiasm you two generate will get you fired up about yourself and life./n There is a generous, compassionate side to the Ace of Cups, too. See this as a time of giving (not taking) and make the most of any opportunity to help others. You have the power to share your inner radiance and positive energy, bringing great happiness to those around you. And you will find that the more you give, the more you receive on multiple levels./n Finally, the Ace of Cups can signify conception, pregnancy or birth. Look to the other cards in the reading for further confirmation, such as the Empress, Page of Cups or Four of Wands. On a more metaphorical level, it may mean the birth of a new idea or a spark of inspiration – something in which you can invest a great deal of loving and creative energy.",
+        reversed_meaning: "Yes, this is the self-love card of the Tarot deck! In the upright position, the Ace of Cups is about love for all things. In the reversed position, it speaks to love for oneself. So, before you send your love out to the world, send love to yourself, filling up every cell in your body with Divine love and happiness. And the more you do this, the more you can exist in flow with life itself./n The reversed Ace of Cups is a sign that you are in connection with your subconscious mind and attuned to your intuition. You are exploring this part of yourself privately right now, and discovering how you can bring more intuition and flow into your life./n On the flipside, the Ace of Cups reversed may be a sign that you are repressing your emotions, not wanting to express yourself fully to the outside world. You have your reasons for keeping your feelings close and not wanting others to know what’s going on inside. You may feel embarrassed or afraid of what might happen if you were to express your emotions. You may worry that if you allow your feelings to flow, they might turn into an overwhelming flood that can’t be switched off. However, be careful that you do not create an internal blockage by repressing how you feel. If you are not ready to share your emotions – that's okay! You can find ways to release them privately, through journaling, creative projects, movement, or screaming your frustration and anger out in the car./n In a relationship reading, the reversed Ace of Cups can show that you are withholding your emotions for fear of getting hurt. You know that you must trust in your partner for the relationship to move forward, but, for the time being, you are holding back.",
+        keywords: ["Love", "New relationships", "Compassion", "Creativity"],
+        reversed_keywords: ["Self-love", "Intuition", "Repressed emotions"],
+        upright_questions: ["How can I cultivate this creative energy?", "What under-recognized joy does my spirit treasure?"],
+        reversed_questions: ["How can I better balance my needs against those of my loved ones?", "How can I lovingly nourish my needs?"],
+        past: "There have been numerous occasions that prove your creative talent and ability to succeed in your efforts. By being passionate and intensely focused, you have allowed for greater productivity.",
+        present: "Good news is going to bring joy and extreme satisfaction to your life.",
+        future: "The difficulties you face in the future will take a toll on your emotions, but in the end, will bring about abundant joy. Remembering this natural balance will bring you great rewards.",
+        yes_no: "The Ace of Cups represents overall satisfaction throughout all different areas of your life. It predicts success and abundance through use of good intuition and creativity. New relationships or possibly a birth or pregnancy could be associated with these positive outlooks. The answer is yes.",
+        numerology: "1",
+        element: { element: "Water", description: "The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Cancer, Scorpio, Pisces"
+    },
+    {
+        card_name: "Two of Cups",
+        arcana: "Minor Arcana",
+        suit: "Cups",
+        img: "../images/cards/c02.jpg",
+        companion_cards: [],
+        meaning: "If the Ace of Cups represents the flow of love from within, the Two of Cups is the flow of love between two people. With this card, you are creating deep connections and partnerships, based on shared values, compassion, and unconditional love. While these relationships are still in the early stages, they have the potential to grow and develop into something deeply fulfilling and rewarding in the long-term. You have mutual respect and appreciation for one another, and together you reach higher planes of consciousness and understanding./n When the Two of Cups card appears in a Tarot reading, you may enter a new partnership, perhaps with a lover, friend or business partner. You are both focused on creating a relationship that is mutually beneficial, one that will create a win-win situation for both parties. You see ‘eye to eye’ and appreciate what each other can bring to the table./n In a romantic relationship, the Two of Cups shows a blossoming new union based on mutual attraction. There is both a physical and soul connection that leaves you giddy and weak at the knees. You bring out the best in each other and lift each other to even higher levels of potential. The exchange of emotion is heartfelt, and you are both willing to do whatever it takes to support one another. In some cases, the Two of Cups can refer to a marriage, proposal or engagement./n In a business partnership, the Two of Cups is a sign you are both on the same wavelength and share a similar vision for the venture you are creating together. You may not have the same skills as each other, but you create a beautiful synergy when you work together. For example, one of you may be talented at sales and marketing while the other excels at managing the business's operations. A partnership like this – built on trust, harmony, and mutual respect – is likely to succeed so long as you continue to communicate with one another and focus on your shared alignment. (Though, it never hurts to have a contract or agreement in place to ensure this dreamy business partnership continues this way.)",
+        reversed_meaning: "At its essence, the reversed Two of Cups is about self-love. Love, in any form, starts with love for yourself. When you love yourself unconditionally, you accept and appreciate who you are, and you respect and honour the most authentic version of yourself. You welcome a life of happiness because you fundamentally believe you deserve it (and you're right!). When you come from this place of self-love, self-acceptance, and self-respect, you will have more fulfilling, loving relationships with others. It all starts with self-love./n Here’s the thing: if you don’t love yourself, you’ll end up projecting that lack onto others, becoming clingy and attached, attracting the wrong kinds of relationships to you, or worse, ending up in harmful situations. Here is the shadow side of the Two of Cups reversed. So, before you seek out your Prince Charming or tie the knot with your lifetime love, make sure you’ve filled your cup with all that beautiful love juice for yourself first. To find fulfilment in your life and relationships, find the love within you and give it to yourself. No other person, material possession, or accomplishment can do it for you./n The Two of Cups reversed can sometimes signal a break-up or a falling out. You are out of sync with each other and don‘t share the same emotional connection you did in the past. You may notice a lack of trust and being open with one another is proving difficult. Communication may be restricted or withheld, and the energy flow between you stifled. To turn this situation around, open up, share, and hold a safe space for one another to express your feelings. Even with one conversation, you can shift the energy flow dramatically.",
+        keywords: ["Unified love", "Partnership", "Mutual attraction"],
+        reversed_keywords: ["Self-love", "Break-ups", "Disharmony", "Distrust"],
+        upright_questions: ["How do you show up in relationships?", "Do you give as much as you get – and vice versa?"],
+        reversed_questions: ["Are any of your relationships unhealthy?", "Are you only focused on your needs?"],
+        past: "You have recently made a friendship or partnership that will bring you great rewards in the future. This connection will be meaningful for years to come.",
+        present: "A loving union or close partnership will begin soon. Through commitment and dedication, this relationship will bring you great rewards, even if they are distant.",
+        future: "Be on the lookout for a partner that will facilitate the achievement of your goals. It should be someone like you who can understand your ambitions and priorities.",
+        yes_no: "The Two of Cups shouts about love, positive relationships, and togetherness. It suggests a life full of close bonds, good friendships, and mutual love and respect therein. This card encompasses all happy, positive, loving feelings. The answer it is providing to you is yes.",
+        numerology: "2",
+        element: { element: "Water", description: "The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Cancer"
+    },
+    {
+        card_name: "Three of Cups",
+        arcana: "Minor Arcana",
+        suit: "Cups",
+        img: "../images/cards/c03.jpg",
+        companion_cards: [],
+        meaning: "The Three of Cups is a card of celebration, friendship, sisterhood, and creative collaborations. Your friends and family are here to support you and lift you up to even higher levels of success. Celebrate with them and enjoy their camaraderie./n This card reminds me of the wonderful connection shared by the four female characters in Sex and the City—Carrie, Charlotte, Samantha and Miranda. They stand by each other through thick and thin, and they are always there for one another as they make their way through relationships, careers and different life journeys. Nearly every episode shows them enjoying each other’s company, often over a cosmopolitan at a swanky Manhattan restaurant. You get the feeling that these girls will be friends forever and know they can always count on each other for support and compassion./n When the Three of Cups appears in a Tarot reading, you are encouraged to gather with your closest friends and have a good time together, talking, laughing, sharing and creating. Together, you give and receive the love, support and compassion each of you needs from one another. You may be inspired to host a girls’ night out, a weekend away, or start a women’s circle so you can join forces with like-minded people. The energy is high, and you’re here to do amazing things together./n The Three of Cups often indicates a very sociable period – perhaps a birthday, a wedding, the holiday season or a vacation with friends. See it as your opportunity to let your hair down and forget about your day-to-day commitments and obligations for a while. Instead, spend quality time with friends and family and enjoy yourself!/n This card also invites you to collaborate with others on a creative project and inspire one another to reach new heights. Collectively, you are working towards a common goal for the greater good of others, and by reaching out to others and banding together, you can achieve a great deal by sharing your positive energy and passion with the wider community. The Three of Cups is a very creative card, suggesting that you may pursue a creative outlet within a group environment, such as an art class or a dance class. This is a great way to connect with others and to access your creative abilities.",
+        reversed_meaning: "While the upright Three of Cups is a card of friendship and social events, the reversal of this card suggests that you would prefer to go it alone right now. You may have recently spent a lot of time with others and now just need some alone time. Or perhaps you are no longer ‘clicking’ with some of your friends or a social group and are ready to move on. Or sometimes, you might find yourself on the ‘outer’, excluded from other people’s circles and feeling isolated and alone. Honour your desire to step out of the social scene for a while and enjoy this time by yourself so you can get clear on who you most want to connect with in the future./n If you are involved in a creative project, now may be the time to work independently rather than in a group. The reversed Three of Cups can show that your creativity is being stifled, or you are being forced to conform to the group. You may be part of a tight-knit club that does things a certain way and is not open to innovation or alternative approaches. You need to consider whether you are willing to sacrifice your creative abilities in favour of the group’s desires./n If you are experiencing high levels of stress or you’ve been working hard, the reversed Three of Cups appears as a message to take some time off to recuperate and gain the support of friends before returning to reality. You may have been working so hard that you’ve lost your connection with your friends and family. Now is the time to reconnect and reprioritise their love and support. See this card as a reminder to reconnect with the people you care about, let loose and have a good time, without worrying too much about the consequences./n On the other hand, the Three of Cups reversed may signify overindulgence. You may be out most nights partying, doing drugs or drinking heavily when what you need is balance in your life. Be mindful about the longer-term consequences of your actions and ask yourself whether this lifestyle is sustainable. Take a break from the social scene to regroup and get some much-needed sleep./n When it comes to relationship readings, the reversed Three of Cups can sometimes appear when a third person is involved. You may be involved with someone who is already in a relationship with someone else, whether you know it or not. Look to the other cards for more detail. The Seven of Swords signals a betrayal of trust and possible cheating. If you see the Five of Swords, you likely already know about the other relationship, but you are trying to ignore that it exists. If you see the Devil, consider the nature of the relationship as it is likely to be hedonistic and unhealthy to those involved. It is unlikely that this situation is sustainable as ‘three’s a crowd,’ and something has to give.",
+        keywords: ["Celebration", "Friendship", "Creativity", "Collaborations"],
+        reversed_keywords: [ "Independence", "Alone time", "Hardcore partying", "‘three’s a crowd’"],
+        upright_questions: ["What can you celebrate today?", "Where are you blessed?"],
+        reversed_questions: ["How do your friendships nourish + support you…or not?", "What does joy mean to you?"],
+        past: "Long dormant talents are beginning to influence your life and the work you have done is beginning to influence your future. You may find richer rewards by investigating more experiences than you have previously.",
+        present: "There is abundant energy gathering around this moment that signifies you are approaching a new phase of life.",
+        future: "The desire to help other people will factor greatly into your considerations and you will take a greater joy in a significant role among your community. A full life lies ahead of you, to be celebrated by the ones who love you.",
+        yes_no: "The Three of Cups brings with it an abundance of love and joy. It suggests happy gatherings or celebrations and success in various aspects of your life. It is associated with loving celebrations and close relationships, and it means that the answer you seek is yes.",
+        numerology: "3",
+        element: { element: "Water", description: "The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Cancer"
+    },
+    {
+        card_name: "Four of Cups",
+        arcana: "Minor Arcana",
+        suit: "Cups",
+        img: "../images/cards/c04.jpg",
+        companion_cards: [],
+        meaning: "When the Four of Cups turns up in a Tarot reading, new invitations and opportunities are flowing to you, but for now, you’re saying “no” and turning them away. Perhaps the prospects do not interest you, or your cup is full, or you already have too much on your plate. Use your discernment to decide on what is truly important to you, and don't be afraid to decline new projects that don't align with your future path./n The Four of Cups can also indicate a time when you are turning your attention and your energy internally, to realign to this new phase of your life. You know that you need to be standing on terra firma before you can decide your next steps. While you may need to decline some very alluring opportunities, you do so knowing you will be in a better position to say ‘yes’ to the opportunities that are a better fit for you. You are creating the space within yourself so that you are ready to accept new opportunities later and give them the best possibility of success. Use this time for inward reflection, grounding, and contemplation before accepting the next ‘big thing’./n Sometimes this card brings the message, ‘Not now, but maybe later.’ While the man in the Four of Cups doesn’t accept the cups offered to him, he doesn’t wholly reject them either. You may be waiting for a sign or further information before taking an invitation or new project. Check in emotionally and spiritually before you say ‘yes’, to make sure the opportunity is a good fit and that you can commit to it in the long-term./n The Four of Cups can appear when you are bored or dissatisfied with your everyday life. You may feel disengaged, apathetic or unmotivated – maybe life has become dull. The Four of Cups invites you to bring your attention inward and re-evaluate your situation to find a deeper meaning in what you do. You may have found yourself disconnected from your emotional self and inner truth, and need to re-establish this connection so you can get a greater sense of purpose and direction. Now could be an excellent time to switch off from the distractions of the external world – social media, the news and other people’s stories – to allow you the space to listen to your own voice and inner knowing and gain more clarity./n The Four of Cups may show that you have shut yourself off from new opportunities because you have been hurt or rejected before. The man in this card has his arms crossed as if protecting himself and closing off from the external world. You may have had a relationship end in heartbreak or experienced failure in your career and now want to avoid getting in the same predicament again. However, you may miss out on new opportunities that are an excellent fit for you. Check in on a soul level and question whether shutting yourself down is the best course of action, or if it’s time to open up to the possibilities available to you.",
+        reversed_meaning: "The Four of Cups reversed reflects a period of introspection and withdrawal. You are retreating into your own inner world so you can concentrate on what is integral to you and what grounds you. Others may want to spend time with you or invite you out, but you’d prefer to stay in and read a good book or meditate in your sacred space. Just be careful that you don’t shut off your friends and loved ones or appear disinterested in their lives. Let them know you need some alone time and that you’ll reach out again when you’re ready to re-emerge./n If you are feeling withdrawn, don’t force yourself to go out. Just ‘be’ in this space, and when you’re ready, start to re-integrate with the world around you. You won’t be a ‘hermit’ forever – it’s just a temporary state of being. Appreciate it and make the most of it./n You may use this time of introspection to check in with your inner self to make sure your upcoming projects and endeavours are a good fit. Instead of saying ‘yes’ straight away, step back and assess the situation first. That said, be careful that you don’t lose this opportunity as you wait for an answer. Check for an expiry date or deadline and be sure not to miss it./n At times the Four of Cups reversed suggests that you feel uninspired, disillusioned, or disappointed with the world around you. Everything seems hard, and instead of dealing with it head on, you’re choosing to retreat. You may avoid the challenges of the external world hoping that if you step out, the problems will go away. But let’s be real: they will need your attention eventually./n The Four of Cups reversed might mean you are reluctant to open your heart to someone or to express your true feelings, choosing to withdraw and isolate yourself from the other person instead. Be mindful of how this could impact those who are close to you and consider their needs along with your own.",
+        keywords: ["Meditation", "Contemplation", "Apathy", "Reevaluation"],
+        reversed_keywords: ["Retreat", "Withdrawal", "Checking in for alignment"],
+        upright_questions: ["What options are you not seeing?", "What choices are you refusing to explore?"],
+        reversed_questions: ["Have you become complacent?", "Where could you find new inspiration?"],
+        past: "You are discontent and nothing is changing to influence this. Your desire for change will be the most powerful impetus for the world around you to change. Take a new approach in order to transform your circumstances.",
+        present: "Do not be afraid to move forward. Instead, fear becoming overly content. Seek new paths in order to progress on new levels.",
+        future: "There will be long delays before you achieve your goals. Do not lose faith and keep your eyes facing forward. Make your plans and do not lose sight of the exciting rewards you desire.",
+        yes_no: "The Four of Cups is an indifferent card showing a sense of apathy, boredom, and even disappointment. It could mean that you need to re-evaluate some area of your life or possibly that you are just settling for where you are and with opportunities having been missed. There is no clear answer right now.",
+        numerology: "4",
+        element: { element: "Water", description: "The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Cancer"
+    },
+    {
+        card_name: "Five of Cups",
+        arcana: "Minor Arcana",
+        suit: "Cups",
+        img: "../images/cards/c05.jpg",
+        companion_cards: [],
+        meaning: "The Five of Cups often appears in a Tarot reading when a situation hasn’t turned out the way you expected, and you are sad, regretful, and disappointed. Instead of moving on with your life, you are choosing to wallow in your self-pity. All you can focus on right now is what went wrong and how you failed. Sweetheart, it’s time to get over it! Sure, feel the feels, but set yourself a time limit for your self-pity and then pull yourself together and move on./n The Five of Cups suggests you’re stuck in the past and can’t let go. Old wounds and bitter memories flood your mind as you think about what happened. You may blame yourself or believe you’re a victim of life’s circumstances. These negative emotions are holding you back from your fullest potential – release them so you can move on and create positive change./n Forgiveness is vital with the Five of Cups, both of yourself and others. If someone has disappointed you, find it within your heart to forgive that person, releasing yourself from the disappointment. And if you are frustrated with yourself, know that you did the best you could under the circumstances and have now learned from your mistakes./n Remember, too, that hindsight is much clearer than foresight and wisdom in the present moment comes from the mistakes of the past. Reflect on what led you to this point and understand what valuable lessons you can take from the experience. Even when things go pear-shaped, you can always take away something positive by reflecting on the lessons learned./n The Five of Cups shows you that, even though things aren’t going your way, new opportunities and possibilities are waiting for you – but only when you are ready. It’s time to shift your mindset and focus on what can go right from this point onwards. Be open to the brighter side of life and know many blessings are in disguise right now. Instead of giving in to a ‘glass is half empty’ perspective, look at it as the ‘glass is half full’.",
+        reversed_meaning: "The reversed Five of Cups suggests that you have recently suffered a personal setback or disappointment. You may worry that you are a ‘failure’ and don’t want to let others know you’ve taken the wrong path. Or you may not be ready to admit it to others and are choosing to keep your feelings to yourself instead. However, now might be the time to open up. People around you may not see how much pain you're in right now, so don’t be afraid to ask for help or talk with someone you trust; you may find it lessens the emotional pain. You’ll find that by sharing your feelings with others, you’ll realise that you can overcome this temporary setback./n If you feel guilty or ashamed about what happened, blaming yourself for the mistakes you made, the reversed Five of Cups encourages you to forgive yourself and move on. Know that you did the best you could. This may be the perfect opportunity for you to practice the Hawaiian forgiveness ritual, Ho’oponopono, where you say sorry, ask for forgiveness, express gratitude and move into love./n When this card turns up in a Tarot reading, you are realising the full implications of the past, and you appreciate the lessons learned from the experience. You may even recognise the value of the painful experience in the broader scheme of things./n The Five of Cups reversed serves as a reminder that you cannot undo the past – what has happened, has happened. It is now time to let go of what no longer serves you emotionally, and open to the new opportunities available to you. You are discovering how to be open and take risks again, especially those of the heart. If you have suffered setbacks, you will find that you will be more hopeful about the future and engage with the exciting, creative side of life again.",
+        keywords: ["Regret", "Failure", "Disappointment", "Pessimism"],
+        reversed_keywords: ["Personal setbacks", "Self-forgiveness", "Moving on"],
+        upright_questions: ["Are you dealing with uncomfortable emotions directly?", "Do you need more support at this time?"],
+        reversed_questions: ["How might you get help for difficult emotional situations?", "What might you learn from grief?"],
+        past: "The urge to try something new is a result of a disappointment or dissatisfaction you have experienced. Your current sadness is an expression of these failed expectations.",
+        present: "Explore any alternatives paths that you discover. But if you avoiding the truth, it will be difficult to create any sustainable satisfaction.",
+        future: "An error on your part will lead you to a regretful situation. Be ready to repair the damage you have caused and more importantly, to forgive yourself.",
+        yes_no: "The Five of Cups is a regretful card full of sadness, loss, and despondency. It could be a sign of not appreciating what you have in life or possibly avoidance of something yet to come. The disappointment and discontent associated with this card provide an answer of no to your question.",
+        numerology: "5",
+        element: { element: "Water", description: "The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Scorpio"
+    },
+    {
+        card_name: "Six of Cups",
+        arcana: "Minor Arcana",
+        suit: "Cups",
+        img: "../images/cards/c06.jpg",
+        companion_cards: [],
+        meaning: "The Six of Cups is a card that takes you back to the happy memories from your past, whether as a child, teenager or young adult. You may simply be revisiting those memories in your mind, or you may travel back to your childhood home or reconnect with your childhood friends. You could go to a high school reunion or reconnect with an old buddy. A teenage sweetheart or past lover may turn up again. These connections bring you a sense of joy and happiness as you reminisce over all the fun times you had together. Take this occasion to explore whether you still have a lot in common and if you wish to continue the relationship now./n The Six of Cups often shows an increased level of harmony and cooperation in your relationships. You are ready to give and receive, without expectation. You are also willing to give each other the benefit of the doubt, having moved on from the challenging emotions of the Five of Cups. It’s time to turn over a new leaf and start afresh from a more positive place./n The Six of Cups invites you to get in touch with your inner child and experience the fun, freedom and innocence that comes with being a young child again. You might like to sit down with an adult colouring book, dance like no-one is watching you, play your favourite childhood games or spend more time around (happy) children. When you give yourself permission to be playful, spontaneous, and creative, you connect more with your authentic self and your intuition./n The Six of Cups can also refer to children in your life. It can suggest a pregnancy (perhaps twins), a birth and siblings who play nicely together. It may also be a sign that you are about to spend more time with young children, playing, laughing and learning together. Children are often here to teach you something about yourself and can serve as great advisors. Kids also set good examples for how to stay present, open-minded and curious. They see the world as a magical place and their hearts are open to the myriad of pleasures available to them.",
+        reversed_meaning: "When the reversed Six of Cups appears in a reading, ask whether you're clinging to the past and losing touch with the present. Reflection and nostalgia may bring up positive or negative feelings, but either way, when you find yourself wishing for ‘how things used to be’ and not living in the present, you miss out on the opportunities right in front of you. It's OK to indulge a little in reminiscing about the past, as long as you understand that true and lasting change can only happen in the present moment. See the Six of Cups as an opportunity to make peace with the past so you can focus on the now. Learn from your mistakes, forgive others and yourself, and acknowledge that life is continually evolving. Let go of the past and bring your attention firmly into the present./n The reversed Six of Cups may also be a sign you have lost touch with your inner child and life has become boring, repetitive, and ‘stale’. You might be closed off from new opportunities and gifts from the Universe, simply because you are taking on too much of the responsibility and heaviness that come with 'adulting'. Open yourself to a curious mind and to have fun as though you were a child again. If you find yourself saying, “Oh but I don’t have time!” then make time!! Play! Have some time out. Go jump in puddles or build sand castles./n The Six of Cups reversed might be a sign that you are taking a private walk down memory lane. Perhaps you are thinking about an ex, or you’ve even started seeing each other again, but you want to keep this information quiet. You may be reluctant to let others know that you are revisiting these old memories or relationships, in fear that they may judge you.",
+        keywords: ["Revisiting the past", "Childhood memories", "Innocence", "Joy"],
+        reversed_keywords: ["Living in the past", "Forgiveness", "Lacking playfulness"],
+        upright_questions: ["What do you cherish about your past?", "What needs to be released?"],
+        reversed_questions: ["How can you enjoy the present moment?", "Are you clinging to the past?"],
+        past: "The past has brought you many rewarding experiences of love and success. Do not linger too long on what is past, and move forward with your achievements.",
+        present: "A reward that is the result of your past actions will come to you presently. By making a new friend or strengthening a relationship, you will find a great amount of commonalities.",
+        future: "To enhance your future, you must build upon the virtues of your past. It is not enough to have succeeded before, you must improve upon your capabilities. A deeply rooted desire will require some evolution to achieve.",
+        yes_no: "The Six of Cups says something by the way of reconciliation and leaving the past behind. It could mean some sort of apology or returning to the past to unlock skeletons from the closet. There is a sense of relief and moving forward with its presence, and the answer you seek is likely yes.",
+        numerology: "6",
+        element: { element: "Water", description: "The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Scorpio"
+    },
+    {
+        card_name: "Seven of Cups",
+        arcana: "Minor Arcana",
+        suit: "Cups",
+        img: "../images/cards/c07.jpg",
+        companion_cards: [],
+        meaning: "The Seven of Cups is a card of new opportunities, choices, and at times, illusion. When the Seven of Cups appears in a Tarot reading, you have many options and opportunities from which you can choose. But be careful! You are prone to illusion and unrealistic ideals. An opportunity with promises of more money, more fame, or more power may sound appealing, but as you look deeper into what is on offer, you may realise it’s not everything it’s cracked up to be. Your ego may pull you in a specific direction, but it’s important you check in with your Higher Self first. Evaluate your options and dig below the surface to discover what’s involved with each choice./n Often, the Seven of Cups can be a sign of wishful thinking and projecting into the future about what you would like to create, rather than taking action here in the present to make it happen. For example, you may wish for a fitter, more healthy body, until it's time to get out there and exercise. Or you might wish for a successful business fuelled by passive income, but you’re not ready and willing to put in the hard work now to enjoy the fruits of your labour later. If you spend most of your time wishing but not doing the work, then it’s time to choose just one thing and make it happen./n You may find that your ideas are not grounded in reality. Your plans might sound fabulous in your imagination, but when it comes to implementing them, you may realise they do not work in the real world./n The Seven of Cups may be a sign of ‘shiny object syndrome’, where you keep finding the ‘next big thing’ but fail to see any of those new opportunities through to the end. When you are constantly in the idea phase, you miss the chance to bring your designs into fruition. Again, now is a time to focus on the one thing that will move you closer to your goal; resist the temptation to get side-tracked with other ideas as they arise. If need be, note your ideas as they come up, but stay focused on the one thing you’re doing./n This card is inviting you to move out of the ideas and options phase and choose. Each will have its pros and cons – it’s up to you to make sure that the option you select is in alignment with your purpose and your Highest Good – even if you feel somewhat paralysed by the options available to you.",
+        reversed_meaning: "The reversed Seven of Cups often appears when you face several different choices and, instead of choosing the option that may appeal to others, you are relying on your inner wisdom and guidance to show you the best way. You may come up with your own criteria to help you make decisions in alignment with your inner being./n If you find yourself with multiple opportunities or ideas, ground yourself first and reflect on what you want for the long-term. All these shiny new objects in front of you have a certain ‘magic’ power over you right now, and you’re at risk of losing focus if you chase after pipedreams. Take a step back and assess the options against your priorities to work out which opportunities will be a real benefit to you./n As a card of choices and options, the reversed Seven of Cups can mean you are overwhelmed by choice and cannot move forward. Reduce your options and focus on what is important to you. You don’t need to keep searching for that big idea; you have what you need. Make your pick and move forward with it.",
+        keywords: ["Opportunities", "Choices", "Wishful thinking", "Illusion"],
+        reversed_keywords: ["Alignment", "Personal values", "Overwhelmed by choices"],
+        upright_questions: ["What is your process before making a decision?", "Do you trust your gut…or need the facts?"],
+        reversed_questions: ["What is your fantasy?", "And are you ready to take the steps necessary to turn your fantasy into a reality?"],
+        past: "You have lost a lot of time chasing the many conflicting interests in your life. Do not be misled by daydreams and fantasies; pick a practical goal and start working.",
+        present: "You will receive a surprising reward for your usual mental and creative activities.",
+        future: "The inability to decide will slow your progress. Being open to change will help, but also a constant effort to determine what is true will keep you moving forward. Be honest with yourself.",
+        yes_no: "The Seven of Cups symbolizes confusing decisions, wishful thinking, and temptation due to a lack of morality. Delusional ambitions and poor choices are associated with this card. It brings a definite feeling of pessimism and negativity. The answer is no.",
+        numerology: "7",
+        element: { element: "Water", description: "The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Scorpio"
+    },
+    {
+        card_name: "Eight of Cups",
+        arcana: "Minor Arcana",
+        suit: "Cups",
+        img: "../images/cards/c08.jpg",
+        companion_cards: [],
+        meaning: "When the Eight of Cups shows up in a Tarot reading, you may feel compelled to walk away from a disappointing situation. It could mean turning your back on an unfulfilling relationship, job, career path, living arrangement or creative project that was once a source of great happiness to you but now only brings you pain. You have invested yourself emotionally but, despite your best efforts, are disappointed; it hasn’t turned out the way you had expected it to, and you realise that you are no longer getting anything out of this situation. Now, the only choice is to put it behind you and move on with your life, even if it brings you sadness as you say goodbye./n The Eight of Cups suggests you sense that something is missing, particularly on an emotional or spiritual level, and instead of waiting around for things to get better, you know you need to leave that unfulfilling situation. It may not make sense to others because on the face, it looks as if you have everything you had wished for – but, deep down, you know it’s not serving your Highest Good, and it’s time for you to let it go and move on./n The Eight of Cups can be a sign that you are trying to escape a problematic emotional situation or avoiding some major psychological issues and concerns. The Cups in the foreground represent emotional issues that remain real and present in your life. Yet you are trying to pretend as if they no longer exist, refusing to deal with them. You may repress your emotions or refuse to have open conversations with others about what’s happening, instead preferring to pretend as if everything is okay, or avoiding the scene altogether./n The Eight of Cups invites you to ask yourself what brings you joy, contentment and fulfilment on a deeper level. Without it, you might pursue goals that fail to give you the satisfaction you’re seeking. For example, you may think being in a long-term relationship is what you want, but when you manifest it, you realise that it’s not just the long-term relationship you want but a deep soul connection with someone. If that’s not there, then the relationship will not fulfil your needs no matter how long you stay together. So, if you find yourself repeatedly in these Eight of Cups situations where you have no choice but to walk away, spend time exploring what will bring you true happiness and realign your goals with your values.",
+        reversed_meaning: "The reversed Eight of Cups raises the question, “Do I stay or do I go?” You may be caught between walking away from a disappointing situation or trying one last time to make things better. But the real question is, 'Can the circumstances improve, or is it a lost cause?' Check in with your intuition to understand whether you should give this situation one more chance, or if you should release and let go./n If the reversed Eight of Cups is paired with more passive cards such as the Hanged Man or the Four of Swords, then it may be a sign that you wish to try one more time. However, if this card couples with a more active card such as the Eight of Wands or Chariot, it may be time to move on and pursue a different path./n The reversed Eight of Cups invites you to listen to your heart about your next course of action. Others may have an opinion, but it comes down to what’s important to you. Only you know whether this situation is serving you and if there is hope for the future. Be mindful of what you want and then check in to see if this move is in alignment with your goals and dreams./n At times, the reversed Eight of Cups can show that you are drifting from one place to the next because you never feel satisfied with staying in one place. “The grass is always greener on the other side.” If this resonates, ask yourself what makes you happy and how you can design your life in alignment with your deepest contentment.",
+        keywords: ["Disappointment", "Abandonment", "Withdrawal", "Escapism"],
+        reversed_keywords: ["Trying one more time", "Indecision", "Aimless drifting", "Walking away"],
+        upright_questions: ["Have you given it your all?", "Is it time to move on?"],
+        reversed_questions: ["Are you running away from things?", "How might you welcome a transition?"],
+        past: "Your ability to earn money through determination and hard work will be necessary in the future. Your direction has been uncertain, but your heart tells you to keep seeking. The change you seek can take any form.",
+        present: "You are going to experience something completely new, travelling great distances either in thought or location. There are big changes coming.",
+        future: "Maintain an open mind and every journey that you take will yield life changing results. Personal success and accomplishing your goals will lead you to your greatest joy.",
+        yes_no: "The Eight of Cups shows some degree of change happening in your lifestyle. It brings feelings of despondency, indifference, and avoidance. It could indicate a need to give up, leave, or turn away from something in your current life. The melancholy feeling associated with this card suggests no.",
+        numerology: "8",
+        element: { element: "Water", description: "The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Pisces"
+    },
+    {
+        card_name: "Nine of Cups",
+        arcana: "Minor Arcana",
+        suit: "Cups",
+        img: "../images/cards/c09.jpg",
+        companion_cards: [],
+        meaning: "You know those moments when you glance around and feel your heart overflowing with love and appreciation for everything you have created in your life? That’s what the Nine of Cups is about: emotional fulfilment, happiness and contentment. When this card appears in a Tarot reading, you are content in all aspects of your life – relationships, work, lifestyle, well-being and more. You are basking in the abundance of life and experiencing your emotions with such intensity and pleasure./n This is why the Nine of Cups is often called the wish card. It comes as a sign that the planets aligned and you have everything you wished for. You could not be happier! If you made your wish and are patiently waiting for it to come to fruition, then this card is an excellent omen that it will soon be granted./n The Nine of Cups is an invitation to splurge, indulge and enjoy life’s pleasures. This includes enjoying good food and wine, appreciating the arts, making love, relaxing in a luxurious resort or experiencing beauty. Live in the moment and give yourself permission to indulge temporarily without any guilt about the possible negative consequences of such pleasure./n When you see the Nine of Cups in a reading, remember to count your blessings and express gratitude for what you have. Start or end every day by creating a mental list of the three things for which you are most grateful. Over time, you will intensify your sense of contentment and your ability to attract what you wish for – it is the Law of Attraction. If you are struggling to find the positive side of life, then expressing gratitude will help you see that you have a lot to be glad about./n One thing to keep in mind with the Nine of Cups is that he is sitting on a wooden bench that is comfortable for only a limited period. Realise that contentment and fulfilment, too, are only temporary as everything is always in a state of change. That’s why it is so important to appreciate what you have now and cherish it because it may disappear later or you may need to adjust and adapt.",
+        reversed_meaning: "Even when it appears that you have everything you ever dreamed of, it can still feel like something is missing deep down. Have you pursued material gain at the expense of your spiritual growth or emotional fulfilment? For example, you might own the most expensive home or car on the block, but you never see your friends and family and are pretty miserable. This is the essence of the reversed Nine of Cups, and when it emerges in a Tarot reading, it asks you to reconsider what you’re wishing for and align it with your Highest Good. You may have lost touch with what’s important to you, instead favouring the ego and chasing what will impress others./n The reversed Nine of Cups is a sign that instead of looking outside yourself for your happiness, you should search within. Success and happiness mean different things to different people. So, instead of doing what you think will make other people happy, do what will make you happy. Ask yourself, 'What does success look like to me? And how will I know when I am successful?' If your outside world is not bringing contentment, change your definition of success./n Sometimes, the reversed Nine of Cups suggests that you are frustrated that your wishes have not yet come true. Your expectations may be unrealistic, or you may not be actively pursuing your dreams, hoping that they will manifest with little input or action from you. You may have chosen goals that are not satisfying to you, and if so, it’s best to let them fall by the wayside. Now is the time to reconnect with your goals and dreams and recommit to bringing them to fruition. You may need to tweak your goals to keep them in full alignment with your personal values. And you may need to be more proactive in creating an action plan to see your goals come to fruition./n The Nine of Cups reversed serves as a reminder not to over-indulge at the expense of your health and well-being. You may be prone to overdoing it on food, alcohol, drugs, partying or spending. Keep everything in moderation and focus on the long-term consequences of your actions, even if they bring short-term pleasure.",
+        keywords: ["Contentment", "Satisfaction", "Gratitude", "Wish come true"],
+        reversed_keywords: ["Inner happiness", "Materialism", "Dissatisfaction", "Indulgence"],
+        upright_questions: ["Can you be content with what you have?", "What blessings do you have trouble acknowledging?"],
+        reversed_questions: ["When you think of indulging, what comes to mind?", "What is your deepest wish?"],
+        past: "The source of true happiness is your soul attaining peaceful balance. The efforts you have spent will bring your reward. Stay strong and keep working.",
+        present: "Your emotional and material well-being are at hand. Look to your friends for advice and support, but recognize that you will find fulfillment.",
+        future: "The goal you have set for yourself is down the road a ways. Stay true to your desires and you will reach the destination you seek. Balance your heart and mind to find a true calling.",
+        yes_no: "The Nine of Cups shows feelings of joy, satisfaction, pleasure, and overall contentment. Its presence is indicative of a bright future brimming with good times, bliss, and a period of your wishes all being granted. The answer you are looking for is yes.",
+        numerology: "9",
+        element: { element: "Water", description: "The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Pisces"
+    },
+    {
+        card_name: "Ten of Cups",
+        arcana: "Minor Arcana",
+        suit: "Cups",
+        img: "../images/cards/c10.jpg",
+        companion_cards: [],
+        meaning: "The Ten of Cups embodies happiness, joy, and emotional contentment, particularly in your relationships and family. You have created an abundance of love and happiness in your life, and you now share this love with others, expanding your heart even more. This card often appears when you are surrounded by your loved ones with whom you share a powerful and deep connection. You appreciate and support one another, and together, you help each other reach your highest potential. It brings you so much joy to see your loved ones succeed and live happy lives./n The Ten of Cups is the ‘happy family’ card, suggesting that your family relationships are harmonious and loving right now. No one is fighting or causing any tension; all family members are getting along with each other and sharing in the love and happiness that surrounds you. This card may appear in a reading when you are spending more time with family, perhaps on a holiday, reunion or event, where you can rest and relax together, creating fun and happy family memories and strong bonds./n The Ten of Cups is a positive card for romantic relationships and may indicate either a new and blissful relationship or a long-term commitment, such as engagement, marriage or starting a family together. You share an everlasting love and may believe that you are soul mates destined to be with one another./n When the Ten of Cups pops up in a Tarot reading, you have a sense of wholeness, completion, and alignment in your relationships with others. You are experiencing an idyllic state of peace, harmony and love where your dreams and wishes have come true. Take a moment to step back and appreciate everything you accomplished. You created a life of connection and bliss by following your heart and trusting your intuition./n The Ten of Cups encourages you to follow your heart and trust your intuition to lead you to the opportunities aligned with your Highest Good. Your feelings and emotions will guide you. When something feels fantastic, do more of it; and when something doesn’t feel right, do less of it. Allow your inner guidance to lead the way. Seek out opportunities that fulfil you and align with your personal values instead of following the path that others expect you to take.",
+        reversed_meaning: "When the reversed Ten of Cups card appears in a Tarot reading, you are seeking greater harmony and connection in your relationships. In your mind, you had wished for a beautiful, harmonious relationship, but in reality, you feel disconnected and disengaged from your loved one. It may seem as if something is missing, and you’re struggling to communicate honestly, empathise, and engage with one another. Each time you try to connect, something goes wrong, and you end up with even more distance between you. You may have unrealistic expectations of the relationship: that everything will be perfect and rosy every minute you are together. If this resonates, then realign your expectations and realise that every relationship has its ups and downs. Or, you may no longer be a fit for each other, in which case you may consider leaving./n The Ten of Cups invites you to seek out common ground with your loved ones and rebuild the relationship from there. See the other person as a Divine Being worthy of your love; and equally, see yourself as a Divine Being worthy of theirs. Love and be loved. Open the lines of communication and be ready to hold space for one another so you can reconnect on a deeper, more loving level. Be compassionate, understanding, and respectful, and seek harmony with one another./n The reversed Ten of Cups can also appear when you are contemplating what a loving relationship means for you. Rather than building relationships with others, you are focusing your attention inward so you can gain clarity around what you want from a relationship. Ask yourself what an ideal relationship looks like to you and how you want to give and receive love. Consider how you can bring more of this energy into your future relationships. You may look at your existing relationships and check in to see how these relationships align with your desires. Let go of any that no longer bring you fulfilment and happiness, and welcome in new relationships in alignment with your Highest Good./n The Ten of Cups reversed can reveal a misalignment of personal values. You are not living by your own values, nor are you being true to yourself. Instead, you are allowing others to decide what will and will not make you happy when you know you should determine that for yourself. As a result, you are questioning whether you believe in what you are doing. Bring your focus back to what truly makes you happy even if it differs from what others expect./n Finally, the reversed Ten of Cups may suggest that you are neglecting your family while you pursue more material goals such as progressing your career or making more money. Your work-life balance is out of whack, and you are spending less and less quality time with your family. If you continue to neglect your family, you’ll find that relationships will suffer and you may not achieve an overall sense of contentment and happiness as planned.",
+        keywords: ["Divine love", "Blissful relationships", "Harmony", "Alignment"],
+        reversed_keywords: ["Disconnection", "Misaligned values", "Struggling relationships"],
+        upright_questions: ["How might you better care for your family?", "What does your family need from you?"],
+        reversed_questions: ["Is there something you need from your family?", "What does family mean to you?"],
+        past: "By taking confidence in your direction and following your deepest convictions, you have been propelled forward. This commitment and your comfort with authority have allowed room for recognition and success to manifest in your life.",
+        present: "A new undertaking is about to begin for you. This task, event, or journey will bring about the beginning of a long lasting friendship. Do not miss this opportunity.",
+        future: "The potential for financial success may present itself through some aspect of property ownership. Either find domestic happiness or gain prestige in public work. Despite the difficulty, balancing both at once is possible.",
+        yes_no: "The Ten of Cups represents perfect harmony, abundance, and happiness. It suggests perhaps personal or family dreams coming true and an overall sense of satisfaction and security in life. Positive achievements and emotional stability ahead of you, the answer you seek is yes.",
+        numerology: "10",
+        element: { element: "Water", description: "The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Pisces"
+    },
+    {
+        card_name: "Page of Cups",
+        arcana: "Minor Arcana",
+        suit: "Cups",
+        img: "../images/cards/c11.jpg",
+        companion_cards: [],
+        meaning: "The Page of Cups suggests a new idea or opportunity has come to you out of the blue. Your creative energy is flowing, and now the question is how you will express it. Will you snap up this new idea and turn it into something, or will you let someone else bring it to fruition? It is up to you! Spend time exploring the idea to see if you want to move forward./n The Page of Cups invites you to have an open and curious mind. Be open to anything – including a fish popping its head out of a cup! It is with a curious mind that you will discover new aspects of life and yourself. Open your mind to all possibilities, especially those of a creative or intuitive nature, you will be pleasantly surprised. Be ready to dream the impossible dream, and explore the magic of your fullest potential, even if it seems out of reach. The Page of Cups is asking you to embrace your inner child and believe that anything is possible./n As each Page asks you to explore a new facet of yourself, the Page of Cups is asking you to explore your creative, emotional self. You may start a new art class, read books about how to express your feelings, or learn more about developing your psychic abilities. Dreamy aspirations race through your mind, and you may find yourself moved by simple things. Don’t be afraid to let your feelings show and wear your heart on your sleeve./n This card often appears when you are being called to trust your intuition and be open to the multitude of intuitive messages coming your way. Look for synchronicities and signs from nature that will guide you on your path. They may come from unexpected places, or they may not even make sense to your rational mind; be open to the possibility and ready to discover new aspects of yourself. It is like following ‘intuitive breadcrumbs’ – one intuitive clue leads you to the next thing, and the next, and the next. And before you know it, you have found yourself in a place of full alignment, happiness and bliss. All by trusting your intuition and going with the flow./n In a practical sense, the Page of Cups can indicate that you will receive an unexpected and pleasant surprise. The Pages are often known as the messenger cards, and with the Page of Cups, you may receive a message related to the emotions, intuition, or creative endeavours. It might be the birth of a baby, an engagement or marriage, a new love interest, or the offer of a new project. It is not a surprise you can anticipate or force; be ready to receive when the moment comes.",
+        reversed_meaning: "The reversed Page of Cups suggests that you are keeping your creative inspirations and ideas secret. You may worry that others will steal your idea or tell you it’s destined to fail. Instead, you are choosing to keep your plans private so you can develop them further without the influence of others. You may want to wait until you’ve moved out of the conceptual stage before sharing it with others./n With the Page of Cups reversed, you may feel called to pursue a new creative project, but you doubt whether you can really make it work. Your inner critic may be on over-drive or others are telling you that you’re dreaming – so you are stalling and holding back. Ask yourself, “What have I got to lose here?” So what if the idea fails? Isn’t it better to try something and fail than never do it and wonder for the rest of your life what might have happened? And what if you didn’t fail? What if you were to succeed? Again, listen to your intuition to understand if fear is getting in the way and whether it’s time to just give it a go regardless of the outcome./n It is possible that you may experience a creative block when the reversed Page of Cups pops up in a reading. There is an aspect of your Self that wants to be expressed, but for whatever reason, you are holding back. You may worry whether your creativity will lead you in the direction you want, or whether it has value in this world. Or, you may feel ‘stuck’ when it comes time to express yourself creatively, and you don’t know how to bring this side of yourself out into the external environment. The ideas are there, but you are having trouble figuring out how to make them into reality./n If you are exploring your intuition, the reversed Page of Cups can suggest that you are encountering a lot of doubt. You are trying hard to listen to your intuition, but when the messages come through, you are left wondering if it’s your inner guidance or your ego. Open yourself to your intuition and see where it takes you./n At times, the reversed Page of Cups can show someone who is emotionally immature – perhaps someone dramatic, who over-shares and takes their vulnerability a little too far. This may be someone who is prone to emotional tantrums when they do not get their way. Or it may be someone who is overly dreamy about their future and who is not grounded in reality. Some call it the 'Peter Pan Syndrome', in which an adult does not want to grow up and instead remains a child for the rest of their lives.",
+        keywords: ["Creative opportunities", "Intuitive messages", "Curiosity", "Possibility"],
+        reversed_keywords: ["New ideas", "Doubting intuition", "Creative blocks", "Emotional immaturity"],
+        upright_questions: ["What would it look like if you expressed your emotions without holding back?", "How might you be more sympathetic to other people’s feelings?"],
+        reversed_questions: ["What does your inner child need right now?", "Have you ever taken an emotional risk?"],
+        past: "There is an idea you have already had that can be developed further for greater results. Your awareness of the obstacles before you will lead you to an understanding of the best ways around them.",
+        present: "Good news will reach you and remind you of the importance of a fresh outlook on life. See the humour in life and remember the healing power of laughter.",
+        future: "Be prepared for an upcoming opportunity. It will pass you by too easily if you are not ready to seize it for yourself. The emotional struggles you pass through will teach you how to love more deeply and intimately.",
+        yes_no: "The Page of Cups is a gentle, artistic, dreamer-type messenger. He brings with him announcements of good news and messages of new, serene beginnings. All dealings with this card are of a positive nature, and the answer it represents is yes.",
+        numerology: "1",
+        element: { element: "Water", description: "The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Cancer"
+    },
+    {
+        card_name: "Knight of Cups",
+        arcana: "Minor Arcana",
+        suit: "Cups",
+        img: "../images/cards/c12.jpg",
+        companion_cards: [],
+        meaning: "The Knight of Cups is the classic romantic of the Tarot deck. He is in touch with his intuition and emotions, and he uses them masterfully to charm and attract others. He shows compassion and understanding towards others because he has learned to understand his own feelings and emotions. The Knight is kind, caring and very in touch with his feminine side. He might be found writing a romantic poem to his lover, creating art inspired by his innermost feelings or appreciating a vibrant sunset with a glass of champagne in his hand. His heart is wide open, and he wears it on his sleeve. He shares his love freely with others, without constraint or worry; he is in love with love itself./n When the Knight of Cups appears in a Tarot reading, you thrive on all things beautiful and are inspired by the many creative outlets available to you. While the Page of Cups was inspired by an imaginative idea, the Knight of Cups is motivated by action. You have dreamed about what it is you want to create and now are moving forward with this dream to make it a reality. It may be an art project or something you feel ‘called’ to do, based on your emotions, imagination and intuition. Be open to exploring your passions and your big ideas. You may find yourself drawn to a particular passion or hobby and now is the time to turn it into ‘something.’ While you are in no hurry to reach the finish line, keep in mind that true imagination feeds on action; if you do nothing with your dreams, they will remain just that – dreams and not reality./n All Knights are on a mission, and this Knight’s is humanitarianism, romance, altruism, compassion, and beauty. You have a vision of harmony and are ready to bring it into reality. You are lead by your heart and want to see peace for everyone involved./n When it comes to making decisions, the Knight of Cups is ruled by his emotions and his heart. When this card arrives in a Tarot reading, you are making decisions based on how you feel about a situation rather than what you think, even if others can’t make sense of what you are doing and why, and your intuition guides you in everything you do.",
+        reversed_meaning: "When the reversed Knight of Cups appears in a Tarot reading, a creative project is emerging, but you are not ready to act on it just yet. You may spend most of your time dreaming up what is possible or how wonderful it will be when it comes to fruition. While it can be enriching to be in the dreamy, ideas phase for a while, the plan will not come into being until you take action. You may need to ground your ideas into reality. Figure out how much it will cost, how much time it will take, what resources you will need, and so on. This will give your project more weight so you can move forward with implementing your idea./n At times, the reversed Knight of Cups can indicate that you are sulky, moody, and jealous. You may feel frustrated that you are not being given the opportunity to dream and create. You allow your emotions to get the better of you if you are not getting your way./n The Knight of Cups reversed can describe someone who has an overly romantic approach to life and is disconnected from reality. You may experience a level of disillusionment that an offer is not quite what you expected it to be because you have found yourself caught up in the excitement or emotion of a situation. For example, you might quit your office job so you can work at home, only to realise you miss the social contact with your co-workers. Or you might sell your house to travel the country, only to find that your campervan needs a whole new engine on Day Two of your journey.",
+        keywords: ["Creativity", "Romance", "Charm", "Imagination", "Beauty"],
+        reversed_keywords: ["Overactive imagination", "Unrealistic", "Jealous", "Moody"],
+        upright_questions: ["Have you ever followed your heart even though it felt like a risk?", "What kind of romantic adventures have you experienced – or want to experience?"],
+        reversed_questions: ["Are you hesitating to work towards your goals?", "How prone to emotional extremes are you?"],
+        past: "Your strengths have been your intellectual capacity and self-determined will power. Being caught slightly off-guard by the new directions and ideas of others is natural to your unique perspective.",
+        present: "An important offer or invitation will arrive suddenly and unexpectedly.",
+        future: "Staying focused and following your most passionate beliefs will lead to progress towards your goals. You will find peace in deep, meaningful connections with others.",
+        yes_no: "The Knight of Cups is a romantic and compassionate dreamer bringing along new opportunities or some sort of positive invitation. He represents self acceptance and an arrival to finding the proper path for your life. The answer you are looking for is yes.",
+        numerology: "6",
+        element: { element: "Water", description: "The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Cancer, Leo, Virgo"
+    },
+    {
+        card_name: "Queen of Cups",
+        arcana: "Minor Arcana",
+        suit: "Cups",
+        img: "../images/cards/c13.jpg",
+        companion_cards: [],
+        meaning: "The Queen of Cups is nurturing, caring, compassionate and sensitive. When you see her in a Tarot reading, you are embodying her ‘nurturing mother’ energy. You support others by listening with your heart, being compassionate, and caring for them deeply. You are empathic and can sense the needs of others by tuning in to your intuition, and you hold the space for others to express their emotions and be the truest, most authentic versions of themselves. You have mastered this in such a way that, even though you hold space for emotional expression, you don’t take on other people’s energy or emotional issues because you are well-grounded and know where to create a healthy separation./n The Queen of Cups says you are highly intuitive, creative, and in flow with the surrounding energies. In your interactions with others, you can easily read other people to get a sense of how to communicate effectively, enabling you both to feel heard and understood. Others may come to you to confide their personal issues regarding relationships, emotions and feelings. They trust you and know that you always have the right solution. You can instantly tune in to what others are going through and can help them make sense of it. You may be a healer, counsellor or intuitive coach; or maybe just a good friend. You recognise the Divine in everyone you meet./n In your creative projects and endeavours, you ‘feel’ your way into them, trusting your heart and your inner guidance to lead you in the right direction. You know when something is ‘off’, and you pay attention to this, even if it doesn’t make rational sense. You may be in tune with the cycles of the moon and nature, using these cycles to manifest your goals and live your dreams./n When the Queen of Cups appears in a Tarot reading, you are being asked to trust your intuition and pay attention to your feelings and emotions. Lead with your heart, not your head. Be open to receive the intuitive messages flowing to you, be it through your dreams, meditation or visualisation. And ‘feel the feels’, even if those feelings are tricky or challenging. You are stronger than you know.",
+        reversed_meaning: "When the reversed Queen of Cups shows up in a Tarot reading, you need to draw your attention inwards and focus on your emotional well-being. You’re great at taking care of others – but now it’s time to take care of YOU. This card suggests that you are emotionally drained because you have been so busy supporting others, but not yourself. You may need to set firm boundaries with your loved ones so that they know you love them but will not take on their emotional baggage. You can hold space for them, but ultimately, they are responsible for their feelings and life experience, and they need to go on their own journey to learn how to cope./n The reversed Queen of Cups could mean you are wrapped up in other people’s emotional responses and have created a co-dependent relationship that is not healthy for either party. You may be giving too much of yourself away, receiving little in return. Or you may be inadvertently fostering dependency so you feel needed. Examine your relationships and see where you can create a healthy detachment. Where can you still give emotional support but not to the detriment of one another?/n The Queen of Cups reversed is often a sign that your intuition is on overdrive right now, but to hear it, you need to give yourself the time and the space to listen. It doesn’t matter how busy you think you are – see this as your sign to reconnect with your intuition and tune in to your inner voice./n At times the reversed Queen of Cups is a warning that you are letting your heart rule over your head and your emotions may overwhelm you. If this resonates, ground yourself, express your feelings privately or with a trusted therapist, and then work through why they’ve bubbled up this way. Be careful not to let your emotions overtake your life in such a way that you worry you are losing control and perspective. Take some quiet time for yourself and meditate or write in your journal. Find a peaceful space to centre and calm your soul. Listen carefully to your intuition and your inner voice./n On the flipside, the Queen of Cups reversed suggests that you may be out of touch with your emotions or forced to restrict or hold them down deep inside. You may struggle to express yourself, instead bottling up your feelings. If you do not address these emotional issues, they will reach a boiling point. Your stress levels may increase, and your ability to cope with everyday problems could suffer./n The reversed Queen of Cups invites you to explore your innermost feelings and emotions to understand what makes you tick. Spend some time alone with just your Tarot cards, your journal and your pen. Connect in with your feelings. How are you feeling? How are you really feeling? It doesn’t matter whether you’re experiencing positive or negative emotions. You are being called to listen to your true feelings and honour them in the process.",
+        keywords: ["Compassionate", "Caring", "Emotionally stable", "Intuitive", "In flow"],
+        reversed_keywords: ["Inner feelings", "Self-care", "Self-love", "Co-dependency"],
+        upright_questions: ["Do you receive as well as you give?", "What is your intuition telling you at this moment?"],
+        reversed_questions: ["How do I handle strong emotions?", "How can I move from reflection to action?"],
+        past: "You have achieved self-awareness by balancing all aspects of your personality. The success you desire is not here yet, but will arrive if you continue to deepen your inner knowledge.",
+        present: "Possibilities to your life will be revealed by the influence of a powerful woman. She may challenge or inspire you, but whatever she does will lead you to valuable insight.",
+        future: "Seek assistance or advice from your loved ones, looking especially to the feminine wisdom around you. Your journey will be determined by your emotional considerations, regardless of your professional success.",
+        yes_no: "The Queen of Cups is a sensitive, quite, and virtuous woman who represents seeking and channelling a transformation within. She suggests a person who is a good listener and a loving counselor. Like her counterpart, the King of Cups, her presence is neither positive nor negative, and she brings an unclear answer to your question.",
+        numerology: "3",
+        element: { element: "Water", description: "The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Gemini, Cancer"
+    },
+    {
+        card_name: "King of Cups",
+        arcana: "Minor Arcana",
+        suit: "Cups",
+        img: "../images/cards/c14.jpg",
+        companion_cards: [],
+        meaning: "The King of Cups represents mastery over the realms of emotion, creativity and the unconscious. When this card turns up in a Tarot reading, you have gained control of your feelings and can accept them without allowing them to get the better of you. Even when life throws you a curve ball, you can draw on your emotional maturity and stability to help you navigate these challenges. You don’t let things get to you, and you steer clear of the drama, instead choosing an emotionally balanced and calm approach./n If you are being challenged personally, the King of Cups suggests you need to remain emotionally mature when faced with negative energy from others. Be firm on your personal boundaries, stating what is and is not acceptable on an emotional level. This King is level-headed and in control of his emotions. He uses his intellect to make smart decisions and does not let other circumstances or whims sway him from his central beliefs and morals. Stay true to your emotions and feelings and do not allow others to steer you off course./n The King of Cups embodies the perfect balance between the executive and the heart. Not only are you able to assess and manage a situation logically, but you can also draw upon your intuition and understanding of human interactions. As a leader, you care as much about achieving your goals and objectives as you do about making sure everyone is happy and engaged along the way. If you sense that logic and emotion are out of balance, draw on the energy of this King to realign yourself./n As a King, he has a masculine, fatherly energy, and as a Cups card, he brings his emotional self to the forefront. He offers wise advice when it comes to feelings, emotions, creativity and relationships and can see the human dynamic in its entirety. The King of Cups is compassionate towards others, creating strong bonds and relationships based on patience and understanding. As you interact with others, you may need to navigate their strong feelings and emotional triggers so you can create a sense of peace in your interactions. He may appear in your life as a mentor, coach or spiritual guide; or you may step into this role yourself.",
+        reversed_meaning: "The reversed King of Cups indicates that you are focusing your attention on your innermost feelings. You are discovering the emotions stored in your subconscious mind and how these emotions affect you. Through this work, you hope to gain a stronger sense of control over your emotional well-being so that your feelings don’t steer you away from living your best life. You may read more self-help books, journaling or seeking the support of a trained counsellor or hypnotherapist so you can journey deep into your subconscious mind./n When the reversed King of Cups appears in your spread, you may be more prone to emotional upset and drama. Others may trigger you or push your buttons HARD, even to where you worry you might lose it and throw an emotional tantrum. You may feel moody, depressed, anxious and unpredictable. You may also lack in self-compassion, beating yourself up over small things that have gone wrong. If this resonates, seek to understand the root cause of your emotions and bring your conscious awareness to the impact they are having on your life. Pay attention to your emotional balance and find your place of calm and compassion. Other people may trigger these emotional responses in you, but it’s up to you to stay in control!/n The reversed King of Cups could show that you are repressing your emotions and withdrawing from the outside world because you fear what may happen if you were to confront your feelings head-on. Your feelings are bottling up inside you, and you are at risk of an emotional outburst if the pressure gets too much. If this resonates, consider finding a therapist to help you to work through your feelings in a safe environment./n At worst, the reversed King of Cups can represent someone who is vindictive and has a talent for being able to punish others through emotional manipulation. He uses emotional blackmail to get his way and to push his personal agenda. He leaves you feeling uncertain about yourself and as if you are the problem, not him. This only leads to (undeserved) emotional instability within you. If this sounds like someone you have met in the past, you still have work to do in releasing yourself from his controlling forces.",
+        keywords: ["Emotionally balanced", "Compassionate", "Diplomatic"],
+        reversed_keywords: ["Self-compassion", "Inner feelings", "Moodiness", "Emotionally manipulative"],
+        upright_questions: ["How do you make sure others are cared for?", "What does it mean to lead with your heart?"],
+        reversed_questions: ["When was a time where you allowed your feelings to dictate your decision?", ],
+        past: "A concern from your past will revisit you. If you have been in need of help, it may be a good idea to seek professional guidance.",
+        present: "Someone who is greatly capable of aiding you will appear in your life. Take their advice and do not hesitate to seek support.",
+        future: "In order to bring about a state of peacefulness, seek advice. You will not find balance on your own, so seek out a powerful ally to guide you.",
+        yes_no: "The King of Cups is a compassionate, warm, and gentle voice of reason. He is an authoritative man with strong intuition and vast spiritual knowledge. This card represents being able to make decisions by channelling experiences and being able to give good/helpful advise. Neither positive nor negative in nature, the answer is unclear.",
+        numerology: "2",
+        element: { element: "Water", description: "The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Libra, Scorpio"
+    },
+    {
+        card_name: "Ace of Swords",
+        arcana: "Minor Arcana",
+        suit: "Swords",
+        img: "../images/cards/s01.jpg",
+        companion_cards: [],
+        meaning: "The Ace of Swords marks a wave of new energy from the intellectual realms. You may be on the verge of a significant breakthrough or a new way of thinking that allows you to view the world with clear eyes. Or, you may have a sudden realisation or conscious understanding about an issue that has been troubling you and can finally see the path ahead of you. Meditate regularly to clear away the mental chatter and make the most of this intellectual potential./n See this card as a sign of encouragement. It says your mind is in 'expansion mode’. You are open to embracing new ideas, craving stimulation, and you’ll jump at the next opportunity to learn something new. You thrive on new ideas, inspiration, original thinking and vision, and you are excited to pursue new opportunities that draw upon your creative and intellectual abilities./n When the Ace of Swords appears in a Tarot reading, it tells you that now is an excellent time to start a new project – one that requires your intellect, communication skills and mental power. You may feel inspired to take a writing class, practice your public speaking skills, or get involved in activities that require more brainpower than usual./n How might you draw on this Ace's motivation and take action on your new ideas? As an Ace, you are at the beginning of the journey, but you can sense the energy building up and can’t wait to get started. If you channel this energy into the right moves, then you will succeed in your endeavours. Just remember that the road ahead may be bumpy and you can expect challenges along the way. Maintain a success mindset, and you will navigate these hurdles with ease./n As with all Swords cards, the Ace of Swords represents power; but the sword is a double-edged blade, implying that it can create and destroy. The message is clear: with power comes responsibility. It will be up to you how you leverage the opportunity for the greater good of all rather than for selfish or aggressive power. You will need a strong heart and mind and need to see how to best use your power for the service of others and yourself./n The Ace of Swords also encourages you to pursue the truth of the matter and to find justice. You may champion a cause or stand up for your rights or the rights of others. Or, you may have a new idea for which you are prepared to fight, or you may feel fired up about an issue you are passionate about, such as human rights. You have great clarity on the situation and can now argue your point of view with truth and conviction. In other words, you are ready for battle.",
+        reversed_meaning: "The Ace of Swords reversed indicates that a new idea or breakthrough is emerging from within you, but you are not willing to share it with others just yet. You may still be exploring what this idea means for you and how to best express and manifest it in the external world. You may also seek greater clarity about whether this is an idea you wish to pursue more fully, perhaps because you are unsure if it will bring the results you truly desire. When this card appears in a Tarot reading, it’s important to give yourself time and space to meditate and clear your mind so you can ‘birth’ this idea in the most effective way./n Sometimes, the reversed Ace of Swords can be a signal you have an idea that’s not coming to fruition in the way you had hoped, and it’s time to go back to the drawing board. You may still be pursuing an idea that no longer has any meaning for you. Or you may have too many ideas on the go, and you cannot commit to one course of action. This card invites you to spend more time on defining in plain terms what it is you want in life. Set yourself some SMART goals (specific, measurable, achievable, realistic and time-bound) so you can be clear on what you are working towards. Focus on the basics and do some better planning. Get clear on your aspirations and goals./n The Ace of Swords reversed can also suggest clouded judgement and lack of mental clarity around a specific situation. You are missing relevant information or evidence that will help you decide, so invest your time and energy into seeking out the truth rather than just taking things at face value.",
+        keywords: ["Breakthroughs", "New ideas", "Mental clarity", "Success"],
+        reversed_keywords: ["Inner clarity", "Re-thinking an idea", "Clouded judgement"],
+        upright_questions: ["What does it mean to be truthful?", "How does conflict make you feel?"],
+        reversed_questions: ["Can you remember a time when you were forced to take initiative?"],
+        past: "You have fought in the name of good, adding your intense energy to an idealistic cause. The events of the recent past have set unchangeable events in motion.",
+        present: "You are entering a new phase of your life and everything is going to change. The causes and results of the change are not certain, but this period will reveal many things to you.",
+        future: "Putting your creative thought in to action may require some courage, but you will be able to overcome the longest odds if you desire.",
+        yes_no: "The Ace of Swords represents victory through having mental strength and achievement. Justice, clarity, and creative thinking are all associated with this card. A brilliant idea could be just around the corner, or perhaps it is some sort of divine inspiration toward creativity. The answer is likely yes.",
+        numerology: "1",
+        element: { element: "Air", description: "The Air element rules over the intellect and the balancing and opposing nature of thoughts. It is a fast-moving energy that seems invisible, but is always there. This element forces you to look at different perspectives and deal with the challenges in your life."},
+        astrological_associations: "Libra, Aquarius, Gemini"
+    },
+    {
+        card_name: "Two of Swords",
+        arcana: "Minor Arcana",
+        suit: "Swords",
+        img: "../images/cards/s02.jpg",
+        companion_cards: [],
+        meaning: "The Two of Swords indicates that you are facing a challenging decision, but you are unclear about which option to take. Both possibilities may seem equally good – or equally bad – and you are stumped about which will lead you to the best outcome. You must be able to weigh up the pros and cons of each choice and then make a conscious judgment. Use both your head (your mind and the intellect) and your heart (your feelings and intuition) to choose the path that is most in alignment with your Higher Self./n In a reading, it may be helpful to draw a further two cards for either side of the Two of Swords to show what it is you are trying to decide upon or balance. You may also like to draw four more cards, for the pros and cons of each choice./n The woman in this card wears a blindfold, indicating that she cannot see the entirety of her circumstance. You may lack the information you need to make the right decisions. You may be missing something, such as the threats or potential risks, alternative solutions or critical pieces of information that would help guide you in a particular direction. Once you remove the blindfold and see the situation for what it really is, you will be in a much better position to find your best path forward. Research your options more, seek outside opinions and feedback and ask yourself what you might be missing./n It is also possible that the woman in the Two of Swords has intentionally chosen to put on the blindfold to avoid making a choice. Are you trying to hide from a challenging situation or impending decision, hoping that if you ignore it long enough, you won’t need to worry about it? Unfortunately, the issue is unlikely to resolve itself, and the longer you delay, the longer you will prolong this present situation./n Similarly, the Two of Swords can reflect indecision and an impasse on an important matter. Again, you can only put it off so long; at some point, you have to make a move./n The Two of Swords comes as a reminder that many of life’s decisions are difficult ones and rarely come with clear-cut answers. The invitation is to make your choices with your best intentions, fully aware of the possible consequences. Avoidance will lead to greater conflict and stagnation.",
+        reversed_meaning: "The Two of Swords reversed suggests that you are facing a difficult decision and cannot decide which direction to take. You are caught between a rock and a hard place, and it feels impossible to make the ‘right’ decision as you believe either option will lead to negative consequences. As a result, you are finding yourself feeling stuck and unable to move forward, which is just making the situation worse./n You may also lack the information you need to make a sound decision. Just as the blindfolded woman is closed off to the external world, you may also be closed off to additional information or alternative solutions that could resolve your dilemma. Or, you might be experiencing information overload, overwhelmed by other people’s points of view and a deluge of information. Sift through the advice available to select only the most relevant and helpful./n The reversed Two of Swords is inviting you to listen to your intuition about this difficult decision. You may need to cut off from the external world temporarily so you can hear your inner voice and allow your wisdom to come through. Trust what you know to be true and right for you. Make your decisions based on your own internal compass./n The Two of Swords reversed often represents a stalemate. You may reach an impasse with a friend, loved one, colleague or supplier. The trouble is that all parties involved are refusing to see the situation from the other's perspective and you are butting heads. Remove the blinders and look at the situation from a different angle. Identify where you can come to a compromise. Otherwise, this issue will not move forward./n The reversed Two of Swords may also suggest you are feeling stuck in the middle of two competing sides. You may be trying to play the peacemaker role, but in doing so, you are just confusing yourself and creating more tension. For example, you may attempt to bring two conflicting family members together in the hope of fostering a harmonious family environment, but instead, you end up being the messenger or the dumping ground for each of their concerns. Decide whether you honestly have a role to play and whether you can create peace between the two opposing parties. Otherwise, get yourself out of there!",
+        keywords: ["Difficult decisions", "Weighing up options", "An impasse", "Avoidance"],
+        reversed_keywords: ["Indecision", "Confusion", "Information overload", "Stalemate"],
+        upright_questions: ["When do you feel the most centered?", "How can you see both sides of a situation without letting your emotions get in the way?"],
+        reversed_questions: ["What viewpoints, other than my own, play a role in this situation?"],
+        past: "Being honest about your past will help you to make a difficult choice. The conflict that you have been experiencing will be resolved by a new approach.",
+        present: "There is a conflict that will lock up your energies in the effort to resolve it. By overcoming indecision, you will take deliberate action to decide the resolution.",
+        future: "The difficult situations that lay ahead of you must be overcome immediately, so do not delay or hesitate. Bring about the best possible ending by acting honestly and with honourable intentions.",
+        yes_no: "The Two of Swords symbolizes conflict resolution and decisions that must be made. However, the conclusions are likely through seeking inner peace and coming to a compromise. While this card suggests a general peace of mine, it leans neither toward yes or no. Thus maybe is the answer.",
+        numerology: "2",
+        element: { element: "Air", description: "The Air element rules over the intellect and the balancing and opposing nature of thoughts. It is a fast-moving energy that seems invisible, but is always there. This element forces you to look at different perspectives and deal with the challenges in your life."},
+        astrological_associations: "Libra"
+    },
+    {
+        card_name: "Three of Swords",
+        arcana: "Minor Arcana",
+        suit: "Swords",
+        img: "../images/cards/s03.jpg",
+        companion_cards: [],
+        meaning: "When the Three of Swords turns up in a Tarot reading, it signals that you are feeling deeply hurt and disappointed. Your heart has been pierced by the sharp blades of others’ hurtful words, actions and intentions, and they have inflicted intense emotions of pain, sadness, grief, and heartbreak. These events are often unexpected and come out of the blue, making them even more painful./n The Three of Swords is also about an emotional release. When you have suffered a major setback or loss, now is an excellent time to have a good cry. Expressing your sadness is part of the cleansing process and letting it all out will help you move on to better times. Allow yourself the opportunity to experience these emotions, no matter how painful. Cry, shout, or scream at the top of your lungs. Do whatever it takes to express your anger or pain as this will help the emotions flow through (and out of) you./n However, it is also essential that you continue to focus on the path ahead. You may run the risk of becoming so absorbed in the emotions swirling around you that you lose sight of the need to just let go and move on. Your focus stays locked on the damage when it should be on the recovery. Now is time to accept what happened and move forward with your life./n The Three of Swords comes as a reminder that pain, sorrow and grief are a necessary part of life. Without pain, you would never experience the challenges you need to grow and develop as a person. Every hardship creates discomfort, which inevitably turns into an opportunity to become stronger, learn from your mistakes, and change the course of your life for the better. While the pain may cloud your vision for a time, it will eventually bring clarity and enable you to put the past behind you. Can you see this experience as a learning opportunity?/n The good news is that this painful season will pass. While the Three of Swords brings hurt and sadness, it is only temporary. You will bounce back. The clouds will dissipate, and soon you will have a better perspective on what you can learn from the experience. You can conquer any pain that comes your way – all it takes is faith, self-love, forgiveness and time./n The Three of Swords often arrives when you are taking others’ words to heart. You may be more prone to internet trolls, workplace bullies or spiteful strangers. Or it may be closer to home, with those you love saying hurtful words to you – just remember that you do not have to accept their words as truth; they are merely another person’s opinion or a projection of their own inner fears and anxieties. Shift the energy by looking at these people with a compassionate heart: what struggles are they going through that they feel they need to throw their insecurities at you? Be mindful, too: why are their words triggering you? Is there a more profound truth in what they've said, one you might not be willing to see just yet? Use these pain points to expand your perspective and see the bigger picture of what is happening here.",
+        reversed_meaning: "The Three of Swords reversed encourages you to pay attention to your inner thoughts and self-talk. Your words are powerful, especially those you repeat to yourself day after day. You may be prone to self-criticism, limiting beliefs and negative self-talk. You may identify with an ‘inner mean girl’ (or boy) who is constantly telling you why you’re not good enough. When you hear these negative thoughts come up, ask yourself whether you would ever utter these words to a friend or loved one and if the answer is a 'hell no', then why are you speaking these words to yourself? Look at how you can shift your thoughts towards the positive to reinforce your confidence. You have what it takes to be the person you deserve to be./n You may also be hypersensitive to others’ words and need to develop a thick skin. Let go of the hurt that these words are causing you – it will only hold you back – and do some self-reflection. What has triggered your feelings and why? And how might you address the underlying issue? For example, if you are upset by a friend’s accusation that you are selfish, look within yourself to see where you may be acting selfishly. If this behaviour is no longer serving you, then let it go./n The Three of Swords reversed can indicate that you have recently gone through a difficult patch in which a relationship has ended or been challenged, a loved one has passed, or you were hurt by a situation that affected you deeply. Thankfully, the reversal of this card suggests that this time has passed, and you are on the path to recovery, realising that with every cloud comes a silver lining and you have other things in your life which bring you joy. You have reached a point where you can accept the pain and are ready to move forward./n On the flip side, the reversed Three of Swords might point out that you are finding it very hard to move on from a recent loss or heartbreak. This card reveals that you are still suffering from an earlier loss and need to go through an emotional purging to free yourself from your past. You are doing your best to leave this behind and make a new life but still have a long journey ahead. Be careful that you are not getting stuck in the moment of grief, and instead focus on embracing new opportunities. It is always hard to bear the pain of separation or understand why you have been inflicted with such sorrow. Learn to accept your circumstances so that the healing process will not become blocked. Allow yourself to experience the pain, give yourself the right to grieve and release the heartache. Open the door to new experiences. When you see the reversed Three of Swords, ask yourself, “In what ways am I suffering? What am I most sorrowful about? What can I do to release this pain and learn from it?”/n If you are experiencing challenges in your relationships, the reversed Three of Swords serves as a reminder to be the peacemaker. Always think before you speak, so you will not later regret what you have said. And never be afraid to say you are sorry.",
+        keywords: ["Heartbreak", "Emotional pain", "Sorrow", "Grief", "Hurt"],
+        reversed_keywords: ["Negative self-talk", "Releasing pain", "Optimism", "Forgiveness"],
+        upright_questions: ["How do you deal with loss?", "When is it best to walk away?"],
+        reversed_questions: ["Can you recall a time when someone really hurt you?", "How did you deal with that?"],
+        past: "There is a great emotional or physical pain that you are still nursing. Letting go of accountability may allow you to embrace the opportunity to create something new provided by the recent destruction of something you loved.",
+        present: "You will soon experience an intense emotional upheaval. This period of suffering will lead you to a better future.",
+        future: "The path ahead of you is being cleared to make room for something new. It is your decision how to make use of the opportunities in store.",
+        yes_no: "The Three of Swords shows the presence of pain and suffering either through an emotional loss, the end of an important relationship, or heartbreak through separation. The emotional disturbances and mental anguish that come along with this card portray an answer of no to your question.",
+        numerology: "3",
+        element: { element: "Air", description: "The Air element rules over the intellect and the balancing and opposing nature of thoughts. It is a fast-moving energy that seems invisible, but is always there. This element forces you to look at different perspectives and deal with the challenges in your life."},
+        astrological_associations: "Libra"
+    },
+    {
+        card_name: "Four of Swords",
+        arcana: "Minor Arcana",
+        suit: "Swords",
+        img: "../images/cards/s04.jpg",
+        companion_cards: [],
+        meaning: "The Four of Swords tells you to rest before you take on the next challenge. You have reached an important first milestone and must recharge your energy before the next phase begins so you are refreshed and ready to go. Even if you are highly productive and driven, take time out from your busy schedule to restore your energy and heal the body and the mind. Constant stress and tension will break even the hardest and most resilient of people but brief periods of rest enable you to refresh your energy, concentration and focus so that you are ready for the next challenge./n If you have been going through tough times recently, such as the trauma of break-up or departure, relationship or family problems, financial and health worries, stress or conflict, then the Four of Swords comes as a sign to take a step back and regain perspective. Take a day off work, travel to a new destination, or spend time with your loved ones – whatever you need to take a break. Now is not the time to make decisions./n In fact, the Four of Swords presents a new challenge: to stay silent and inactive. Now is the time to build up your mental strength by clearing your mind of any mental ‘clutter’ or stress. Meditate and spend time in a place that creates peace, calm and tranquillity for you. Go on retreat or start a meditation course. You need to replenish your strength and spend time connecting with your Higher Self./n The Four of Swords suggests the need for seclusion. You need solitude to negotiate your situation and time apart from others to gather your thoughts and feelings. Following on from the painful loss of the Three of Swords, this Four suggests your need to spend time alone to re-evaluate your life. Solitude, although often difficult to bear, is necessary for you to recharge your batteries and rejuvenate your spirit. This solitary experience always bears fruit in greater inner strength and confidence. Retreat from pain, conflict and distractions, and rid yourself of stress and anxiety. Ground and re-charge yourself. Look inward for a real change and meditate daily./n In a practical sense, the Four of Swords is an indicator that you need to take some time to review your progress so far. This is an excellent time to re-assess your priorities. It is almost like conducting your own ‘post-implementation review’ following a major milestone or a significant challenge. Create time and space to evaluate what has worked well, what has not, and what you need to change. Pausing to reflect after each major challenge will position you well for success in the future.",
+        reversed_meaning: "The Four of Swords reversed sends a powerful message that you need to take time out to rest and recharge your energy. You may be working long hours, giving your time and energy to others in need, or involved in a highly stressful and demanding undertaking. You are close to exhaustion, and your energy reserves are running low or on empty. If you do not stop and take some much-needed rest now, you may crash and burn-out completely, rendering yourself completely ineffective and unable to help anyone./n The reversed Four of Swords is calling you to withdraw from your external world, and retreat within. Now is time for a social media detox, a weekend escape, or a silent retreat so that you can focus your energy within and find your peace once again. Use daily meditation to calm your mind./n The Four of Swords reversed can show that you are restless and wanting to do everything at once. Even if your body is telling you that you need to rest and relax, your mind may push you forward, trying to carry out a long list of tasks and making you sick or stressed as a result. So it is vital that you force yourself to take it easy to make sure you do not run yourself into the ground. Some ‘busy time’ is OK but be careful not to push it so far that you end up hurting your health and well-being. If you need to rest, rest. Even just a quick ‘nanna nap’ on the weekend or a twenty-minute meditation each day can help to re-balance your energy reserves and get you ready for even more productivity./n The Four of Swords reversed can also represent stagnation and a lack of action leading to increased frustration. For example, a long-term marriage has become spiritually and emotionally empty. You may need to take a break and come back to it when the energy is flowing better./n Similarly, the Four of Swords reversed suggests that you are frustrated with the lack of progress and change in your life. Part of this lack of change may be due to your passive approach. There may have been situations that were frustrating to you or that you were unhappy with but you chose to wait it out and hope that they would eventually change. Now you're feeling the ramifications of that choice.",
+        keywords: ["Rest", "Relaxation", "Meditation", "Contemplation", "Recuperation"],
+        reversed_keywords: ["Exhaustion", "Burn-out", "Deep contemplation", "Stagnation"],
+        upright_questions: ["How do you incorporate rest in your world?", "What does self care look like in your life?"],
+        reversed_questions: ["If you could take some time off, what would you do with that time?"],
+        past: "The plans you have already made may not properly guide you through the changes coming. The shadow you have felt hanging over you will soon pass, and the warmth of your life will return.",
+        present: "Organize and examine your thoughts in solitude. Your dormant qualities of inner strength and self respect will guide you.",
+        future: "Take the generous time you have to plan the course of your future. There is no rush to decide what is best for you and the people you care about.",
+        yes_no: "The Four of Swords points toward some sort of sickness or withdrawal. However, it also brings with it rest, healing, and order. Other interpretations could be simply taking a needed break or calling a truce. The position of this card is fairly mild but overall positive. The answer is most likely yes.",
+        numerology: "4",
+        element: { element: "Air", description: "The Air element rules over the intellect and the balancing and opposing nature of thoughts. It is a fast-moving energy that seems invisible, but is always there. This element forces you to look at different perspectives and deal with the challenges in your life."},
+        astrological_associations: "Libra"
+    },
+    {
+        card_name: "Five of Swords",
+        arcana: "Minor Arcana",
+        suit: "Swords",
+        img: "../images/cards/s05.jpg",
+        companion_cards: [],
+        meaning: "The Five of Swords turns up when you have had a falling out, disagreement or conflict, and you are walking away with a sense of sadness and loss. You may be upset and resentful over the heated words you said and now wish you could take back. ‘Bad blood’ and a general ‘icky-ness’ hang over you as your relations have turned sour./n Even if you won the argument or came out the apparent victor, you realise that you have lost as much as (or more than) your opponent. This battle has cost you trust, respect or dignity, and isolated you. As you try to pick up the pieces and set the conflict behind you, you find it‘s more difficult than you thought; others have lost faith in you and are keeping their distance. You will need to decide whether your point of view is so important to you that you’re willing to put your relationships in jeopardy, or if you can compromise and see eye-to-eye./n The advice of the Five of Swords is to pick your battles. You may be tempted to fight every conflict to ensure you get your way, to prove that you are right, or defend yourself when you are feeling challenged or threatened. However, most experts agree, choosing your battles wisely is a much better way of life than engaging in every disagreement. Not only will it lead to a more peaceful existence, but your interpersonal relationships are likely to come out stronger./n The Five of Swords can often indicate that you are competing with others on the path to success. You see them as threats to your own happiness, and so you seek to win at any cost./n If you have been engaged in a conflict and can see it taking its toll, the Five of Swords is an invitation to apologise. The longer you brood, or the more you try to prove you were right, the more challenging the relationship will become. Be ready to say you were wrong and make amends. There’s no sense in trying to justify your behaviour; just let it go and move on. Look for common ground with those you have been fighting with, or seek forgiveness so you can put this behind you./n The Five of Swords may also point to failure. It shows that, despite your best efforts, you are likely to be beaten or come out as the loser. If you allow yourself to become disillusioned after such a loss, then you will find yourself on the path to increased ruin and torment. Accept your defeat, and learn from it. Be smarter and wiser next time.",
+        reversed_meaning: "The Five of Swords reversed speaks for those times when you’ve tried to argue to the end, only to realise that you’ll lose no matter what. You’ve been pushing and pushing, but whoever is on the other end is not listening. And no doubt they feel the same. You’re both fighting to win, at the expense of the other person. And when you’re in this oppositional posture, you end up feeling awful – win or no win./n As a card of conflict, tension and disagreement, the Five of Swords reversed shows that you want this period of fighting to be over so you can forgive and forget, and then focus your energies on more constructive activities such as restoring your relationship back to normal. You realise that there can only be losers in this battle and want to move on./n At times, the Five of Swords reversed can express conflict in your life that you have tried to walk away from but which continues to follow you. For example, there may still be an ex in your life making things difficult and who may prevent you from moving on to new relationships. So long as conflict, tension and raw emotion are at play, avoid this person or situation./n Similarly, the reversed Five of Swords can suggest that an old wound has been re-opened and you are experiencing the fear and tension associated with that memory. You may be particularly worried that history might repeat itself or that you could be hurt again. Aim to forgive and forget so you can indeed move on./n There may be residual resentment following a recent or past argument with someone close to you. You have had some very challenging and heated conversations together, and you still harbour negative emotion from these discussions. If the conflict remains unresolved and unaddressed, it may be impacting your ability to create a harmonious relationship./n The Five of Swords reversed suggests that after a period of conflict, you are ready to move forward with your life and create positive change. Bring your energy back within and ground yourself. Come back to that beautiful, soulful person you are and ask yourself: how can I help create a win-win solution here? It may mean a compromise, or it might be time to move on with your life. This is your opportunity to apologise, ask for forgiveness, and make amends so you can move on and create a more fertile ground for new ideas and collaboration.",
+        keywords: ["Conflict", "Disagreements", "Competition", "Defeat", "Winning at all costs"],
+        reversed_keywords: ["Reconciliation", "Making amends", "Past resentment"],
+        upright_questions: ["How do I behave when I win? What does that say about me?","How can I do what's necessary without making others feel defeated?"],
+        reversed_questions: ["Do you need to be the winner every time?"],
+        past: "The failures you have experienced are the result of your overestimations and inabilities. In order to succeed, you must be honest with yourself.",
+        present: "An unrealistic attitude may cause you to experience defeat. Your mistake will cause pain. Be realistic in your expectations in order to assess and move past the conflict.",
+        future: "Take your losses with grace and do not give in to despair; you can create victory from the results of any defeat.",
+        yes_no: "The Five of Swords suggests conflict, discord, and troubles to come. There could be a loss, defeat, or painful separation in the near future accompanied by feelings of brokenness and low self-esteem. Nothing associated with this card is of a positive nature, and thus, your answer is no.",
+        numerology: "5",
+        element: { element: "Air", description: "The Air element rules over the intellect and the balancing and opposing nature of thoughts. It is a fast-moving energy that seems invisible, but is always there. This element forces you to look at different perspectives and deal with the challenges in your life."},
+        astrological_associations: "Aquarius"
+    },
+    {
+        card_name: "",
+        arcana: "Minor Arcana",
+        suit: "Swords",
+        img: "../images/cards/s02.jpg",
         companion_cards: [],
         meaning: "",
         reversed_meaning: "",
@@ -416,9 +836,9 @@ const tarot = [
         present: "",
         future: "",
         yes_no: "",
-        numerology: "",
-        element: { element: "", description: ""},
-        astrological_associations: ""
+        numerology: "2",
+        element: { element: "Air", description: "The Air element rules over the intellect and the balancing and opposing nature of thoughts. It is a fast-moving energy that seems invisible, but is always there. This element forces you to look at different perspectives and deal with the challenges in your life."},
+        astrological_associations: "Libra, Aquarius, Gemini"
     },
 ]
 
@@ -430,819 +850,6 @@ const tarot = [
 {
     "description": "tarot cards and basic information about them, as well as references to corresponding scans",
     "cards": [
-      {
-        "name": "The Sun",
-        "number": "19",
-        "arcana": "Major Arcana",
-        "suit": "Trump",
-        "img": "m19.jpg",
-        "fortune_telling": [
-                  "Everything's coming up roses (or sunflowers, whatever the case may be)", 
-                  "Whatever's on your mind, go for it because you can't lose today"
-              ], 
-              "keywords": [
-                  "joy", 
-                  "brilliance", 
-                  "validation", 
-                  "attention", 
-                  "energy"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Seeing things clearly", 
-                      "Experiencing intense joy", 
-                      "Celebrating your own successes", 
-                      "Knowing you're good at what you do", 
-                      "Gaining recognition for your personal genius"
-                  ], 
-                  "shadow": [
-                      "Being dazzled by your own accomplishments", 
-                      "Becoming absorbed in your own self-image", 
-                      "Feeling rushed and distracted", 
-                      "Exerting yourself to the point of exhaustion", 
-                      "Overstating your abilities or misrepresenting your achievements"
-                  ]
-              },
-          "Archetype" : "The Holy Masculine",
-        "Hebrew Alphabet" : "Resh/Head/200",
-        "Numerology" : "19 = 1 + 9 = 10 (completion, exhaustion) 1 + 0 = 1 (starting point, opportunity)",
-        "Elemental" : "The Sun",
-        "Mythical/Spiritual" : "God the Father. Sun gods, including Ra, Apollo, and Helios. The moment of baptism. Claiming a new faith as your own.",
-        "Questions to Ask" : ["How can I take best advantage of the attention coming my way?","What are my highest spiritual goals?","How can I avoid being bedazzled by the energy swirling around me?"]
-      },
-      {
-        "name": "Judgement",
-        "number": "20",
-        "arcana": "Major Arcana",
-        "suit": "Trump",
-        "img": "m20.jpg",
-        "fortune_telling": [
-                  "An old issue you thought was over will come up again today", 
-                  "Get ready for huge changes: break-ups, sudden calls from old friends, and unexpected setbacks", 
-                  "God's trying to get your attention"
-              ], 
-              "keywords": [
-                  "revival", 
-                  "renewal", 
-                  "resurrection", 
-                  "evaluation", 
-                  "invitation"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Receiving a wake-up call", 
-                      "Discovering a new purpose in life", 
-                      "Becoming totally and completely yourself", 
-                      "Receiving a well-deserved reward", 
-                      "Passing an evaluation or examination", 
-                      "Welcoming the start of a new phase of life"
-                  ], 
-                  "shadow": [
-                      "Being weighed in the balances and found wanting", 
-                      "Failing to measure up to a well-defined standard", 
-                      "Being caught goofing off or misbehaving", 
-                      "Failing to prepare for an examination you know is coming", 
-                      "Rejecting an opportunity to reinvent yourself"
-                  ]
-              },
-          "Archetype" : "Resurrection",
-        "Hebrew Alphabet" : "Sin/Tooth/300",
-        "Numerology" : "20 = 2 + 0 = 2 (division, duality)",
-        "Elemental" : "Fire",
-        "Mythical/Spiritual" : "The resurrected Christ. The Last Judgment of Revelation. The phoenix, which rises to new life from its own ashes.",
-        "Questions to Ask" : ["What is the main thing I need to realize about myself?","In what way might the universe be trying to get my attention?","If I were to reinvent myself, what would I become?"]
-      },
-      {
-        "name": "The World",
-        "number": "21",
-        "arcana": "Major Arcana",
-        "suit": "Trump",
-        "img": "m21.jpg",
-        "fortune_telling": [
-                  "Winning the lottery", 
-                  "Getting your heart's desire", 
-                  "Having everything you ever imagined having"
-              ], 
-              "keywords": [
-                  "wholeness", 
-                  "integration", 
-                  "totality", 
-                  "completeness", 
-                  "fullness"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Having it all", 
-                      "Knowing and loving yourself as completely as possible", 
-                      "Seeing the interconnection of all things and people", 
-                      "Enhancing your perspective", 
-                      "Living life to its fullest", 
-                      "Understanding the meaning of life"
-                  ], 
-                  "shadow": [
-                      "Allowing greed and envy to prevent you from enjoying what you do possess", 
-                      "Failing to see the larger design in ordinary events", 
-                      "Believing that everything that exists can be touched, counted, or measured", 
-                      "Failing to see the divine reflected in those around you"
-                  ]
-              },
-          "Archetype" : "Enlightenment",
-        "Hebrew Alphabet" : "Tau/Cross/400",
-        "Numerology" : "21 = 2 + 1 = 3 (expression, result)",
-        "Elemental" : "Saturn",
-        "Mythical/Spiritual" : "The ascended Christ. The Buddha attaining enlightenment. The alpha and the omega. The completion of the alchemist's great work.",
-        "Questions to Ask" : ["For me, what would having it all mean?","How aware am I of my own connectedness to the world around me?","What keeps me from having it all right now, today?"]
-      },
-      {
-        "name": "Ace of Cups",
-        "number": "1",
-        "arcana": "Minor Arcana",
-        "suit": "Cups",
-        "img": "c01.jpg",
-        "fortune_telling": [
-                  "Romance is in the cards",
-                  "A new relationship or marriage is just around the corner", 
-                  "Prayers are answered"
-              ], 
-              "keywords": [
-                  "intuition", 
-                  "spirituality", 
-                  "affection", 
-                  "motivation"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Trusting your feelings", 
-                      "Opening yourself to spirit", 
-                      "Accepting and returning affection", 
-                      "Getting in touch with what motivates you", 
-                      "Taking advantage of an opportunity to express love to others", 
-                      "Listening to the still, small voice"
-                  ], 
-                  "shadow": [
-                      "Hiding your feelings", 
-                      "Spurning an opportunity to love or be loved", 
-                      "Numbing yourself to spiritual yearnings", 
-                      "Rejecting the counsel of your heart", 
-                      "Becoming a puppet of your own emotions", 
-                      "Indulging in hysteria or obsession"
-                  ]
-              },
-          "Numerology" : "1 (The Origin: the starting point, the seed, opportunity)",
-        "Astrology" : "Cancer, Scorpio, Pisces",
-        "Affirmation" : "\"I listen to the counsel of my heart.\"",
-        "Questions to Ask" : ["What am I feeling right now?","How would I go about opening myself to spiritual guidance?","What motivates me the most - pleasure or pain? Why?"]
-      },
-      {
-        "name": "Two of Cups",
-        "number": "2",
-        "arcana": "Minor Arcana",
-        "suit": "Cups",
-        "img": "c02.jpg",
-        "fortune_telling": [
-                  "Someone has a secret crush on you", 
-                  "Relationships should be mutual; get rid of a leech"
-              ], 
-              "keywords": [
-                  "union", 
-                  "attraction", 
-                  "combination", 
-                  "affection"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Being drawn to someone", 
-                      "Longing for someone or something", 
-                      "Acting on your desires", 
-                      "Discovering a feeling is mutual", 
-                      "Doing what makes you feel good", 
-                      "Merging", 
-                      "Healing broken ties", 
-                      "Admitting two people feel differently about each other and moving on"
-                  ], 
-                  "shadow": [
-                      "Burning bridges", 
-                      "Becoming caught up in unhealthy codependency", 
-                      "Shutting out anyone but your chosen few", 
-                      "Obsessing on someone who does not return your affections", 
-                      "Despairing over finding \"The One\"",
-                      "Deceiving yourself about your true orientation"
-                  ]
-              },
-          "Numerology" : "2 (The Other: duality, division, debate)",
-        "Astrology" : "Venus in Cancer",
-        "Affirmation" : "\"I am attuned to what my heart truly desires.\"",
-         "Questions to Ask" : ["How can I make sure that what I'm feeling is mutual?\",\"When was the last time I felt \"in love\" with someone or something?","What do you need in order to feel emotionally stable?"]
-      },
-      {
-        "name": "Three of Cups",
-        "number": "3",
-        "arcana": "Minor Arcana",
-        "suit": "Cups",
-        "img": "c03.jpg",
-        "fortune_telling": [
-                  "Unconventional romance is coming your way: a love affair with someone you've always dismissed"
-              ], 
-              "keywords": [
-                  "celebration", 
-                  "expression", 
-                  "community", 
-                  "friendliness"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Celebrating your feelings or connections with others", 
-                      "Expressing joy through song, dance, or physical affection", 
-                      "Working together with others who share your feelings", 
-                      "Performing acts of service as a way of saying, \"I love you\"",
-                      "Embracing unconventional romantic arrangements"
-                  ], 
-                  "shadow": [
-                      "Mistaking giddiness for true affection", 
-                      "Being dominated by manic emotions", 
-                      "Expecting everyone to always feel the same way you do", 
-                      "Demanding unreasonable support from friends or family", 
-                      "Partying to a dangerous or unhealthy extent"
-                  ]
-              },
-          "Numerology" : "3 (The Result: expression, productivity, output)",
-        "Astrology" : "Mercury in Cancer",
-        "Affirmation" : "\"I allow my actions to reflect my true emotions.\"",
-        "Questions to Ask" : ["What's worth celebrating in my life?","How can I demonstrate my feelings in appropriate ways?","What can I do to show my partner how I really feel?"]
-      },
-      {
-        "name": "Four of Cups",
-        "number": "4",
-        "arcana": "Minor Arcana",
-        "suit": "Cups",
-        "img": "c04.jpg",
-        "fortune_telling": [
-                  "A lover is getting restless", 
-                  "Find out what he or she needs, or new opportunities may lure your partner away"
-              ], 
-              "keywords": [
-                  "boredom", 
-                  "listlessness", 
-                  "lethargy", 
-                  "stability", 
-                  "ingratitude"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Maintaining your emotional stability", 
-                      "Refusing to give in to overwhelming emotions", 
-                      "Appreciating what you have and refusing to take it for granted", 
-                      "Seeing the value of long-term commitments"
-                  ], 
-                  "shadow": [
-                      "Being bored", 
-                      "Daydreaming at the expense of your work", 
-                      "Refusing to be engaged by opportunity", 
-                      "Taking people and relationships for granted", 
-                      "Ignoring romantic or spiritual opportunities", 
-                      "Spurning inspiration", 
-                      "Feeling everything should stay \"just like it is\""
-                  ]
-              },
-           "Numerology" : "4 (The Status Quo: stability, equality, persistence)",
-        "Astrology" : "Moon in Cancer",
-        "Affirmation" : "\"I appreciate what I've been given.\"",
-        "Questions to Ask" : ["How can I use this \"downtime\" to my best advantage?","How can I show my partner that I don't take him or her for granted?","To what extent is my mood blinding me to new opportunities?"]
-      },
-      {
-        "name": "Five of Cups",
-        "number": "5",
-        "arcana": "Minor Arcana",
-        "suit": "Cups",
-        "img": "c05.jpg",
-        "fortune_telling": [
-                  "A breakup looms", 
-                  "Don't cry over spilt milk", 
-                  "Take your lumps and get back in the saddle"
-              ], 
-              "keywords": [
-                  "loss", 
-                  "despair", 
-                  "re-evaluation", 
-                  "regret", 
-                  "uncertainty", 
-                  "repentance"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Acknowledging loss and moving on", 
-                      "Focusing on how the glass remains \"half-full\"",
-                      "Finding the silver lining in a dark cloud", 
-                      "Recognizing that loss is a natural part of life", 
-                      "Embracing healthy grief", 
-                      "Learning lessons from harsh consequences"
-                  ], 
-                  "shadow": [
-                      "Wallowing in unhealthy grief or self-pity", 
-                      "Refusing to move on and let go", 
-                      "Clinging to the past", 
-                      "Obsessing on past lives and past loves", 
-                      "Failing to live in the present", 
-                      "Beating yourself up over past mistakes", 
-                      "Allowing fear of failure to limit your efforts"
-                  ]
-              },
-          "Numerology" : "5 (The Catalyst: instability, resistance, confrontation)",
-        "Astrology" : "Mars in Scorpio",
-        "Affirmation" : "\"I learn from my losses and move on.\"",
-        "Questions to Ask" : ["How do I tend to deal with loss?","What life lesson might I be learning now?","How can I shift my attention from the past to the future?"]
-      },
-      {
-        "name": "Six of Cups",
-        "number": "6",
-        "arcana": "Minor Arcana",
-        "suit": "Cups",
-        "img": "c06.jpg",
-        "fortune_telling": [
-                  "A stingy spirit is strangling your enjoyment of life", 
-                  "Loosen up and think of others for once, why don't you?"
-              ], 
-              "keywords": [
-                  "charity", 
-                  "sharing", 
-                  "sacrifice", 
-                  "cooperation", 
-                  "fairness"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Donating your time and talents to others", 
-                      "Taking satisfaction in knowing how your efforts will aid others", 
-                      "Creating a \"win-win\" scenario", 
-                      "Giving even when you know repayment is not possible", 
-                      "Being motivated to do a good deed"
-                  ], 
-                  "shadow": [
-                      "Linking your sense of self-worth to the appraisals of others", 
-                      "Striving to appear more needy than you really are", 
-                      "Taking undeserved or unmerited charity", 
-                      "Bragging about your charitable efforts", 
-                      "Profiteering in times of distress", 
-                      "Refusing to share a burden"
-                  ]
-              },
-          "Numerology" : "6 (The Adjustment: cooperation, collaboration, interaction)",
-        "Astrology" : "Sun in Scorpio",
-        "Affirmation" : "\"I freely give myself to others, expecting nothing in return.\"",
-         "Questions to Ask" : ["What gifts do I possess? How freely do I give them?","How can I practice unconditional giving?","How would things change if I became a more charitable person?"]
-      },
-      {
-        "name": "Seven of Cups",
-        "number": "7",
-        "arcana": "Minor Arcana",
-        "suit": "Cups",
-        "img": "c07.jpg",
-        "fortune_telling": [
-                  "You're being fed a line", 
-                  "Rather than be dazzled by fancy words and promises, demand something real"
-              ], 
-              "keywords": [
-                  "imagination", 
-                  "dreams", 
-                  "illusions", 
-                  "goals"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Motivating yourself with images of future success", 
-                      "Using visualization to encourage progress", 
-                      "Taking an imaginative or creative approach to problem solving", 
-                      "Making dreams come true", 
-                      "Gleaning insight from personal visions"
-                  ], 
-                  "shadow": [
-                      "Obsessing on imaginary fears or uncertain consequences", 
-                      "Giving in to emotional or political terrorism", 
-                      "Spending more time dreaming than working", 
-                      "Failing to envision the possible repercussions of your choices", 
-                      "Being controlled by fear"
-                  ]
-              },
-          "Numerology" : "7 (The Motive: imagination, inner work, psychology)",
-        "Astrology" : "Venus in Scorpio",
-        "Affirmation" : "\"I use inner vision as a tool for growth.\"",
-        "Questions to Ask" : ["What do you want most? What do you fear most? How are these related?","How is your imagination working for you? Against you?","How might a clearer personal vision help you choose a single cup from the many available?"]
-      },
-      {
-        "name": "Eight of Cups",
-        "number": "8",
-        "arcana": "Minor Arcana",
-        "suit": "Cups",
-        "img": "c08.jpg",
-        "fortune_telling": [
-                  "Someone's \"stepping out\" on you, now or in the near future", 
-                  "Maybe it's time to quit talking about the problem and just move on"
-              ], 
-              "keywords": [
-                  "longing", 
-                  "dissatisfaction", 
-                  "quest", 
-                  "departure", 
-                  "withdrawal"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Wanting something better", 
-                      "Blazing your own trail", 
-                      "Realizing there must be more to life", 
-                      "Leaving an unhealthy situation behind", 
-                      "Starting your own business", 
-                      "Going on a retreat", 
-                      "Seeking the \"still, small voice\""
-                  ], 
-                  "shadow": [
-                      "Being implacable", 
-                      "Finding fault", 
-                      "Nitpicking", 
-                      "Refusing to settle down", 
-                      "Running away from problems or confrontations", 
-                      "Saying, \"It's my way or the highway!\"",
-                      "Harping on past mistakes and disappointments", 
-                      "Threatening to quit as a strategy to get your way"
-                  ]
-              },
-          "Numerology" : "8 (The Action: movement, outer work, swiftness)",
-        "Astrology" : "Saturn in Pisces",
-        "Affirmation" : "\"I am always open to opportunities for growth.\"",
-        "Questions to Ask" : ["What do I need to leave behind once and for all?","If I left in search of \"more,\" what would I be looking for, exactly?","How might a retreat enhance my perspective?"]
-      },
-      {
-        "name": "Nine of Cups",
-        "number": "9",
-        "arcana": "Minor Arcana",
-        "suit": "Cups",
-        "img": "c09.jpg",
-        "fortune_telling": [
-                  "Whatever you want, you'll get it"
-              ], 
-              "keywords": [
-                  "satisfaction", 
-                  "sensuality", 
-                  "luxury", 
-                  "pleasure"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Being delighted with your own achievements", 
-                      "Recognizing your own talents and abilities", 
-                      "Reveling in the good things life has to offer", 
-                      "Indulging yourself", 
-                      "Relaxing and unwinding", 
-                      "Having everything you need in order to feel complete"
-                  ], 
-                  "shadow": [
-                      "Being smug", 
-                      "Satisfying yourself at the expense of others", 
-                      "Being selfish", 
-                      "Over-indulging", 
-                      "Avoiding work that needs to be done", 
-                      "Claiming achievements or skills you do not possess", 
-                      "Never being satisfied, no matter how much you have"
-                  ]
-              },
-          "Numerology" : "9 (The Completion: fullness, readiness, ripeness)",
-        "Astrology" : "Jupiter in Pisces",
-        "Affirmation" : "\"I have everything I need to be happy.\"",
-         "Questions to Ask" : ["What is true happiness?","If I could have anything, what would I have?","What is my attitude toward luxury? Do I deserve it?"]
-      },
-      {
-        "name": "Ten of Cups",
-        "number": "10",
-        "arcana": "Minor Arcana",
-        "suit": "Cups",
-        "img": "c10.jpg",
-        "fortune_telling": [
-                  "Marriage and family are in the cards", 
-                  "Expect a friendship to blossom into a romance"
-              ], 
-              "keywords": [
-                  "joy", 
-                  "fulfillment", 
-                  "overwhelming emotion", 
-                  "giddiness"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Having more than you ever dreamed", 
-                      "Being deeply thankful for all you've been given", 
-                      "Recognizing the Hand of God in the gifts the Universe brings your way", 
-                      "Experiencing transcendent joy", 
-                      "Achieving domestic bliss"
-                  ], 
-                  "shadow": [
-                      "Comparing your achievements or relationships to unrealistic fantasy standards", 
-                      "Experiencing emotions so intense they blunt your ability to cope with reality", 
-                      "Feeling overwhelmed", 
-                      "Envying the achievements and happiness of others"
-                  ]
-              },
-          "Numerology" : "10 (The End: finality, completion, exhaustion)",
-        "Astrology" : "Mars in Pisces",
-        "Affirmation" : "\"I take time to appreciate what I've been given.\"",
-        "Questions to Ask" : ["Who gets to define what \"joy\" consists of?","What course of action is available when you feel overwhelmed?","How might vows or promises play a role in achieving a greater level of joy in your life?"]
-      },
-      {
-        "name": "Page of Cups",
-        "number": "11",
-        "arcana": "Minor Arcana",
-        "suit": "Cups",
-        "img": "c11.jpg",
-        "fortune_telling": [
-                  "This card represents a young man or woman with a watery, dreamy demeanor, likely born a Libra, Scorpio, or Sagittarius, who wants to start a new relationship with you"
-              ], 
-              "keywords": [
-                  "enthusiasm", 
-                  "first impressions", 
-                  "romanticism", 
-                  "superficiality"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Showing your emotions freely", 
-                      "Throwing yourself into romance", 
-                      "Nursing a secret crush", 
-                      "Indulging in romantic fantasy", 
-                      "Starting a new relationship", 
-                      "Recalling your first love", 
-                      "Experiencing love for the first time", 
-                      "Converting to a new religion"
-                  ], 
-                  "shadow": [
-                      "Mistaking a crush for true love", 
-                      "Reading romantic intention into innocent action", 
-                      "Frantically trying to impress others", 
-                      "Indulging in overly-sweet sentimentality", 
-                      "Pretending to more romantic or spiritual experience than you possess"
-                  ]
-              },
-           "Elemental" : "Earth of Water.",
-        "Affirmation" : "\"I am ready to embrace love and Spirit.\"",
-        "Questions to Ask" : ["How worried are you that others will see you as foolish or inexperienced?","To what extent can you be honest about your lack of experience in love and faith?","How can you maintain enthusiasm over time?"]
-      },
-      {
-        "name": "Knight of Cups",
-        "number": "12",
-        "arcana": "Minor Arcana",
-        "suit": "Cups",
-        "img": "c12.jpg",
-        "fortune_telling": [
-                  "This card represents a man with an emotional, sensitive personality, likely born between October 13th and November 11th, who wants you to rally around his latest passionate cause"
-              ], 
-              "keywords": [
-                  "fervor", 
-                  "zeal", 
-                  "moodiness", 
-                  "illumination"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Being deeply committed to a cause", 
-                      "Giving in to strong emotions, from excitement to depression", 
-                      "Acting on intuition alone", 
-                      "Solving problems intuitively", 
-                      "Believing in and basing decisions on ideals instead of realities", 
-                      "Bringing intuition or passion to the table"
-                  ], 
-                  "shadow": [
-                      "Becoming a fanatic", 
-                      "Rejecting information that suggests your intuitions are misguided", 
-                      "Allowing your emotions to control you", 
-                      "Giving in to jealousy, confrontation, and peer pressure", 
-                      "Hiding or ignoring intuitive insights"
-                  ]
-              },
-          "Elemental" : "Air of Water.",
-        "Affirmation" : "\"I translate my passions into actions.\"",
-         "Questions to Ask" : ["How prone to emotional extremes are you?","What's the difference in driving passion and blind zeal?","How can you inspire others without inciting a riot?"]
-      },
-      {
-        "name": "Queen of Cups",
-        "number": "13",
-        "arcana": "Minor Arcana",
-        "suit": "Cups",
-        "img": "c13.jpg",
-        "fortune_telling": [
-                  "This card represents a woman with an emotional, deeply spiritual nature, likely born between June 11th and July 11th, who uses emotional and spiritual appeals to sway others to her point of view"
-              ], 
-              "keywords": [
-                  "insightfulness", 
-                  "spirituality", 
-                  "compassion", 
-                  "empathy", 
-                  "instinct"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Allowing yourself to be moved by the plight of others", 
-                      "Feeling strong emotions", 
-                      "Possessing unusual sympathy or empathy", 
-                      "Trusting your feelings to guide you", 
-                      "Calling on psychic abilities", 
-                      "Achieving unity with Spirit"
-                  ], 
-                  "shadow": [
-                      "Becoming so caught up in matters of Spirit, you become detached from the world", 
-                      "Allowing empathy to disable you (instead of inspire action)", 
-                      "Using psychic abilities to wield covert influence", 
-                      "Wallowing in emotionalism, sentiment, or self-pity"
-                  ]
-              },
-          "Elemental" : "Water of Water.",
-        "Affirmation" : "\"I choose to be enabled, not disabled, by my strong emotions.\"",
-        "Questions to Ask" : ["How do I handle strong emotions?","To what extent am I a victim of my own feelings?","How can I move from reflection to action?"]
-      },
-      {
-        "name": "King of Cups",
-        "number": "14",
-        "arcana": "Minor Arcana",
-        "suit": "Cups",
-        "img": "c14.jpg",
-        "fortune_telling": [
-                  "This card represents an older man with a gentle, sensitive presence, likely born between February 9th and March 10th, who is known for his fairness and tolerance"
-              ], 
-              "keywords": [
-                  "wisdom", 
-                  "diplomacy", 
-                  "restraint", 
-                  "composure"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Keeping a stiff upper lip", 
-                      "Being brave and clear in the face of adverse circumstances", 
-                      "Sharing experience as a way of comforting others", 
-                      "Making fair and empathetic decisions", 
-                      "Honoring the spirit, not just the letter, of the law"
-                  ], 
-                  "shadow": [
-                      "Allowing yourself to become rigid and unemotional", 
-                      "Making unfair decisions based on a hidden agenda", 
-                      "Making decisions without regard for their emotional impact on others", 
-                      "Abusing spiritual authority", 
-                      "Using emotional or spiritual leverage to exercise unhealthy control over others"
-                  ]
-              },
-          "Elemental" : "Fire of Water.",
-        "Affirmation" : "\"I strive to be stable and fair-minded.\"",
-        "Questions to Ask" : ["What wise person could be consulted for good advice?","How can I make sure I'm being as objective and fair as possible?","To what extent am I capable of keeping a \"stiff upper lip?\""]
-      },
-      {
-        "name": "Ace of Swords",
-        "number": "1",
-        "arcana": "Minor Arcana",
-        "suit": "Swords",
-        "img": "s01.jpg",
-        "fortune_telling": [
-                  "The time to make a choice is now", 
-                  "Stop wavering and do what you know is best"
-              ], 
-              "keywords": [
-                  "logic", 
-                  "objectivity", 
-                  "intellect", 
-                  "choice"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Making objective decisions", 
-                      "Applying logic", 
-                      "Reasoning your way out of a difficult situation", 
-                      "Solving puzzles", 
-                      "Thinking things through", 
-                      "Emphasizing the facts", 
-                      "Clearing your mind", 
-                      "Seeking clarity"
-                  ], 
-                  "shadow": [
-                      "Applying ruthless or twisted logic", 
-                      "Gloating over your own superior intellect", 
-                      "Using quick thinking to deceive or confuse others", 
-                      "Confusing snap judgments with quick thinking", 
-                      "Making decisions without thinking through consequences"
-                  ]
-              },
-          "Numerology" : "1 (The Origin: the starting point, the seed, opportunity)",
-        "Astrology" : "Libra, Aquarius, Gemini",
-        "Affirmation" : "\"I take the time to think things through.\"",
-        "Questions to Ask" : ["If I made my decision purely based on reason and logic, what would my decision be?","What do I think about my own problem-solving ability?","Who can supply me with the pure and simple facts?"]
-      },
-      {
-        "name": "Two of Swords",
-        "number": "2",
-        "arcana": "Minor Arcana",
-        "suit": "Swords",
-        "img": "s02.jpg",
-        "fortune_telling": [
-                  "Sometimes, the only way to win is to refuse to fight", 
-                  "You're stuck for now; let time pass before taking action"
-              ], 
-              "keywords": [
-                  "denial", 
-                  "debate", 
-                  "impasse", 
-                  "truce"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Refusing to make a decision without getting the facts", 
-                      "Exploring both sides of an argument", 
-                      "Arguing passionately for what you believe in", 
-                      "Weighing the issues", 
-                      "Encouraging the open exchange of ideas", 
-                      "Discussing political or religious issues without getting \"hot under the collar\""
-                  ], 
-                  "shadow": [
-                      "Rejecting evidence that conflicts with dearly-held beliefs", 
-                      "Arguing with others just for the sake of doing so", 
-                      "Nit-picking", 
-                      "Putting off a decision because you're afraid to face the consequences", 
-                      "Preventing others from getting the information they need to make good decisions"
-                  ]
-              },
-          "Numerology" : "2 (The Other: duality, division, debate)",
-        "Astrology" : "Moon in Libra",
-        "Affirmation" : "\"I strive to see all sides of every issue.\"",
-        "Questions to Ask" : ["What information do I need to get past this impasse?","How can I get past being defensive and see the facts?","What viewpoints, other than my own, play a role in this situation?"]
-      },
-      {
-        "name": "Three of Swords",
-        "number": "3",
-        "arcana": "Minor Arcana",
-        "suit": "Swords",
-        "img": "s03.jpg",
-        "fortune_telling": [
-                  "Breakups and infidelity abound", 
-                  "What hurts now, though, will turn out to be good for you later on"
-              ], 
-              "keywords": [
-                  "variance", 
-                  "difference", 
-                  "dissatisfaction", 
-                  "heartache", 
-                  "rejection"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Being brave enough to see things as they really are", 
-                      "Exercising your critical eye", 
-                      "Being your own best critic", 
-                      "Acknowledging that things don't always turn out as planned", 
-                      "Moving past heartbreak to embrace a painful truth"
-                  ], 
-                  "shadow": [
-                      "Wallowing in despair", 
-                      "Allowing yourself to be completely crushed by the thoughts, words, or deeds of another", 
-                      "Judging yourself too harshly", 
-                      "Holding yourself to an unrealistic standard of excellence", 
-                      "Wearing your heart on your sleeve while carrying a chip on your shoulder"
-                  ]
-              },
-           "Numerology" : "3 (The Result: expression, productivity, output)",
-        "Astrology" : "Saturn in Libra",
-        "Affirmation" : "\"I learn from failures and setbacks.\"",
-         "Questions to Ask" : ["How can I get past my depression?","To what extent are my emotions a matter of choice?","How can I learn from the mistakes of the past?"]
-      },
-      {
-        "name": "Four of Swords",
-        "number": "4",
-        "arcana": "Minor Arcana",
-        "suit": "Swords",
-        "img": "s04.jpg",
-        "fortune_telling": [
-                  "Don't make any decision now", 
-                  "Wait, and you'll be glad you did"
-              ], 
-              "keywords": [
-                  "meditation", 
-                  "contemplation", 
-                  "perspective", 
-                  "mindset"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Thinking over your plans before putting them into action", 
-                      "Pausing to meditate or clear your mind", 
-                      "Taking time to understand someone or something before criticizing it", 
-                      "Resting", 
-                      "Occupying your thoughts with a healthy distraction"
-                  ], 
-                  "shadow": [
-                      "Failing to think things through", 
-                      "Mistaking procrastination for thoughtfulness", 
-                      "Adopting a point of view and refusing to reconsider your conclusions, even when presented with refuting evidence", 
-                      "Allowing chaos and whimsy to dominate your thoughts"
-                  ]
-              },
-          "Numerology" : "4 (The Status Quo: stability, equality, persistence)",
-        "Astrology" : "Jupiter in Libra",
-        "Affirmation" : "\"I think before taking action.\"",
-        "Questions to Ask" : ["How long has it been since you deliberately took a \"time out?\"","How difficult is it for you to meditate?","What would happen if you simply refused to make a decision today?"]
-      },
       {
         "name": "Five of Swords",
         "number": "5",
