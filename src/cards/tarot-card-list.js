@@ -1001,10 +1001,290 @@ const tarot = [
         astrological_associations: "Capricorn, Aquarius"
     },
     {
+        card_name: "Ace of Wands",
+        arcana: "Minor Arcana",
+        suit: "Wands",
+        img: "../images/cards/w01.jpg",
+        companion_cards: [],
+        meaning: "As an Ace, this Wands card brings you pure potential – this time in the spiritual, energetic realm. Ideas are flowing to you, motivating and inspiring you to pursue a new path. You are open to receiving new opportunities that align with your Higher Self. A whole world of possibility is available to you./n The Ace of Wands encourages you to follow your heart and live your passion. If you feel a strong pull towards a new project or path, but are questioning whether it will work, then this card gives you a gentle nudge to pursue your passion. You can always start out small, treating the project or idea as an experiment or trial. Then, if it feels good, keep doing it; and if it doesn’t, make adjustments and try again. Let your energy, dedication and motivation be your guides./n If you have been looking for a sign about whether this is the right project, then the Ace of Wands is a clear YES! The sprouting wand and the fertile landscape in the background are all positive indications that this idea has the potential to turn into something fulfilling and energizing. Use your creative energy and passion to take the first steps. Even if you prefer to plan out everything before you begin down a particular path, the Ace of Wands wants you to listen to your instincts and follow your gut. If it seems like a good idea, it probably is. So, start with a few fundamentals to get things rolling, and then continue to grow and develop your ideas through more complex activities later on. The important thing is that you act now rather than spending more time planning or researching./n Keep in mind, however, that the Aces represent potential but not guaranteed results. The Ace of Wands (or any Ace) is a seed that has yet to grow into something more substantial or sustainable. The opportunity on offer shows great promise, but it will be up to you to maximize it for the long term. See this card as the spark needed to fuel a massive fire, but remember that the flash itself is not enough to keep the flames burning./n The Ace of Wands may appear when you have an opportunity to grow on a personal or spiritual level. You may be interested in taking a class or investing in a course so you can follow your creative spirit. For example, you might enrol in a photography class, a Tarot course, or a self-improvement program. Trust that this experience will open you up to even more possibilities.",
+        reversed_meaning: "The Ace of Wands reversed suggests that you can sense an idea emerging from within but are uncertain what form it will take or how you will manifest it in the world. You may have energy and passion in spades, but you do not yet have a clear outlet to express them. You may be waiting for something else to happen before you pursue this idea. Or, you may prefer to keep your idea private until your confidence kicks in. All of these wonderful ideas are bubbling up, but now you must find a way to harness this creative energy to set you up in the long term./n The reversed Ace of Wands can suggest that you are finding it difficult to define your purpose in life and what you want to create. This lack of direction may sap your energy levels and leave you unmotivated and uninspired. As a result, you are often asking yourself if this is what you want in life and whether there might be something better elsewhere. However, when you think about what other opportunities might appeal, you struggle to know what you want. To remedy this stagnation, you need first to focus on where your true passions lie; there is no point in working towards a goal if it does not motivate you. So, take time to contemplate what it is you aspire to and what you wish to achieve out of this situation./n The reversed Ace of Wands may be a sign that frustrating delays are impeding the progress of your projects and ideas. You are likely to feel very impatient, especially if you are action-oriented and have only just started to gain momentum in your activities. The key message here is: ‘Not now, but maybe later.’ Timing is essential for success, so be patient and wait for the best opportunity to move ahead.",
+        keywords: ["Inspiration", "New opportunities", "Growth", "Potential"],
+        reversed_keywords: ["An emerging idea", "Lack of direction", "Distractions", "Delays"],
+        upright_questions: ["What would you like to initiate in your life right now?", "What might feel like an exciting change?"],
+        reversed_questions: ["What are some ways you can slow down and assess things?"],
+        past: "Reexamine your past goals, as you are perhaps limiting yourself. There is inspiration building inside of you that will vent its energy destructively if you do not use it creatively.",
+        present: "There is a new beginning at hand. It may take the form of a new phase of life, a new enterprise, a new project, or a new source of inspiration.",
+        future: "To succeed, you must think clearly and plan ahead. There is a void in your life waiting to be filled, and it is your duty to fill it. Prepare for a transformative experience by filling this void with something to positively influence your new beginning.",
+        yes_no: "The Ace of Wands is an inventive, creative card suggesting some sort of passionate union, positive new beginnings, or the birth of something powerful and inspiring yet to come in your life. It could be a new project or something creative that you will be taking on. The answer to your question is most likely yes.",
+        numerology: "1",
+        element: { element: "Fire", description: "The fire element rules creation and inner spirit. This element responds to how it is handled. When in control, you can use fire as a positive tool; lose that control and it can be destructive and painful. The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Aries, Leo, Sagittarius"
+    },
+    {
+        card_name: "Two of Wands",
+        arcana: "Minor Arcana",
+        suit: "Wands",
+        img: "../images/cards/w02.jpg",
+        companion_cards: [],
+        meaning: "The Two of Wands takes the spark of inspiration from the Ace of Wands and turns it into a clear action plan. You went through the discovery phase and know what you want to manifest – now you need to figure out how. You are exploring your options and carefully plotting out the path ahead, accounting for all possibilities and potential challenges. You are open to growth and exploring new territories, so long as you maintain a level of certainty that your efforts will work out in the end./n When the Two of Wands appears in a Tarot reading, you are not ready to make your move – it is more important that you establish a clear plan before proceeding. The Two of Wands is also about discovery, particularly as you step outside your comfort zone and explore new worlds and experiences. It may take courage to set out, but this card gives you the confidence of self-knowledge. You know what your goal is and are sure of its eventual fulfilment. Let your intuition and passion guide you as you confirm your next steps./n The Two of Wands indicates that you are considering your longer-term goals and aspirations and are ready to plan for what you need to do to achieve them. You have already come so far, and now you feel ready for a change – this time with your long-term future in mind. You may be contemplating overseas travel, further education or a significant career switch to expand your horizons beyond your immediate environment. With careful planning and a moderated approach, you will set yourself up for success./n The Twos in Tarot often represent decisions of some sort. With this two, you may make a choice between sticking with what you know or taking a risk. You understand the world has something bigger or more meaningful to offer you, yet you also realise that you must leave your familiar grounds to capitalize on this opportunity. Even though you already invested a lot into your current circumstances, it is imperative that you step out and explore your options.",
+        reversed_meaning: "The Two of Wands reversed encourages you to draw your attention inwards and focus on your personal goals. Consider what is truly important to you and what lights you up. You may have headed in one direction, only to realise it wasn’t in full alignment with your deeper values and purpose. This card invites you to go back to the drawing board and reconnect with your dreams and ambitions, then make the necessary adjustments to your path ahead./n At times, the Two of Wands reversed may indicate that you have a fruitful idea, but lack a clear strategy to move it forward. As a result, you are working haphazardly and inefficiently and not reaching your desired destination as quickly as you would like. As French poet, Antoine de Saint-Exupéry, says, “A goal without a plan is just a wish,” so make sure you have a clear plan in place to manifest your goals. Go back to your original intention, and the energy and enthusiasm you felt at the beginning. Let them guide you to the next step./n If you are at a crossroads about which direction to take to fulfil your dreams, ask yourself: What do I really want? And what’s keeping me from getting it? You may have been opting for the easy path, when it is, in fact, the more difficult one that gives us the best opportunity for growth./n Similarly, the reversed Two of Wands can highlight that you are reluctant to step out into unknown territories despite the enormous potential, instead preferring to stick with what you know. You may be ‘the big fish in the small pond’, enjoying the feeling of success in this safe environment. Reconnect with your vision and why you are here and know that you will need to explore new fields to reach your highest level.",
+        keywords: ["Future planning", "Progress", "Decisions", "Discovery"],
+        reversed_keywords: ["Personal goals", "Inner alignment", "Fear of unknown", "Lack of planning"],
+        upright_questions: ["What does it mean to be successful?", "How do you plan for success?", "What role does planning play in your life?"],
+        reversed_questions: ["What values govern your decision-making process?","What choice will you make if you make no choice at all?"],
+        past: "The research, development, and constant application of your skills has led you to progress in life. If you intend to arrive at your intended destination, continue to look ahead and plan.",
+        present: "A generous offer for help is coming. With analysis and development of your ambitions, this influence will help you attain fulfillment.",
+        future: "Reflection and self-awareness will lead you to success. Trust your intuition, but also be open to help from others.",
+        yes_no: "The Two of Wands shows being in control and experiencing gains in your life on one hand. On the other, it brings with it great anxiety and the possibility of losing the control that you once had. The dynamism projected through this card does not provide a clear answer. Maybe is what it suggests.",
+        numerology: "2",
+        element: { element: "Fire", description: "The fire element rules creation and inner spirit. This element responds to how it is handled. When in control, you can use fire as a positive tool; lose that control and it can be destructive and painful. The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Aries"
+    },
+    {
+        card_name: "Three of Wands",
+        arcana: "Minor Arcana",
+        suit: "Wands",
+        img: "../images/cards/w03.jpg",
+        companion_cards: [],
+        meaning: "While the Two of Wands speaks to planning for the future from a place of safety and comfort, the Three of Wands shows that your plans are now well underway and you are considering even more opportunities to expand your current strategy and maximize your ultimate potential. Everything is progressing steadily and as expected, thanks to your solid preparation and ongoing drive./n The Three of Wands signals the many chances available to you to broaden your horizons through study, travel, business enterprise and learning. You are becoming more aware of the opportunities that exist for you right now – and there are still more to come. To take advantage of this potential, you must stay committed to your path and be prepared to stretch beyond your comfort zone, knowing your best hopes lie outside of your current environment. It is time to think BIG. Consider what you can to open doors to more development and self-exploration. This card encourages you to dream bigger than your limitations. Accept your vision and be confident you will achieve it./n The Three of Wands also brings your attention to the changes and challenges that lie ahead. Given the man in this card can see far into the distance, then you are likely to be already aware of the upcoming developments and obstacles and can prepare for them ahead of time./n Given the image of land and sea, the Three of Wands can sometimes point to travel, especially overseas or over a body of water. It encourages you to be adventurous and venture to unknown places to discover more about yourself and learn many new things along the way. You may also explore international job opportunities.",
+        reversed_meaning: "The Three of Wands reversed suggests that growth and expansion are available to you, but you are choosing to play it safe and stay within your comfort zone. As a result, you are closing yourself off from new opportunity and limiting your potential. What’s holding you back? It’s time to spread your wings and fly./n The Three of Wands reversed indicates that you have attempted to embark on your journey of personal development but did not accomplish your goals. Unexpected delays and creative blockages might have popped up on your path. There is disappointment, frustration and a general feeling that you may have just wasted your time by even starting on this path. What you might not realise, however, is that these setbacks are an essential part of your life’s journey and contribute to your personal evolution./n Similarly, the reversed Three of Wands can indicate that your plans might come to a grinding halt with unexpected delays and other frustrating obstacles. You may need to wait on others to complete a task, or you have under-estimated how much time the work involves. When planning, add buffer time, so external problems don‘t adversely affect you./n You may also struggle to put your plans into action and are now feeling worried that you have over-committed yourself. It’s possible that you did not adequately prepare for the challenges on your path, or you were unrealistic about the risks associated with your plans. Break down your ideas into smaller tasks to make them more manageable and realistic. Conduct a risk assessment ahead of time to understand what difficulties you might face and then create strategies to avoid or minimize those risks.",
+        keywords: ["Progress", "Expansion", "Foresight", "Overseas opportunities"],
+        reversed_keywords: ["Playing small", "Lack of foresight", "Unexpected delays"],
+        upright_questions: ["Where do you see yourself in a year? Three years? Ten?"],
+        reversed_questions: ["How can you be a decisive leader in this circumstance?"],
+        past: "Your efforts have established a foundation for your success. Maintain your resourcefulness and keep efficiency at the heart of your drive forward.",
+        present: "An offer for help may bring about a new project or idea, so do not delay in accepting it. The opportunity to interact with someone with greater resources than you will lead to long-term success.",
+        future: "The work ahead of you will pose an intellectual or mental challenge. In order to succeed, you must be able to think creatively or invent a path forward.",
+        yes_no: "The Three of Wands stands for fresh starts, achievements, and positive partnerships. It could mean some sort of business expansion, or it could be the confirmation that you are on the right path toward success. It has an overall positive tone, and the answer it provides you with is yes.",
+        numerology: "3",
+        element: { element: "Fire", description: "The fire element rules creation and inner spirit. This element responds to how it is handled. When in control, you can use fire as a positive tool; lose that control and it can be destructive and painful. The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Aries"
+    },
+    {
+        card_name: "Four of Wands",
+        arcana: "Minor Arcana",
+        suit: "Wands",
+        img: "../images/cards/w04.jpg",
+        companion_cards: [],
+        meaning: "The Four of Wands is a card of joyful celebration, blissful happiness and appreciation for the good things in life. When this card appears in a Tarot reading, it is the perfect time to celebrate with those you love most. You may commemorate a significant event or milestone such as a wedding, birthday, homecoming or reunion. Or, you may invite a few of your favorite friends over for an intimate dinner for no particular reason except to revel in each other’s company. Relax and let your hair down – enjoy this special time together!/n The Four of Wands can show that you are returning home or to the people and places familiar to you. You feel supported and secure, knowing you are with those who love you and care about you./n Because the Four of Wands associates so closely with the home environment, you may work on improving or renovating your house or are close to finding a new one. Perhaps you recently purchased a home and are getting ready to settle down in your new habitat./n The Four of Wands tells you that after a period of rapid growth and expansion (the energy of the Three of Wands), it’s now time to pause and celebrate what you have achieved so far. Step back for a moment and enjoy the fruits of your labour. Acknowledge your hard work and give yourself permission to take a small break before embarking on the next phase of your journey. It’s essential you observe these smaller milestones./n In numerology, four symbolizes stability and firm foundations, and with the Four of Wands, you are now enjoying a period of happiness and security. This card indicates a sense of harmony and balance as well as completion and thus denotes a time of peace and contentment in life that comes as the result of hard-fought efforts./n If you have been working on a project, you will reach an important milestone and have reason to celebrate. If you just wrapped up your project, the Four of Wands represents the personal gratification of a job well done, a goal attained, and a vision beginning to be realized. You should be proud!",
+        reversed_meaning: "The Four of Wands reversed can indicate that you are celebrating the achievement of a personal goal, for example, quitting smoking, or doing yoga for 30 days in a row. You do not feel compelled to proclaim this achievement to others, instead choosing to create your own special reward for the hard work you put in. You may also be in the midst of your journey and yet to reach the finish line, hence preferring to honor this mini-milestone privately. When you finally do arrive at the finish line, it’ll be worth celebrating with friends and family./n The reversed Four of Wands can also mean that you have achieved a level of inner harmony and stability. If you doubted yourself in the past or struggled with self-acceptance or empathy, the appearance of this card is a welcome sign that you have found a sense of greater balance within yourself. You know who you are and why you are here. You have ‘come home’ to yourself and your Inner Being./n The Four of Wands reversed also has its shadow side. It may point to a lack of harmony or a breakdown in communication in your family or household. Tension might be rumbling between family members or loved ones, and you keep finding yourself getting caught up in other people’s concerns and relationship problems. This may leave you uncertain about your relationships and what (or whom) you can and cannot depend on. You may also go through a period of transition in your family and home life and experience some discomfort as a result./n Given the upright Four of Wands reflects stability, the reversal of this card can suggest that you are going through an upheaval during which you have little stability and security. You may experience multiple changes in your life, such as changing jobs, moving house or leaving a relationship. While you know this is an important transition – one you need to make – it can be quite unsettling, knocking you out of balance and making you feel uncertain about your future.",
+        keywords: ["Celebration", "Joy", "Harmony", "Relaxation", "Homecoming"],
+        reversed_keywords: ["Personal celebration", "Inner harmony", "Conflict with others", "Transition"],
+        upright_questions: ["How do you celebrate the special moments in your life?", "How might you welcome more people into your world?"],
+        reversed_questions: ["Do you count your blessings on a regular basis – or do you take them for granted?"],
+        past: "Your consistent efforts have resulted in reward and satisfaction. The drive to create or build something has been developing in your subconscious.",
+        present: "Accept the support of friends and loved ones, as you cannot be strong all the time. You are on track to completing something meaningful, so do not forget that you are not alone.",
+        future: "By believing in yourself and applying positive energy to your decisions, you will achieve prosperity. The foundation of your future will be laid on the good deeds of your present.",
+        yes_no: "The Four of Wands represents pleasurable and harmonious new beginnings. It stands for successfully completing something in your life and brings with it feelings of happiness, balance, and forward progression toward good things to come. The answer you are seeking is yes.",
+        numerology: "4",
+        element: { element: "Fire", description: "The fire element rules creation and inner spirit. This element responds to how it is handled. When in control, you can use fire as a positive tool; lose that control and it can be destructive and painful. The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Aries"
+    },
+    {
+        card_name: "Five of Wands",
+        arcana: "Minor Arcana",
+        suit: "Wands",
+        img: "../images/cards/w05.jpg",
+        companion_cards: [],
+        meaning: "In the Tarot, the Fives typically represent conflict and change, and the Five of Wands is no exception. This card indicates that you are in the midst of battle, tension, and competition with others and it is impacting your ability to move forward with your goals. Rather than being able to work towards a common goal, you are running up against constant opposition./n With the Five of Wands, everyone is fighting to be heard. But guess what? No one is listening. When everybody has a different opinion, but no-one is stopping to hear each other out, conflict and misunderstandings will run rampant. If you find yourself in this situation, see it as an opportunity to rise above the chaos and disorder. Take a moment to listen to what others have to say – even if you agree to disagree. The key is to tune in to one another and allow each person to make their case. And perhaps, in the process, their opinions may become softer and quieter. They may also give you the respect you’re seeking and listen to your viewpoint./n Sometimes, this type of conflict and discussion can be very productive, such as with group brainstorming and problem-solving. You need a constructive environment where you can test your ideas and have them challenged (and improved) by others. You may benefit from establishing a working group, committee or mastermind group with other individuals who bring varying perspectives and experiences. Be open to this debate as a positive contribution to improving the quality of your ideas and actions./n The Five of Wands also encourages diversity and differences of opinion. You may deal with people from different cultures and backgrounds and struggle to accept their way of living. Know that each person has something unique to bring to the table and that you will benefit by learning more about them and what they have to offer./n The Five of Wands encourages an enthusiastic approach to change. Transition (or even transformation) is coming whether or not you like it; your challenge will be in ensuring that everyone is on the same page and dealing with this shift constructively and positively. Currently, your group’s energy is scattered by misdirected enthusiasm. Everybody has ideas, but no one is there to bring them into a logical path forward. Your role may be in identifying a clear strategy and purpose that can be implemented by all involved..",
+        reversed_meaning: "The Five of Wands reversed suggests that you are facing internal conflict and are unclear on where you stand on important issues. You may try to work through your point of view on contentious topics such as abortion, immigration, globalization or the environment, or you may navigate personal issues such as whether to stay or leave a particular relationship or job. You have others around you who have strong views about what you should do and this is creating an enormous amount of tension and disagreement. Just when you think you have a clear perspective, someone challenges you on it, or you discover new information, and you change your standpoint again. This process is beneficial and will help you come to a well-researched and well-thought-out viewpoint. Know, too, that there is no right answer, and someone will disagree with the path you choose, so find the option that sits best with you. Align your head and your heart to discover a sense of peace within yourself./n The Five of Wands reversed can suggest that you have the tendency to avoid conflict wherever feasible. You may find that any tension makes you feel uneasy, and you wish it would just go away. So, you deflect a lot of that energy and ignore the problem, if there is one. The trouble, however, is that in doing this you may just be pushing some of your concerns to the side without dealing with them or asserting your point of view. Some conflict can be useful, particularly if it is constructive and draws out the underlying issues in a way that then generates a better solution. Consider whether always avoiding such discomfort is the best way to go or if you are finding yourself compromising on what is important to you./n The Five of Wands reversed is like a sigh of relief after a struggle. You are no longer up against so much competition and can just ‘be.’ On a more personal level, you have worked through your anger and hostility and feel more secure in your relationships. You do not have to prove yourself anymore.",
+        keywords: ["Conflict", "Disagreements", "Competition", "Tension", "Diversity"],
+        reversed_keywords: ["Inner conflict", "Conflict avoidance", "Tension release"],
+        upright_questions: ["Are you giving it your all?", "How do you feel about conflict?"],
+        reversed_questions: ["What battles are you ready and willing to fight?"],
+        past: "The battles you have faced has led you to boldness of character. This is a valuable trait, but only in moderation. Facing adversity requires tact, and it may feel as though your progress is too far delayed by the obstacles in your path.",
+        present: "A miscommunication or misunderstanding will pose obstacles to your progress.",
+        future: "There will be an opportunity in the future that requires you to tame your boldness in order to succeed. No one can decide your actions but you, so rely on your strength of will to achieve balanced progress.",
+        yes_no: "The Five of Wands suggests being challenged in some way and having to defend yourself against others. It brings with it feelings of struggle, anxiety, and overall unease with internal battles yet to come. The negative foreboding presented with this card provides an answer of no.",
+        numerology: "5",
+        element: { element: "Fire", description: "The fire element rules creation and inner spirit. This element responds to how it is handled. When in control, you can use fire as a positive tool; lose that control and it can be destructive and painful. The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Leo"
+    },
+    {
+        card_name: "Six of Wands",
+        arcana: "Minor Arcana",
+        suit: "Wands",
+        img: "../images/cards/w06.jpg",
+        companion_cards: [],
+        meaning: "The Six of Wands appears when you have reached an important milestone or achieved a significant goal, and you are confident, self-assured, and successful. You harnessed your strengths and talents to bring about a happy outcome in your endeavours and made it through the chaos of the Five of Wands, minimizing your distractions and focusing on the task at hand. Yes, there were challenges along the way, but you overcame them by concentrating your energies on the one target./n The Six of Wands suggests that not only have you achieved your goals, but you are also receiving public acknowledgement for your efforts. You may have recently received an award, acclaim or recognition from your peers for your work. It may even be just a pat on the back, but this attention is a big boost to your confidence and gives you the strength to continue your endeavours./n The Six of Wands also encourages you to put yourself out there and be proud of what you achieved. Shout your successes from the rooftop and set it all out there for others to see and cheer you on. Be open to receiving love and support from your biggest cheerleaders, who are energized by seeing you succeed. Now is your time to shine!/n The Six of Wands is a positive encouragement to believe in who you are and your accomplishments so far. Have faith in what you’ve done and how others will receive it. Do not let fear or guilt stand in the way of your success. You ought to be proud! Hold your head up high and know you‘re worthy of admiration./n While the Six of Wands marks an important milestone, keep in mind that you’re not quite at the finish line just yet. You still have some way to go, and challenges may sit on the path ahead – but take heart knowing you have the support of those around you and they are here to back you 100%.",
+        reversed_meaning: "The Six of Wands reversed suggests that you have reached a significant personal milestone, but unlike the upright version of this card, you prefer to keep it to yourself right now. You may be uncomfortable receiving public praise for your work, or it may be such a private achievement that you have no reason to share it with others. Check in with yourself though: are you avoiding sharing it because you lack confidence or feel nervous about being too over-the-top?/n The reversed Six of Wands encourages you to create your own definition of success. If you have found yourself seeking approval and validation or comparing yourself to others, you may have stripped yourself of your personal power and self-belief. Rather than relying on someone elses opinions of what is ‘successful’ and what is not, bring your energy and attention within and ask yourself, ‘What does success mean to me?’ Your answer will look different from other people’s interpretations because your values and priorities are unique to you. When you are clear about what success means to you, you will make better decisions that are more in alignment with who you really are, and increase your confidence and independence – and that’s a good thing!/n At times, the reversed Six of Wands may suggest that you had a fall from grace and did not receive the public recognition you were seeking. You got no feedback for your efforts, or received criticism instead. You may have expected things to work well, but instead, you are being punished or neglected. Now, your confidence has taken a hit, as has your professional reputation or at least your perception of your status. If a particular project has not been as successful as you had hoped, you may be better off moving to a new environment so you can rebuild your personal brand rather than trying to fix something already broken./n The shadow side of the reversed Six of Wands is that it can also bring self-importance, arrogance and egotistical behaviors. Armed with a win and a boost to your self-confidence, you may come to think that nobody is better than you. If you take on this selfish attitude, someone is likely to want to knock you down a peg, bringing disappointment and potential disrepute later on. Reign in your ego and make your victory all the sweeter.",
+        keywords: ["Success", "Public recognition", "Progress", "Self-confidence"],
+        reversed_keywords: ["Private achievement", "Personal definition of success", "Fall from grace", "Egotism"],
+        upright_questions: ["What will it take for you to reach your goal?", "Can you do it alone – or do you need help?"],
+        reversed_questions: ["What does it mean to be a leader?", "In what ways might you step into more of a leadership role?"],
+        past: "The effort and inspirations of your past have brought you to where you stand now. Continue on your path and you will find rewards.",
+        present: "There is good news coming. Though it may be conditional, this change will greatly aid your pursuit of fulfillment.",
+        future: "There is triumph at the end of your road. To find it will require careful navigation and the removal of opposition, but all that you desire can be achieved.",
+        yes_no: "The Six of Wands shows triumph, victory, and success in your endeavors. It suggests a person feeling exalted because of winning and finding the inspiration needed to move forward. Good news is the overall feeling in the presence of this card. The answer is yes.",
+        numerology: "6",
+        element: { element: "Fire", description: "The fire element rules creation and inner spirit. This element responds to how it is handled. When in control, you can use fire as a positive tool; lose that control and it can be destructive and painful. The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Leo"
+    },
+    {
+        card_name: "Seven of Wands",
+        arcana: "Minor Arcana",
+        suit: "Wands",
+        img: "../images/cards/w07.jpg",
+        companion_cards: [],
+        meaning: "After the success of the Six of Wands, you are now in an enviable position and are being challenged by others who want to take your place. You worked hard to get to where you are, but some people covet what you have and are prepared to fight you for it. While it is flattering that they strive for your success, it also makes for a tense and competitive environment because you need to protect what you earned and must continually prove yourself./n It is a sad fact of life, but the more visibility you have as a leader in your field and the bigger your audience, the more likely it is that you will need to grapple with this kind of pressure. Others see your success and will either challenge your point of view or want to take you down; in Australia, we call it the ‘tall poppy syndrome’. When the Seven of Wands appears in a Tarot reading, expect to see an increase in ‘haters’, trolls and people who disagree with you. You will need to secure your territory and fight for what you stand for. You may also want to engage a lawyer or a loyal support team who can defend you from any possible threat./n The Seven of Wands may appear when you hold a contentious point of view or wish to voice your opinion in a public forum. Be ready to support your argument and back yourself. Stand firm in your conviction of what you believe (and why) so that others do not topple you from your mountain of self-belief./n Sometimes, this threat or opposition may catch you by surprise, and you feel inadequately prepared for such a battle. Just like the man in the card has rushed to put his shoes on and ended up with a mismatched pair, you must scramble to fight even though you don’t have everything in place. To be better prepared next time, the Seven of Wands encourages you to map out any potential threats or risks before moving ahead with your plans. That way, you can have a ‘worst-case scenario’ plan ready to go./n The Seven of Wands can also mean a challenge to the success of a creative project from an external source. Someone or something may get in the way of you being able to pursue your goals and dreams. While it appears to block your path forward, you can overcome this obstacle by drawing upon your strong self-confidence, self-belief, and continual self-improvement. Establish clear boundaries and then protect them so that others do not mess with you. Hold your ground, take a stand, and defend your position at all costs. This will require courage and persistence, but you have the strength and determination to do it. Keep fighting for what you believe in and confront those who may oppose or threaten you.",
+        reversed_meaning: "The Seven of Wands reversed shows that external pressure is weighing you down, leaving you doubting yourself and whether everything is worth it. It may seem as if you are under constant opposition. At first, you could hold firm, but after a relentless battle, you are now exhausted and ready to give up altogether. Don’t let this get to you! Even if you are weary, this card urges you to keep fighting for what you believe in. Stand strong, own your position and don’t change who you are just to keep others happy./n The Seven of Wands reversed can also mean you think others are perpetually criticizing you. Your family or friends are questioning your choices, such as staying in a challenging relationship or an unfulfilling job, and you would prefer if they could just keep their mouths shut and let you be!/n The Seven of Wands reversed serves as a reminder that you will not always win everyone over. There will still be challenges and opposition to your point of view, and you cannot keep everyone happy all the time. Thus, it is time to draw your line in the sand and say, ‘This is who I am, and this is what I need right now’. There cannot be any compromise or negotiation at this stage; hold your ground with determination and courage./n The reversed Seven of Wands may affirm that you are overwhelmed by the challenges and responsibilities in your life, finding yourself quickly snowed under and unable to look at the bigger picture. You may have taken on too many commitments and now want to focus your attention on only one or two things. You may also worry that you must compete against others, leaving you feeling somewhat inadequate and vulnerable. Rebuild your self-esteem and confidence and have faith that you can achieve what you set out to do./n Finally, the Seven of Wands reversed can appear when you are trying to avoid conflict wherever possible and, as a result, you are backing down from your point of view too easily (or too often). As soon as someone challenges or opposes you, you compromise or give in, instead of standing up for yourself. Is being accepted and liked by others more important than fighting for what you believe in? Alternatively, you may have tried everything and given it your best shot, but you now see it is not worth the struggle. Even though you might not have made any progress yet, it is time to let this one go and move on. Yes, it may feel like giving up but, in the long run, it will be for the best.",
+        keywords: ["Challenge", "Competition", "Protection", "Perseverance"],
+        reversed_keywords: ["Exhaustion", "Giving up", "Overwhelmed"],
+        upright_questions: ["What battles are you willing to fight?", "Where might you be wasting your energy?"],
+        reversed_questions: ["What courage do you need to summon to conquer your current dilemma?"],
+        past: "Despite slow progress, your determination and sustained efforts will lead you steadily forward. Do not give up.",
+        present: "There is a great conflict approaching, but do not fear. Through courage, you will overcome this hurdle and experience a major change in your life as a result.",
+        future: "Continue to believe in yourself. The odds may be against you but you have the power to beat them. The courage to fight on and accept challenges will lead you to a bright future.",
+        yes_no: "The Seven of Wands represents long-term success due to the strength it takes to overcome obstacles and being able to take on calculated risks. Using courage to stand up for yourself and what is best is what this card is all about. The answer you are seeking is yes.",
+        numerology: "7",
+        element: { element: "Fire", description: "The fire element rules creation and inner spirit. This element responds to how it is handled. When in control, you can use fire as a positive tool; lose that control and it can be destructive and painful. The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Leo"
+    },
+    {
+        card_name: "Eight of Wands",
+        arcana: "Minor Arcana",
+        suit: "Wands",
+        img: "../images/cards/w08.jpg",
+        companion_cards: [],
+        meaning: "The Eight of Wands says the struggles of the Seven of Wands have now all but cleared and you have the freedom and space to move forward with your plans once again. This Eight is a dynamic card, containing a high level of energy that propels you forward to reach your goals at a much faster pace than ever before. You can expect to be very busy, but this is one of those ‘good busy’ periods during which you are enthusiastic about the progress you are making./n The Eight of Wands encourages you to go with the flow; don’t resist it. Everything is moving fast right now, so make the most of this forward momentum to manifest your goals and dreams. Allow the energy of the Universe to flow through you and propel you closer to your goal. Trying to slow things down because you’re not ready or you’re fearful about the unknown will just waste this opportunity. Use the energy instead to fuel positive change and produce significant results./n The Eight of Wands also invites you to be laser-focused with your intentions and actions. Determine what you want to manifest and then align all of your resources and energy to focus on that singular goal. Remove all distractions and devote yourself to the task with total concentration, determination and will. This experience can be highly productive, allowing you to accomplish a lot in a short time./n With the Eight of Wands, you can look forward to the rapid completion of a project currently underway, but you can also expect to be occupied by something new and even more exciting soon. There is no stopping you right now as you are just bursting with energy and ideas, and you cannot wait to achieve one task and start another. To maximize this energy, make sure your activities align with your broader goals and invest in the right things at the right time. Also, make sure your previous task is complete before you move to the next one./n This card is a sign to ‘strike while the iron is hot.’ It is most definitely an action-oriented card that encourages you to move quickly to pursue the best opportunities available. There is no waiting around while the Eight of Wands is present, so determine where your energy should go and get on with it!/n Often, the Eight of Wands suggests air travel, a short-term or whirlwind trip, such as a business trip or holiday. You may even enjoy being part of a tour group that visits ten countries in as many days!",
+        reversed_meaning: "The Eight of Wands reversed suggests that you are charging ahead with an idea or plan, but you need to slow down and consider your next steps before continuing. You may miss something in your haste and be prone to making mistakes or poor decisions. Or, you may rush into things without a clear plan of where you are heading, instead of investing time into trivial tasks. Be careful of the ‘bright shiny object syndrome’ where, just as you get started on implementing one idea, another one comes to mind, and you switch your focus. The trouble is that with this approach, you never accomplish anything because you are jumping from one idea to the next and finishing none of them./n The Eight of Wands reversed can warn that you are resisting change, trying to stop the flow of energy and movement. It will only make things harder, so let go and be in the flow. If you have been feeling stuck, do things differently (new routines, locations, activities) and get the energy moving once again./n The reversed Eight of Wands can mark significant delays, particularly concerning travel or fast-moving plans. Despite having a lot of energy and enthusiasm to progress things forward, you now face multiple obstacles in your course. This is incredibly frustrating, and you may be growing increasingly impatient by the day. Keep looking for alternative ways around the challenges presented so you can carry out your plans. If it’s Mercury Retrograde, expect your plans to be doubly delayed!/n Similarly, this card can be a sign to hold off your activities for a short amount of time until the situation becomes more stable and predictable./n On the other hand, the reversed Eight of Wands may be a sign that you are aligning your resources so you can actively pursue your goal. You are getting your life in order – physical health, emotional well-being, energy levels or spirituality – so that you are in an excellent position to move forward with your plans.",
+        keywords: ["Movement", "Fast paced change", "Action", "Alignment", "Air travel"],
+        reversed_keywords: ["Delays", "Frustration", "Resisting change", "Internal alignment"],
+        upright_questions: ["What might progress look like at this time?", "What do you need to focus on now to achieve the results you desire?"],
+        reversed_questions: ["Where do you need to move quickly…or not?"],
+        past: "There are past goals that will not be able to move your forward. Think of a change that will bring you the most happiness. The struggle which has been occupying you will pass and a brief peace will follow.",
+        present: "Exciting news will arrive to break the calmness of your present. The discomfort is necessary to remove you from your motionless present.",
+        future: "A new venture will bring you future success, but you must be ready to make the right choice in a sudden decision.",
+        yes_no: "The Eight of Wands stands for some sort of journey or travel. It suggests events that will move quickly and opportunities that are set to arrive unpredictably. While overcoming obstacles, it shows and end to some sort of delay or blockage in your life. The answer to your question is most likely yes.",
+        numerology: "8",
+        element: { element: "Fire", description: "The fire element rules creation and inner spirit. This element responds to how it is handled. When in control, you can use fire as a positive tool; lose that control and it can be destructive and painful. The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Sagittarius"
+    },
+    {
+        card_name: "Nine of Wands",
+        arcana: "Minor Arcana",
+        suit: "Wands",
+        img: "../images/cards/w09.jpg",
+        companion_cards: [],
+        meaning: "The Nine of Wands comes as a sign that even in the face of adversity, you stand tall and strong. You may be on the edge of exhaustion, but you are resilient, persistent, and ready to do what it takes to get to the finish line./n This card may also come when you feel battered and bruised, having endured significant challenges and struggles along your path. Just when you think you are making progress, you suffer another setback. The Nine of Wands asks you to trust that this is merely a test of your ‘grit’ and resilience, and know that every time you overcome an obstacle, you are getting stronger. You have the inner resources necessary to overcome any difficulty you encounter, even though it may seem impossible at the time. See this Nine as an assurance that you will eventually prosper if you maintain your position. And, if you do not succeed at first, then try again./n The Nine of Wands encourages you to keep pushing – you are so close to the finish line. Even if you want to give up, this is your final challenge before you reach your goal, so don’t let go of your hopes and dreams when you are so close to making them a reality. Stand firm in the face of your challenges, and you will achieve your goal./n Others may try to oppose your plans, make things difficult for you, or even attack you for what you are putting out into the world. Often, they do it because they’re jealous of your success or are projecting their own insecurities and fears on you. Don’t let them get to you. You are a change-maker, and you have a vital message to share in this world. Don’t dim your light because of others’ insecurities./n On a more positive note, you have people who support you. The Nine of Wands invites you to find your cheerleaders and personal bodyguards, those who will protect you from the ongoing challenges and cheer you on to the finish line. Even if others oppose you, you have many more people who support your cause. Let them help you./n Finally, the advice of the Nine of Wands is to establish your boundaries and fiercely protect those lines. If you allowed others to stand in your way or deplete your energy, it is likely that you have not asserted yourself effectively with those people to protect yourself. Get clear on what you need in this situation to be successful and reach your goals, and then communicate those needs to others. On the same note, be aware that too many barriers will prevent others from getting close to you or helping you. Bring your conscious awareness to how you are proactively using boundaries to protect your energy.",
+        reversed_meaning: "The Nine of Wands reversed suggests that you are struggling to keep working towards your goal. The challenges on your path are relentless, pummelling you with setback after setback. You don’t know if you can cope with it anymore and may be ready to give up. Just know that you are oh-so-close to completing this challenge. Draw upon your internal resources – your resilience, inner courage, positive self-talk and mindset – to keep you going. You have it in you to turn this challenging situation into a fantastic success (and to help others facing similar hurdles). Keep fighting – you’ve got this!/nThe Nine of Wands reversed can also appear when you feel overcome by your responsibilities or lack the support of those around you. It seems as if life is all work and no play. If you know this is a temporary setback, you may just need to push through it for now so you can get to the finish line. Also, make sure you do not take on any other commitments at this stage until you have more control over your circumstances. If you cannot see any end in sight, then get help – hire a personal assistant or a house cleaner, enlist the support of your loved ones, or work with a coach or therapist to help you manage./n Sometimes, the reversed Nine of Wands can indicate paranoia, defensiveness and concern that everyone is out to get you. You may think you are always under attack by the same group of people or you are unfairly targeted. Often, this is a sign of fear from within you rather than an actual external threat. Focus on your own game and don’t worry about what other people are thinking or saying about you.",
+        keywords: ["Resilience", "Courage", "Persistence", "Test of faith", "Boundaries"],
+        reversed_keywords: ["Inner resources", "Struggle", "Overwhelm", "Defensive", "Paranoia"],
+        upright_questions: [],
+        reversed_questions: [],
+        past: "The struggles you have already experienced have granted you some stability in the present. By evaluating the reactions of others, your progress has been made smoother but this tactic will not lead to sustainable ease.",
+        present: "Some encouragement from a friend or loved one will help you overcome the challenge you face.",
+        future: "There are inevitable conflicts approaching in the future, but you can overcome them. In order to succeed, rely on your inner strength and do not sacrifice your values for the sake of short term gains.",
+        yes_no: "The Nine of Wands shows determination and courage under fire. However, it also indicates a need for being cautious and defensive in struggles that are yet to come. There is nothing that suggests a more positive or negative outcome in these matters, and thus, the answer is maybe.",
+        numerology: "9",
+        element: { element: "Fire", description: "The fire element rules creation and inner spirit. This element responds to how it is handled. When in control, you can use fire as a positive tool; lose that control and it can be destructive and painful. The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Sagittarius"
+    },
+    {
+        card_name: "Ten of Wands",
+        arcana: "Minor Arcana",
+        suit: "Wands",
+        img: "../images/cards/w10.jpg",
+        companion_cards: [],
+        meaning: "The Ten of Wands notes that you are taking on an extra burden, a heavier workload, or greater responsibility. Even though it is weighing you down and making things tougher for you, you understand it is only temporary, so you are willing to put in the hard work now to accomplish your goal and reap the rewards later. For example, you may work extra hours to save up for a family holiday. Or you may help out a friend with moving house, knowing they will return the favour when you move later in the year. Or you may care for a sick family member, adding to your responsibilities at home but knowing your loved one deeply appreciates it./n Sometimes, the Ten of Wands appears when you are unconsciously taking on extra responsibility and finding yourself feeling weighed down, exhausted and burnt out. You may try to do everything at once, even though you know it is adding extra pressure to your daily life. The Ten of Wands asks you to stop and examine your current lifestyle or work. Assess which activities or tasks are urgent or important, particularly concerning your broader goals. You may need to use various time management or prioritization methods to determine where best to spend your time and which tasks you can drop. Your goal needs to be higher efficiency while also freeing yourself up for rest and relaxation when you need it./n  The good news is that the Tens in Tarot represent the completion of a cycle, and with the Ten of Wands, the end is in sight! You have been pushing yourself to your limits and working very hard towards your goal. Now, you are taking those final steps on the path to realising your dreams. Sure, you might collapse in a heap of exhaustion when you get there, but you know it will be all worth it and well earned!/n The Ten of Wands can also show that even with the achievement of your goal, some significant responsibilities and commitments come with it. When you reach a point of completion, you become starkly aware that you must now carry on with the duties you have laid out for yourself, to ensure ongoing success. The trouble is, however, that these responsibilities may become too much to bear and you are struggling to let go. It is like the business owner who creates a flourishing business but is unprepared to delegate some of his or her responsibilities to the staff and ends up working seventy to eighty hours a week. The inspiration and creativity that came with the initial goal or vision disappear and everything becomes hard work all too quickly. Thus, it is essential to let go of or delegate some of your responsibilities to free you up to still enjoy life.",
+        reversed_meaning: "When the Ten of Wands reversed appears in a Tarot reading, it is often a sign that you are trying to do too much by yourself. In your effort to be everything to everyone, you have found yourself struggling under the weight of it all. Delegate and share the work – you don’t have to do it alone. And be firm in saying no to the things you know you can’t take on. It is imperative you put your self-care and personal well-being first; otherwise you’ll burn yourself out and be of no help to anyone. It’s just like they say, 'Put on your own oxygen mask first before helping others'./n Similarly, the Ten of Wands reversed suggests that you are carrying a heavy weight on your shoulders, but you are keeping this private and are unwilling to share your burden with others. You may be grappling with emotional trauma, carrying a dark secret, or dealing with increased responsibilities. However, you do not feel comfortable sharing this with others, by talking about it or asking for help. In effect, you are pushing away the people who can help you. It may also be a huge relief to you when you do share some of this burden with others, as they are ready and willing to support you./n Sometimes, the reversed Ten of Wands shows that you are holding on to this burden when you do not need to do so. If you are feeling weighed down by your present circumstances, look at ways you might lighten the load. Can you delegate certain tasks and responsibilities? Are you worrying about matters that do not concern you or cannot be changed? Do not become a martyr and take on more than you can realistically handle. On the positive side, if you are going through a challenging time, then the Ten of Wands reversed assures you that this time will soon pass and you will be able to set down this weight./n You may also be actively identifying those activities that do not bring you any value in your life, and you are releasing yourself from these additional responsibilities. Consider going through a purging process, clearing out old clothes and selling old furniture, to unclutter and simplify your life. You will benefit from better organization and prioritization and enjoy the lightness that comes with such release.",
+        keywords: ["Burden", "Extra responsibility", "Hard work", "Completion"],
+        reversed_keywords: ["Doing it all", "Carrying the burden", "Delegation", "Release"],
+        upright_questions: ["Do you diligently work towards your goals, even when they seem far away? Or do you give up too quickly?"],
+        reversed_questions: ["How easily do you say no to new projects and requests?"],
+        past: "The strength that you've developed over years of struggle will lead you to the solution of your current problem. The negativity you have recently let go of will allow you to form a new philosophy.",
+        present: "Bear down and see the challenge through to the end. If you have been disconnected from someone close to you, expect an opportunity to reconnect.",
+        future: "By focusing your energy in one direction and consolidating your efforts, success will be easier to achieve. You will have the chance to achieve your desires, but you must first reach your lofty goals.",
+        yes_no: "The Ten of Wands is a card highly associated with feeling an intense pressure and being over burdened in some area of your life. Other possible things suggested by this card are feelings of being trapped, oppressed, or having no control over your circumstances. With an overall negative tone, the answer is no.",
+        numerology: "10",
+        element: { element: "Fire", description: "The fire element rules creation and inner spirit. This element responds to how it is handled. When in control, you can use fire as a positive tool; lose that control and it can be destructive and painful. The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Sagittarius"
+    },
+    {
+        card_name: "Page of Wands",
+        arcana: "Minor Arcana",
+        suit: "Wands",
+        img: "../images/cards/w11.jpg",
+        companion_cards: [],
+        meaning: "With the Page of Wands, you are inclined to give anything and everything a go. You embrace the opportunity to start out on a new journey or project and see where it takes you. You do not necessarily have a solid plan in place, nor do you really know where you are headed, but you are excited about the possibilities./n You have a gift for dreaming up new creative ideas unfettered by the burdens of everyday life. Nothing will get in the way of your dreams!/n And while the appearance of the Page of Wands indicates that you are experiencing creative restlessness, notice that the Page is standing still and his staff is firmly planted on the ground – he is not going anywhere just yet. You still need to take your creative spark and ground it down into reality so that it is ready to be implemented in the physical realm. You may need to map out your strategy, or you may need to test your ideas or create a few experiments before committing. It could be helpful to run your thoughts through a filter so that you only act on those most aligned with your broader goals./n The Page of Wands can appear when a spiritual path or journey may be calling you. You have a curious mind and are intrigued to see where this call might lead. While you are very much the novice when it comes to this spiritual endeavour, you are open to the experience and keen to discover new levels of consciousness. You may benefit from working with a wise mentor, someone who has walked your path before and can now lead you forward",
+        reversed_meaning: "The Page of Wands reversed suggests that you can feel the stirrings of something new emerging within you, but you don’t know how to turn it into action. You may have the seed of an idea or a general sense that something new is coming, but you are yet to express it in the world. You do not need to take action yet – in fact, doing so may be detrimental since this idea is very much in the early stages of formation. Just ‘play’ with the idea and let it grow, develop and blossom into what it wants to be. Do not force it; sit in the creative void and allow it to open up to you./n On the other hand, the Page of Wands reversed can mean that you tried many new ventures or projects, but these have not turned out as you had hoped. You may have had the dream to start a new hobby or project with the view that it would lead to something bigger, but you realise that you took the wrong approach and it isn’t pointing to the growth and development you had expected. The Page of Wands reversed invites you to reconnect with your original vision or idea and look for alternative ways to express it. Just because you didn’t succeed the first time, it doesn’t mean that the concept is wrong; it may merely be the execution that is out of alignment. Instead, choose another way to express the idea, and be prepared to redefine your path to stay in alignment with your personal growth goals./n The Page of Wands reversed can indicate that your eagerness to start something new has been hampered by complexities, obstacles and opposition, which has resulted in a lack of motivation and indecisiveness about your path forward. You may also worry about whether you can get your project or idea up and running, or if you are just going to be weighed down by more responsibility and troubles. You may be allowing limiting beliefs and inner fears and anxieties to get in the way of achieving your dreams./n Finally, the reversed Page of Wands may also appear when you are seeking out a new path of personal and spiritual discovery. As it is likely to be an intense spiritual path, you are choosing to keep this journey private. You know, too, that inspiration and understanding comes from within, rather than looking to others for the answers.",
+        keywords: ["Inspiration", "Ideas", "Discovery", "Limitless potential", "Free spirit"],
+        reversed_keywords: ["Newly-formed ideas", "Redirecting energy", "Self-limiting beliefs", "A spiritual path"],
+        upright_questions: ["Do you remember a time when you were completely engrossed in developing a new skill?", "What passions might you want to learn more about?"],
+        reversed_questions: ["How might you continue growing your skills?"],
+        past: "The prospects of recent work has energized you to seek financial gains or to begin new creative projects.",
+        present: "Good news is coming. It will infuse joy into your life.",
+        future: "A new phase of your life will begin after you receive an intense flash of inspiration. This inspiration will be brought about by good news, progress in your field, or career advancement.",
+        yes_no: "The Page of Wands is an energetic, lively, and fearless youth who possesses a can-do attitude and a hands on approach. This card represents being adventurous and ambitious in overcoming fears and starting new projects using your skills and courage. The answer that you seek is yes.",
+        numerology: "10",
+        element: { element: "Fire", description: "The fire element rules creation and inner spirit. This element responds to how it is handled. When in control, you can use fire as a positive tool; lose that control and it can be destructive and painful. The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Aries, Leo, Sagittarius"
+    },
+    {
+        card_name: "Knight of Wands",
+        arcana: "Minor Arcana",
+        suit: "Wands",
+        img: "../images/cards/w12.jpg",
+        companion_cards: [],
+        meaning: "While the Page of Wands marks the initial spark of a new idea, the Knight of Wands shows the actual pursuit of that idea. When this card appears in a Tarot reading, you are charged up with energy, passion, motivation, and enthusiasm, and you channel that energy through your inspired action. You have a clear vision about what you want to create and, fuelled by your passion and inspiration, you are now moving forward with leaps and bounds to turn your vision into reality. This card is your sign to go for it!/n You are bold and courageous and willing to venture into unknown territories to further your mission and your dreams. You don’t really care if danger lies ahead – in fact, if it does, then it becomes all the more exciting and thrilling for you. Adventures like this light you up because you know growth and expansion are waiting on the other side. Be a pioneer and take calculated risks to reach new heights./n In this light, the Knight of Wands gives you the feeling you can take on the world! You are so committed to your vision and purpose that you will stop at nothing to bring it to life. As you pursue your goals, your confidence skyrockets, and you realise that your potential is limitless. You can do anything!/n Your passion, enthusiasm, courage and confidence are highly attractive to others. Others see you as highly charismatic and want to be in your presence to benefit from your energy. While you haven’t yet mastered the art of bringing others along on your journey, like the King of Wands has, you do enjoy the extra attention that your charisma and adventures bring you. The question will be whether others can keep up with you, or if they are merely here to watch and absorb your energy by osmosis./n Be mindful that the Knight of Wands can express himself as an ‘act first, think later’ type of person. In your pursuit of action, you may be impulsive and impatient, expecting everything to be done yesterday. While you are bursting with energy, you have a tendency to rush into things with little consideration for the consequences of your actions. You may not have a clear plan of attack, hurting your chances of long-term success. If this resonates, find a way to focus your enthusiasm on the activities that will move you closer to your goal. When you have a new idea, rather than acting on it straight away, take a moment to check in and see if it truly aligns with your goals and whether it needs to happen right now. You may realise that you are better served by waiting for the opportune time to pursue this idea, especially if other ‘waiting’ cards, such as the Hanged Man or Four of Swords, come up in your reading. Or, you may realise that the time is now, and you can charge ahead with high energy and vibrancy.",
+        reversed_meaning: "The Knight of Wands reversed may appear when you are actively pursuing a personal passion project or hobby. A fire has been lit within you, and now you are doing everything to move this passion project forward. You have no intention of turning it into a raging success – it is simply for you to enjoy and channel your energy into. For example, you may learn to read Tarot purely because you have an interest in this beautiful, spiritual tool, rather than wanting to become a world-renowned Tarot reader. You are pursuing this passion project with all of your heart because it genuinely lights you up inside./n The Knight of Wands reversed can signal that you are experiencing a considerable build-up of energy but are unsure about how to channel it into the world effectively. You may have a creative restlessness, knowing that you are destined for something ‘big’, but you are restricted from taking action right now. Perhaps there are frustrating delays, insurmountable obstacles or people standing in your way. The tension from within is palpable, and you desperately need to release this creative energy. Look at alternative ways to pursue your passion or manifest your vision. You may need to adjust your path somewhat while staying true to your original idea./n Conversely, the reversed Knight of Wands suggests that you may be acting impulsively, trying to accomplish everything at once. You are rushing from one task to the other, without focusing on the details or ensuring sustainable success. This may appear to work in the short-term, but long-term you could end up burning yourself out or falling short of your goals. Slow down and know that you don’t need to do everything at once./n The Knight of Wands reversed also suggests that you are at risk of acting impulsively, doing or saying things that you may later regret. You want everything to be ‘fixed’ straight away, but you do not allow yourself the time to think through what is best for you. Be careful, too, that you are not reacting instantly to everything that happens. Give your circumstances some space and time before you take action. You may also find yourself feeling frustrated that factors beyond your control are impacting your situation. Again, remind yourself that there will be things that you can control and change as you want to – you just have to find them.",
+        keywords: ["Energy", "Passion", "Inspired action", "Adventure", "Impulsiveness"],
+        reversed_keywords: ["Passion project", "Haste", "Scattered energy", "Delays", "Frustration"],
+        upright_questions: ["What does it mean to live with passion?", "In what ways does passion show up in your life?"],
+        reversed_questions: ['Do you have any plans that can perhaps "use more time in the oven"?'],
+        past: "The root of your recent desires for change is your curiosity and intuition. The conflicts you have faced at work have influenced the outcome of events around you.",
+        present: "A spontaneous decision will lead you to make a long journey or a permanent relocation. Your desire will be achieved in an unexpected way.",
+        future: "There are new challenges approaching, based on a hasty decision. It may or may not have been your choice, but if overcome, the challenges will lead you to happiness and a fulfilling life.",
+        yes_no: "The Knight of Wands is an ambitious, energetic, and determined leader. Although there are challenges associated with this card, embracing them as something positive to come is suggested. Even though the changes are unpredictable, believing in yourself and having courage is best. Your answer is yes.",
+        numerology: "6",
+        element: { element: "Fire", description: "The fire element rules creation and inner spirit. This element responds to how it is handled. When in control, you can use fire as a positive tool; lose that control and it can be destructive and painful. The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Scorpio , Sagittarius"
+    },
+    {
+        card_name: "Queen of Wands",
+        arcana: "Minor Arcana",
+        suit: "Wands",
+        img: "../images/cards/w13.jpg",
+        companion_cards: [],
+        meaning: "The Queen of Wands reminds you that you are upbeat, courageous, and determined. You are here to see through your creative visions and life purpose, even in the face of adversity and challenge. Highly self-actualized and self-aware, you know how to best channel your strengths and weaknesses to achieve your goals. You are optimistic and full of ideas to share with others. You know what you want and how to get it, and are masterful at engaging with others to achieve your goals. Stay fiercely determined and focused on your goals while being friendly and optimistic with those around you./n The Queen of Wands asks you to be bold in your undertakings and actions. Don’t be afraid to own your real power and put it out into the world. You have so much to offer – so shine your light bright! Believe in yourself and what you stand for, and don't be afraid to speak up and be heard. No one will silence you./n Ever the social butterfly, the Queen of Wands suggests that you lead a busy life, making connections with others and putting yourself out there as you pursue your creative vision. You radiate health and vitality, and your inner vibrancy fills you with energy and inspiration – a natural-born, intelligent leader who actively inspires others. You can be quite the ‘mover and shaker,’ influencing others through your vision, courage and determination. You instil confidence in others, and you give them the power and self-assurance that they can achieve anything they set their mind to./n The Queen of Wands also shows you are expressing yourself fully in your external world and enjoy being the centre of attention. You create a powerful first impression and can quickly win others over with your sweet, warm and charming nature. Now is the perfect time to put yourself out there and meet new people or create a community of like-minded people. They will be drawn in by your energy, passion and enthusiasm, and together you can create positive change in the world./n Finally, the Queen of Wands encourages you to get to know your shadow self, the lesser-known and sometimes darker side of who you really are. This doesn’t necessarily need to be a negative aspect of yourself, but could be something that most people don’t know about you… yet! It may be your dark sense of humour, a secret life from your past, or a passion project you’ve kept hidden away. While you may want to protect this part of yourself, the Queen of Wands encourages you to express this side more openly with others – don’t be afraid to show your shadow now and then. It will enable you to connect with others on a deeper level.",
+        reversed_meaning: "The Queen of Wands reversed shows you have reached a place of self-respect and confidence. You know yourself on a deep level, and you are clear on your personal truth and belief systems. You know what you stand for you and you are not easily moved by the opinions of others. You have also defined what success means to you, even if it differs from others' definitions./n The Queen of Wands reversed can also suggest that you may be more introverted than usual. Instead of being the social butterfly and centre of attention, you prefer to linger on the sidelines and watch what is going on. That’s perfectly okay – honour your needs and feelings and don’t push yourself to be extroverted and ‘out there’ when you don’t want to be. You may also feel called to spend more time alone so you can connect with your inner self and hear your inner voice./n If you have lacked in confidence, the Queen of Wands reversed invites you to bring your energy and attention inward and focus on rebuilding your sense of self and your resilience. You may have handed your power over to others by paying too much attention to their thoughts and opinions. Now, you need to bring your awareness inward, so you can hear yourself and access your personal strengths and talents. Discover who you are and be courageous in expressing ‘you’ in everything you do, even if it is different from what others expect of you.",
+        keywords: ["Courage", "Confidence", "Independence", "Social butterfly", "Determination"],
+        reversed_keywords: ["Self-respect", "Self-confidence", "Introverted", "Re-establish sense of self"],
+        upright_questions: ["How do you celebrate and nurture your creativity?", "What does it mean to be passionate?"],
+        reversed_questions: ["Where do you need to be more courageous?", "How can you encourage others?"],
+        past: "Patience is one of your virtues and it has helped you create comfortable living situations with those around you. You have made wise decisions and this ability to think soundly will help you in the future.",
+        present: "A loving friend will give you helpful advice. This ally may be a woman, but no matter their identity, show gratitude and return the favor.",
+        future: "By following the advice of a close female influence, you will achieve success. Your home life will be fulfilling and without intense conflicts. You and your loved ones will be content with your environment.",
+        yes_no: "The Queen of Wands is a lively, passionate, and independent woman. She suggests a person who is career-oriented and successful. Honest, thoughtful, and confident, the presence of this card shows someone seeking positive self-development, and the answer associate with it is yes.",
+        numerology: "3",
+        element: { element: "Fire", description: "The fire element rules creation and inner spirit. This element responds to how it is handled. When in control, you can use fire as a positive tool; lose that control and it can be destructive and painful. The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Pisces, Aries"
+    },
+    {
+        card_name: "King of Wands",
+        arcana: "Minor Arcana",
+        suit: "Wands",
+        img: "../images/cards/w14.jpg",
+        companion_cards: [],
+        meaning: "The King of Wands represents pure fire energy in its masculine form. Unlike the other Wands court cards, the King is not so interested in creation and creativity, or in dreaming up ideas and implementing them himself. Instead, he is more inclined to take an idea and then enlist others to help him actualize it. Thus, when the King of Wands appears in a Tarot reading, it is a sign you are stepping into the role of a visionary leader, ready to direct your people towards a common goal. You have a clear vision of where you want to go, and now you are manifesting that vision with the support of those around you. Others naturally gravitate towards you because you are charismatic, focused, and determined, and they believe in you and your vision. They want to be a part of what you are manifesting and are here to support you one hundred percent of the way. You are also masterful at getting other people to do your work for you while keeping them on-side throughout the process./n The King of Wands reminds you to lead your life with intent, vision and a long-term view. You have a grand idea of what is truly possible, and you will stop at nothing to see it through. Unlike the Knight who can be a little impulsive with his actions, you have the maturity to see your vision through right to the end and beyond. You achieve a lot because you are clear about your future direction and how you will get there – and do not waste your time on activities or relationships you believe will lead nowhere. You never just go with the flow; instead, you prefer to embark on a direct and robust course of action. And you are inspired by long-term, sustainable success, wanting to have a lasting impact. You are here to leave a legacy./n The appearance of the King of Wands also suggests that an opportunity is presenting itself to you, and you now have the power to take on the challenge. You are the determining factor in this situation. If you want it to be successful, it will. And equally, if you do not fully commit to it, this seed will struggle to blossom and grow. You can create any outcome you wish, so be mindful about your intentions and vision. You hold the power.",
+        reversed_meaning: "The King of Wands reversed suggests that while you are in a leadership position, you are not ready to step into that role. You may be the creative or visionary person in your work, but you have not yet developed a sense of comfort with leading others towards your vision. You may need to work on your leadership skills or enlist the support of someone who has a natural talent at steering others towards a common goal. Alternatively, you may manage others, but are not leading others; you are assigning tasks and monitoring performance, but you are not communicating the vision and engaging your team to take responsibility for bringing the concept to life. You may think you are the only person who can make this vision a reality, even when your team is here to support you./n At times, the reversed King of Wands can be aggressive and even arrogant in the pursuit of his goals. Be mindful that as you strive towards your dream, you are not putting others off-side, dis-empowering them or taking their contributions for granted. You need their support one hundred percent of the way. Also, don’t let success get to your head, thinking you’re above everyone else just because you are the leader. Consider embracing the concept of ‘follower-ship’ – the ability to take direction, be part of a team and deliver on what is expected of you, even as the official leader of the group./n On a personal level, the King of Wands reversed warns you against setting unrealistic expectations for yourself and others. While you are highly ambitious, you may be setting yourself up for failure if you set goals that are significantly out of reach and then pushing hard to reach those unattainable goals. You may also be prone to get swept up in the hype of other people’s goals to ‘10x your sales!’ or ‘create the next billion-dollar business!’ You don’t have to buy into other people’s dreams and visions (and hype). Stay true to what’s important to you and keep focused on your personal vision and direction.",
+        keywords: ["Natural-born leader", "Vision", "Entrepreneur", "Honour"],
+        reversed_keywords: ["Impulsiveness", "Haste", "Ruthless", "High expectations"],
+        upright_questions: ["When have you inspired others?", "What does it mean to be an inspiration?"],
+        reversed_questions: ["How does your passion drive you?", "When do you feel bold?"],
+        past: "The new ideas that you incorporated in the past are going to open up opportunities in the present. The ideas have given you momentum that inspires and encourages others.",
+        present: "You will succeed if you gain help promoting your ideas. There will be increasing inspiration to help others around you.",
+        future: "The future will bring you success in your professional life. Good investments and prudent spending will outweigh the risks you take and the strong conviction you have shown will grant many opportunities.",
+        yes_no: "The King of Wands is a voracious, determined, and confident authority figure. He represents some sort of expansion, establishment of something in your professional life, or financial gain along with success. He is a positive presence, likely to bring along positive outcomes. The answer is yes.",
+        numerology: "2",
+        element: { element: "Fire", description: "The fire element rules creation and inner spirit. This element responds to how it is handled. When in control, you can use fire as a positive tool; lose that control and it can be destructive and painful. The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Cancer, Leo"
+    },
+    {
         card_name: "",
         arcana: "Minor Arcana",
-        suit: "Swords",
-        img: "../images/cards/s02.jpg",
+        suit: "Wands",
+        img: "../images/cards/w02.jpg",
         companion_cards: [],
         meaning: "",
         reversed_meaning: "",
@@ -1017,8 +1297,8 @@ const tarot = [
         future: "",
         yes_no: "",
         numerology: "2",
-        element: { element: "Air", description: "The Air element rules over the intellect and the balancing and opposing nature of thoughts. It is a fast-moving energy that seems invisible, but is always there. This element forces you to look at different perspectives and deal with the challenges in your life."},
-        astrological_associations: "Libra, Aquarius, Gemini"
+        element: { element: "Fire", description: "The fire element rules creation and inner spirit. This element responds to how it is handled. When in control, you can use fire as a positive tool; lose that control and it can be destructive and painful. The element of water represents emotions and relationships. It can be calm and gentle or forceful and dangerous. Like water, emotions ebb and flow and are influenced by their surroundings."},
+        astrological_associations: "Aries, Leo, Sagittarius"
     },
 ]
 
@@ -1029,577 +1309,7 @@ const tarot = [
 
 {
     "description": "tarot cards and basic information about them, as well as references to corresponding scans",
-    "cards": [\
-      {
-        "name": "King of Swords",
-        "number": "14",
-        "arcana": "Minor Arcana",
-        "suit": "Swords",
-        "img": "s14.jpg",
-        "fortune_telling": [
-                  "This card represents an older man with an insightful, deliberate spirit, likely born between May 11th and June 10th, who is known for his integrity and sharp decision-making ability"
-              ], 
-              "keywords": [
-                  "genius", 
-                  "expertise", 
-                  "decision", 
-                  "verdict"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Expressing yourself with firmness and authority", 
-                      "Rendering a final decision", 
-                      "Consulting an expert", 
-                      "Calling in advisors and consultants", 
-                      "Coming to a final conclusion", 
-                      "Reaching a beneficial agreement based on sound information"
-                  ], 
-                  "shadow": [
-                      "Insisting on having the last word", 
-                      "Flaunting your intellectual capability", 
-                      "Talking \"over the heads\" of others", 
-                      "Waffling on an important decision", 
-                      "Constantly changing your mind", 
-                      "Refusing to make choices that are in your own best interest", 
-                      "Wishing in vain you could take back what's been said"
-                  ]
-              },
-          "Elemental" : "Fire of Air.",
-        "Affirmation" : "\"My word is my bond.\"",
-        "Questions to Ask" : ["What would your decision be if you had to render a binding verdict right now?","How comfortable are you saying exactly what you mean? How often do you temper what you have to say for fear of offending others?","If you were to ask others, \"What's my area of expertise?\" what would they say?"]
-      },
-      {
-        "name": "Ace of Wands",
-        "number": "1",
-        "arcana": "Minor Arcana",
-        "suit": "Wands",
-        "img": "w01.jpg",
-        "fortune_telling": [
-                  "Someone has the \"hots\" for you", 
-                  "A new job offer is coming your way", 
-                  "Walk softly, and carry a big stick"
-              ], 
-              "keywords": [
-                  "desire", 
-                  "inspiration", 
-                  "vision", 
-                  "creation", 
-                  "invention"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Being inspired", 
-                      "Identifying an important goal", 
-                      "Being given the opportunity to do whatever you want to do", 
-                      "Giving or receiving direction", 
-                      "Seeing a solution", 
-                      "Creating something new", 
-                      "Being aroused, sexually or creatively"
-                  ], 
-                  "shadow": [
-                      "Failing to take advantage of a great opportunity", 
-                      "Being ineffectual or lazy", 
-                      "Making an inadequate effort", 
-                      "Working toward a goal, but lacking the resources or initiative to achieve success", 
-                      "Setting inappropriate goals", 
-                      "Failing to take a stand"
-                  ]
-              },
-          "Numerology" : "1 (The Origin: the starting point, the seed, opportunity)",
-        "Astrology" : "Aries, Leo, Sagittarius",
-        "Affirmation" : "\"I jump at the opportunity to pursue my heart's desire.\"",
-        "Questions to Ask" : ["What do I really want, more than anything else?","What happens if I let this opportunity pass me by?","How clearly have I defined my directions, values, and goals?"]
-      },
-      {
-        "name": "Two of Wands",
-        "number": "2",
-        "arcana": "Minor Arcana",
-        "suit": "Wands",
-        "img": "w02.jpg",
-        "fortune_telling": [
-                  "Beware false friends", 
-                  "Don't be mealy-mouthed; say what you think and do what you want to do"
-              ], 
-              "keywords": [
-                  "conflict", 
-                  "decision", 
-                  "option", 
-                  "individuality"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Having a choice", 
-                      "Offering or being offered an option", 
-                      "Seeing the value of another person's approach", 
-                      "Understanding there's more than one way to \"skin a cat\"",
-                      "Successfully doing more than one thing at a time", 
-                      "Being empowered to make a choice"
-                  ], 
-                  "shadow": [
-                      "Misrepresenting your intentions", 
-                      "Doing one thing while desiring another", 
-                      "Changing course mid-stream for no good reason", 
-                      "Refusing to change your goal even when pursuing it no longer makes sense", 
-                      "Disregarding the input of others"
-                  ]
-              },
-      "Numerology" : "2 (The Other: division, debate, duality)",
-        "Astrology" : "Mars in Aries",
-        "Affirmation" : "\"With my goals in mind, I make confident choices.\"",
-        "Questions to Ask" : ["In a conflict, how do you decide who wins?","What values govern your decision-making process?","What choice will you make if you make no choice at all?"]
-      },
-      {
-        "name": "Three of Wands",
-        "number": "3",
-        "arcana": "Minor Arcana",
-        "suit": "Wands",
-        "img": "w03.jpg",
-        "fortune_telling": [
-                  "You'll be planning a trip soon", 
-                  "Be on the lookout: your ship is coming in"
-              ], 
-              "keywords": [
-                  "implementation", 
-                  "action", 
-                  "exploration"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Putting a plan into motion", 
-                      "Taking that critical first step", 
-                      "Making good things happen", 
-                      "Going beyond your limits", 
-                      "Blazing new trails", 
-                      "Hitting the ground running", 
-                      "Seeing your plans come to fruition"
-                  ], 
-                  "shadow": [
-                      "Procrastinating", 
-                      "Knowing what to do, but refusing to do it", 
-                      "Launching a project without a clear definition of who should do what", 
-                      "Rejecting an opportunity to try something new", 
-                      "Failing to finish what you start"
-                  ]
-              },
-          "Numerology" : "3 (The Result: expression, productivity, output)",
-        "Astrology" : "Sun in Aries",
-        "Affirmation" : "\"I take the steps necessary to put my plans in action.\"",
-        "Questions to Ask" : ["How can you make a habit of breaking your habits?","How can you be a decisive leader in this circumstance?","What's your action plan for the next week, month, year, or decade?"]
-      },
-      {
-        "name": "Four of Wands",
-        "number": "4",
-        "arcana": "Minor Arcana",
-        "suit": "Wands",
-        "img": "w04.jpg",
-        "fortune_telling": [
-                  "Someone is watching and evaluating your work", 
-                  "You may get a wedding invitation soon"
-              ], 
-              "keywords": [
-                  "celebration", 
-                  "jubilation", 
-                  "community", 
-                  "teamwork", 
-                  "completion"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Sharing in a great celebration", 
-                      "Sharing in a communal sense of achievement and success", 
-                      "Preparing for a party", 
-                      "Working together toward a common goal", 
-                      "Giving or winning awards"
-                  ], 
-                  "shadow": [
-                      "Keeping your nose to the grindstone", 
-                      "Recognizing good work by demanding more work", 
-                      "Failing to share in a group celebration", 
-                      "Allowing sour grapes to poison your moment in the sun", 
-                      "Refusing to do your part"
-                  ]
-              },
-          "Numerology" : "4 (The Status Quo: stability, equality, persistence)",
-        "Astrology" : "Venus in Aries",
-        "Affirmation" : "\"My contributions are worthy of celebration.\"",
-        "Questions to Ask" : ["To what extent am I doing my part?","What kind of recognition would be most meaningful?","How might a celebration now impact community morale?"]
-      },
-      {
-        "name": "Five of Wands",
-        "number": "5",
-        "arcana": "Minor Arcana",
-        "suit": "Wands",
-        "img": "w05.jpg",
-        "fortune_telling": [
-                  "Prepare for a fight with your best friend", 
-                  "Remember: once you let words loose, you can't take them back"
-              ], 
-              "keywords": [
-                  "confrontation", 
-                  "disruption", 
-                  "distinction", 
-                  "objection", 
-                  "strife"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Calmly expressing a dissenting opinion", 
-                      "Allowing someone to use his or her own methods to get a job done", 
-                      "Opening the floor for discussion or debate", 
-                      "Comparing progress made so far to standards set earlier"
-                  ], 
-                  "shadow": [
-                      "Berating others for their ridiculous opinions", 
-                      "Picking fights", 
-                      "Offering destructive criticism", 
-                      "Baiting people with barbed remarks", 
-                      "Disrupting progress with an endless stream of pointless objections"
-                  ]
-              },
-          "Numerology" : "5 (The Catalyst: instability, resistance, confrontation)",
-        "Astrology" : "Saturn in Leo",
-        "Affirmation" : "\"I can express dissent in constructive ways.\"",
-        "Questions to Ask" : ["To what extent is your current issue worth fighting for?","What alternatives are there to outright conflict?","What happens in a \"fair fight?\" How can you keep this fight fair?"]
-      },
-      {
-        "name": "Six of Wands",
-        "number": "6",
-        "arcana": "Minor Arcana",
-        "suit": "Wands",
-        "img": "w06.jpg",
-        "fortune_telling": [
-                  "Someone is planning a party for you, but not everyone feels so good about your recent success", 
-                  "Watch out for envious friends"
-              ], 
-              "keywords": [
-                  "victory", 
-                  "achievement", 
-                  "success", 
-                  "triumph"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Outperforming your peers", 
-                      "Winning a competition", 
-                      "Being recognized as a capable person", 
-                      "Having your \"moment in the spotlight\"",
-                      "Being cheered on by the crowd", 
-                      "Getting an award", 
-                      "Earning the admiration of others", 
-                      "Telling someone, \"Good job!\""
-                  ], 
-                  "shadow": [
-                      "Being a bad winner", 
-                      "Allowing your achievements to inflate your ego", 
-                      "Looking down on people who seem less capable", 
-                      "Craving to be the center of attention", 
-                      "Giving or receiving insincere praise", 
-                      "Envying the achievements of others"
-                  ]
-              },
-          "Numerology" : "6 (The Adjustment: cooperation, collaboration, interaction)",
-        "Astrology" : "Jupiter in Leo",
-        "Affirmation" : "\"I value sincere praise.\"",
-         "Questions to Ask" : ["What kind of recognition do I crave? Why?","How freely do I praise the achievements of others?","What happens when the parade is over?"]
-      },
-      {
-        "name": "Seven of Wands",
-        "number": "7",
-        "arcana": "Minor Arcana",
-        "suit": "Wands",
-        "img": "w07.jpg",
-        "fortune_telling": [
-                  "Don't be surprised by a personal attack", 
-                  "Prepare to defend yourself or someone you love"
-              ], 
-              "keywords": [
-                  "bravery", 
-                  "resolve", 
-                  "determination"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Refusing to be silenced through fear or intimidation", 
-                      "Continuing a fight against all odds", 
-                      "Being fierce", 
-                      "Defending yourself against physical and emotional attacks", 
-                      "Refusing to put up with abuse", 
-                      "Clinging to your values despite all pressure to abandon them"
-                  ], 
-                  "shadow": [
-                      "Having a chip on your shoulder", 
-                      "Taking unnecessary risks as a means of proving your fearlessness", 
-                      "Looking for an opportunity to take offense", 
-                      "Responding to constructive criticism with defensiveness", 
-                      "Refusing to stand up for yourself and your beliefs"
-                  ]
-              },
-          "Numerology" : "7 (The Motive: imagination, inner work, psychology)",
-        "Astrology" : "Mars in Leo",
-        "Affirmation" : "\"I am willing to take a stand for what I believe in.\"",
-        "Questions to Ask" : ["When do you feel most threatened? When do you get defensive?","How capable are you of defending yourself?","What kinds of beliefs are worth defending?"]
-      },
-      {
-        "name": "Eight of Wands",
-        "number": "8",
-        "arcana": "Minor Arcana",
-        "suit": "Wands",
-        "img": "w08.jpg",
-        "fortune_telling": [
-                  "Watch for a surprising letter in the mail", 
-                  "Your whole world is about to be turned on its ear"
-              ], 
-              "keywords": [
-                  "speed", 
-                  "swiftness", 
-                  "responsiveness", 
-                  "change"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Taking swift action", 
-                      "Moving forward with a plan as quickly as possible", 
-                      "Energizing yourself", 
-                      "Adapting to sudden changes", 
-                      "Taking setbacks in stride", 
-                      "Embracing the idea that nothing stays the same forever", 
-                      "Reacting quickly and appropriately to unforeseen problems"
-                  ], 
-                  "shadow": [
-                      "Giving in to panic", 
-                      "Running in circles and screaming", 
-                      "Insisting things must always stay the same", 
-                      "Stirring the pot just to see what will happen", 
-                      "Rushing others", 
-                      "Refusing to re-evaluate a schedule or program, even when it's clearly no longer appropriate"
-                  ]
-              },
-          "Numerology" : "8 (The Action: movement, outer work, swiftness)",
-        "Astrology" : "Mercury in Sagittarius",
-        "Affirmation" : "\"I adapt quickly to change.\"",
-        "Questions to Ask" : ["How quickly to you adapt to change?","What would your response be to overwhelming, sudden change?","What changes are on your horizon? How well have you prepared for them?"]
-      },
-      {
-        "name": "Nine of Wands",
-        "number": "9",
-        "arcana": "Minor Arcana",
-        "suit": "Wands",
-        "img": "w09.jpg",
-        "fortune_telling": [
-                  "Don't relax yet; there's more to come", 
-                  "The test you're facing now is happening for one reason: to show you who your real friends are"
-              ], 
-              "keywords": [
-                  "toughness", 
-                  "persistence", 
-                  "stamina", 
-                  "loyalty", 
-                  "release"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Sticking with it for the duration", 
-                      "Fulfilling your promises and obligations", 
-                      "Bearing up under incredible duress", 
-                      "Dragging yourself across the finish line", 
-                      "Picking yourself up by your own bootstraps", 
-                      "Refusing to quit", 
-                      "Going as far as you can go and being satisfied with your performance"
-                  ], 
-                  "shadow": [
-                      "Making yourself a martyr", 
-                      "Abandoning your post", 
-                      "Giving up at the first sign of opposition", 
-                      "Being prevented from fulfilling an obligation", 
-                      "Failing to be dependable", 
-                      "Refusing to let something go that needs to be released", 
-                      "Beating a dead horse"
-                  ]
-              },
-          "Numerology" : "9 (The Completion: fullness, readiness, ripeness)",
-        "Astrology" : "Moon in Sagittarius",
-        "Affirmation" : "\"When the going gets tough, I stay the course.\"",
-        "Questions to Ask" : ["How do you cope when things get really tough?","When you get low, what encourages you to go on?","At what point should you be able to let this situation go?"]
-      },
-      {
-        "name": "Ten of Wands",
-        "number": "10",
-        "arcana": "Minor Arcana",
-        "suit": "Wands",
-        "img": "w10.jpg",
-        "fortune_telling": [
-                  "You're worn out",
-                  "Back off, take a time out, and let someone else handle things for a while"
-              ], 
-              "keywords": [
-                  "exhaustion", 
-                  "resistance", 
-                  "burden", 
-                  "oppression"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Holding your own in extreme circumstances", 
-                      "Helping others carry their burdens", 
-                      "Coming to the aid of the oppressed", 
-                      "Knowing and being honest about your own limits", 
-                      "Recognizing when you are not well-suited for a particular task"
-                  ], 
-                  "shadow": [
-                      "Taking on more work than you know you can handle", 
-                      "Refusing to say \"No\" when you're already overloaded", 
-                      "Making a habit of working overtime", 
-                      "Shielding others from facing the consequences of their own poor judgment", 
-                      "Over-extending yourself on a regular basis"
-                  ]
-              },
-          "Numerology" : "10 (The End: finality, completion, exhaustion)",
-        "Astrology" : "Saturn in Sagittarius",
-        "Affirmation" : "\"I respect my own limits.\"",
-        "Questions to Ask" : ["How will you know when you reach the end of your rope?","How easily do you say no to new projects and requests?","What projects could you delegate...or eliminate?"]
-      },
-      {
-        "name": "Page of Wands",
-        "number": "11",
-        "arcana": "Minor Arcana",
-        "suit": "Wands",
-        "img": "w11.jpg",
-        "fortune_telling": [
-                  "This card represents a young man or woman with a fiery, enthusiastic demeanor, likely born a Cancer, Leo, or Virgo, who wants to start a new relationship with you"
-              ], 
-              "keywords": [
-                  "enthusiasm", 
-                  "eagerness", 
-                  "confidence", 
-                  "validation", 
-                  "affirmation"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Leaping at a new opportunity", 
-                      "Being a cheerleader or ardent advocate for your cause", 
-                      "Being a True Believer", 
-                      "Taking first steps toward independence", 
-                      "Trusting in your own abilities", 
-                      "Asking for feedback"
-                  ], 
-                  "shadow": [
-                      "Basing your entire self-image on what others think", 
-                      "Seizing every new idea that comes your way without question", 
-                      "Habitually discounting input or feedback from others", 
-                      "Being so eager to \"do it yourself\" that you hinder your own progress"
-                  ]
-              },
-      "Elemental" : "Earth of Fire.",
-        "Affirmation" : "\"I can do this.\"",
-        "Questions to Ask" : ["How easily do you admit your own inexperience?","How can you be a better student or employee?","What qualities would make a total beginner's voyage of discovery easier?"]
-      },
-      {
-        "name": "Knight of Wands",
-        "number": "12",
-        "arcana": "Minor Arcana",
-        "suit": "Wands",
-        "img": "w12.jpg",
-        "fortune_telling": [
-                  "This card represents a man with a bold, passionate personality, likely born between July 12th and August 11th, who wants to sweep you off your feet"
-              ], 
-              "keywords": [
-                  "boldness", 
-                  "bravado", 
-                  "passion", 
-                  "persuasion", 
-                  "advocacy"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Charging ahead", 
-                      "Making rapid progress", 
-                      "Refusing limits", 
-                      "Dazzling those around you with your wit and charm", 
-                      "Convincing others of your right to leadership", 
-                      "Convincing others to follow you", 
-                      "Being a catalyst for change"
-                  ], 
-                  "shadow": [
-                      "Blundering forward with inadequate skill or information", 
-                      "Running roughshod over the feelings of others", 
-                      "Using sex appeal to manipulate others", 
-                      "Forcing your leadership or ideology on others", 
-                      "Beginning many projects without finishing any"
-                  ]
-              },
-          "Elemental" : "Air of Fire.",
-        "Affirmation" : "\"I can lead the way to success.\"",
-        "Questions to Ask" : ["To what extent have you defined your ultimate goal?","What's the fastest way to get the job done? Is this necessarily the best way?","How long has it been since you looked back to see if others really are following your lead?"]
-      },
-      {
-        "name": "Queen of Wands",
-        "number": "13",
-        "arcana": "Minor Arcana",
-        "suit": "Wands",
-        "img": "w13.jpg",
-        "fortune_telling": [
-                  "This card represents a woman with an attractive, appealing personality, likely born between March 11th and April 20th, who wants to charm you into doing things her way"
-              ], 
-              "keywords": [
-                  "attention", 
-                  "attraction", 
-                  "unification", 
-                  "collaboration"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Paying close attention", 
-                      "Helping others focus on the issue at hand", 
-                      "Getting everyone to work together", 
-                      "Identifying common ground", 
-                      "Bringing people together, despite their differences", 
-                      "Using reverse psychology"
-                  ], 
-                  "shadow": [
-                      "Being distracted, or using your charms or skills to distract others from the goal", 
-                      "Calling attention to yourself with negative or unhealthy behaviors", 
-                      "Disrupting group activities as a means of feeding your own ego"
-                  ]
-              },
-          "Elemental" : "Water of Fire.",
-        "Affirmation" : "\"I use my influence to promote unity.\"",
-        "Questions to Ask" : ["How attentive am I?","How can I draw people's attention to what we have in common?","To what extent am I able to convince people to do what I want them to do?"]
-      },
-      {
-        "name": "King of Wands",
-        "number": "14",
-        "arcana": "Minor Arcana",
-        "suit": "Wands",
-        "img": "w14.jpg",
-        "fortune_telling": [
-                  "This card represents an older man with a commanding, charismatic personality, likely born between November 13th and December 12th, who prefers to give directions and have them followed"
-              ], 
-              "keywords": [
-                  "creativity", 
-                  "ingenuity", 
-                  "achievement", 
-                  "direction"
-              ], 
-              "meanings": {
-                  "light": [
-                      "Putting old things together in new and exciting ways", 
-                      "Coming up with unexpected solutions", 
-                      "Using your experience to solve puzzles and problems", 
-                      "Doing what you set out to do", 
-                      "Directing the efforts of others"
-                  ], 
-                  "shadow": [
-                      "Using your creativity to get out of honest work", 
-                      "Investing great energy in avoiding responsibility", 
-                      "Boasting about achievements without putting your expertise to practical use", 
-                      "Lording it over others"
-                  ]
-              },
-          "Elemental" : "Fire of Fire",
-        "Affirmation" : "\"I use my authority and experience to get things done faster.\"",
-        "Questions to Ask" : ["How confident a leader am I?","How can I project more confidence?","How can I offer my expertise in ways that inspire others to follow me?"]
-      },
+    "cards": [
       {
         "name": "Ace of Pentacles",
         "number": "1",
